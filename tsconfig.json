@@ -2,8 +2,14 @@
   "compilerOptions": {
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
-    "target": "ES2022"
+    "target": "ES2022",
+    "noEmit": true,
+    "allowImportingTsExtensions": true
   },
-  "include": ["docs/.vuepress/**/*.ts", "docs/.vuepress/**/*.vue"],
+  "include": [
+    "docs/.vuepress/**/*.ts",
+    "docs/.vuepress/**/*.vue",
+    "docs/.vuepress/components/SocialLink.js"
+  ],
   "exclude": ["node_modules"]
 }

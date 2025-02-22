@@ -34,7 +34,7 @@ export default navbar([
     text: "生活",
     icon: "fa6-solid:bed-pulse",
     prefix: "/family/",
-    children: ["Diet", "Coupon"],
+    children: ["Diet", "Coupon", "Life"],
   },
   {
     text: "工具",
@@ -45,8 +45,16 @@ export default navbar([
         icon: "fa6-solid:bolt",
         link: "https://www.aishort.top/",
       },
-      { text: "IMGPrompt", icon: "fa6-solid:image", link: "https://prompt.newzone.top/" },
-      { text: "多语言翻译", icon: "fa6-solid:language", link: "https://tools.newzone.top/json-translate" },
+      {
+        text: "IMGPrompt",
+        icon: "fa6-solid:image",
+        link: "https://prompt.newzone.top/",
+      },
+      {
+        text: "多语言翻译",
+        icon: "fa6-solid:language",
+        link: "https://tools.newzone.top/json-translate",
+      },
       {
         text: "工具收藏",
         icon: "fa6-solid:bars",
