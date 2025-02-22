@@ -1,28 +1,28 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "LearnData 开源笔记",
-  "home_page_url": "https://newzone.top/",
-  "feed_url": "https://newzone.top/feed.json",
-  "description": "开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。",
-  "favicon": "https://newzone.top/favicon.ico",
+  "title": "Victor的小世界",
+  "home_page_url": "https://github.com/robin-fc/robin-fc.github.io/",
+  "feed_url": "https://github.com/robin-fc/robin-fc.github.io/feed.json",
+  "description": "记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿",
+  "favicon": "https://github.com/robin-fc/robin-fc.github.io/logo.svg",
   "items": [
     {
-      "title": "博客文章样例 2",
-      "url": "https://newzone.top/posts/2024-03-02-blog_example2.html",
-      "id": "https://newzone.top/posts/2024-03-02-blog_example2.html",
-      "summary": "博客文章内容，支持 Markdown 和 HTML 语言。",
-      "content_html": "<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>\n",
-      "date_published": "2024-03-02T00:00:00.000Z",
+      "title": "加密 1",
+      "url": "https://github.com/robin-fc/robin-fc.github.io/encrypt/encrypt01.html",
+      "id": "https://github.com/robin-fc/robin-fc.github.io/encrypt/encrypt01.html",
+      "summary": "加密内容，支持 Markdown 和 HTML 语言。",
+      "content_html": "<p>加密内容，支持 Markdown 和 HTML 语言。</p>\n",
+      "date_published": "2025-01-24T00:00:00.000Z",
       "date_modified": "2025-02-22T08:07:40.000Z",
       "authors": [],
       "tags": [
-        "工具"
+        "使用指南"
       ]
     },
     {
       "title": "博客文章样例",
-      "url": "https://newzone.top/posts/2024-03-01-blog_example.html",
-      "id": "https://newzone.top/posts/2024-03-01-blog_example.html",
+      "url": "https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html",
+      "id": "https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html",
       "summary": "博客文章内容，支持 Markdown 和 HTML 语言。",
       "content_html": "<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>\n",
       "date_published": "2024-03-01T00:00:00.000Z",
