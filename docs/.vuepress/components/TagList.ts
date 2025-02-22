@@ -33,17 +33,3 @@ export default defineComponent({
       ]);
   },
 });
-
-// 添加样式
-const styles = `
-.vp-tags {
-  flex:1;
-  display: flex;
-  flex-wrap: wrap;
-}
-`;
-
-// 将样式插入到页面
-const styleElement = document.createElement("style");
-styleElement.textContent = styles;
-document.head.appendChild(styleElement);

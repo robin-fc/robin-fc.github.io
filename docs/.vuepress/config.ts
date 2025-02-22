@@ -1,6 +1,6 @@
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { defineUserConfig } from "vuepress";
-import { markdownTabPlugin } from "@vuepress/plugin-markdown-tab";
+// import { markdownTabPlugin } from "@vuepress/plugin-markdown-tab";
 // import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 import theme from "./theme.js";
 
@@ -34,12 +34,12 @@ export default defineUserConfig({
   ],
 
   plugins: [
-    markdownTabPlugin({
-      // 启用代码选项卡
-      codeTabs: true,
-      // 启用选项卡
-      tabs: true,
-    }),
+    // markdownTabPlugin({
+    //   // 启用代码选项卡
+    //   codeTabs: true,
+    //   // 启用选项卡
+    //   tabs: true,
+    // }),
     // 谷歌分析
     // googleAnalyticsPlugin({
     //   // 设置你的 Analytics ID

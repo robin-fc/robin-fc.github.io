@@ -3,7 +3,7 @@
 home: true
 layout: BlogHome
 icon: fa6-solid:house-crack
-title: 
+# title: 
 #heroImage: /logo.svg
 heroText: 向前走，莫回头
 # tagline: 
