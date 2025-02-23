@@ -6,9 +6,6 @@
 **/.vuepress/dist/**
 **/.vuepress/templateBuild.html
 
-# live2d
-docs/.vuepress/public/live2d-widget/**
-
 # Node modules
 node_modules/
 

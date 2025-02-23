@@ -100,17 +100,6 @@ docs
 - `docs/_temp` 文件夹默认不同步到 GitHub 上。你可以手动在本地建立 `_temp` 文件夹，用来存放草稿。
 - 自 VuePress2 的 beta.54 版本开始，文件夹名前缀为 `_` 在生成链接时将被省略，例如文章路径为 `/_posts/`，但网页链接路径会是 `/posts/`。
 
-### 看板娘
-
-LearnData 集成了看板娘 [Live2D Widget](https://github.com/stevenjoezhang/live2d-widget)，支持随机对话、切换人物服饰和玩打飞机游戏，能提升网站美观度和趣味性。如果不需要看板娘，可以删除 `docs\.vuepress\public` 下的 live2d-widget 文件夹。
-
-如果网站部署在子页面 `https://xxx.github.io/yyy`，则需将子页面路径 yyy 加入到以下两个文件：
-
-- 将 `docs/.vuepress/public/live2d-widget/autoload.js` 文件第三行的 `const live2d_path = "/live2d-widget/"` 修改为 `const live2d_path = "/yyy/live2d-widget/"`。
-- 将 `docs/.vuepress/templateBuild.html` 文件中看板娘区块代码 `<script src="/live2d-widget/autoload.js">` 修改为 `<script src="/yyy/live2d-widget/autoload.js">`。
-
-如需调整看板娘模型，请参照 `docs/.vuepress/public/live2d-widget` 目录下的 README 和修改说明。若在服务器上自建 [live2d api](https://github.com/fghrsh/live2d_api)，请注意添加跨域配置，以避免仅显示文本而没有看板娘图片的情况。或者，可以使用我提供的看板娘 CDN，修改 `docs/.vuepress/public/live2d-widget/autoload.js` 中 initWidget 的 cdnPath，将 `cdnPath: live2d_path + "live2d_api/"` 更改为 `cdnPath: "https://live2d-api.aishort.top/"`。
-
 ### 读书笔记
 
 由于读书笔记中可能包含大量原文引用，这与 LearnData 精简化知识点的初衷不符。我们选择使用 docsify 来构建读书笔记，这样读书笔记将与 LearnData 页面互不干扰，形成两个独立的搜索系统。
