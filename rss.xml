@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://github.com/robin-fc/robin-fc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Victor的小世界</title>
+    <title>FC的博客</title>
     <link>https://github.com/robin-fc/robin-fc.github.io/</link>
     <description>记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Feb 2025 13:47:33 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Feb 2025 13:47:33 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Feb 2025 15:02:23 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Feb 2025 15:02:23 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
