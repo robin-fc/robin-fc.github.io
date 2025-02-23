@@ -11,7 +11,7 @@ export default defineUserConfig({
   // 网站语言，默认为中文
   lang: "zh-CN",
   // 网站标题
-  title: "Victor的小世界",
+  title: "FC的博客",
   // 网站描述
   description:
     "记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿",
@@ -34,12 +34,6 @@ export default defineUserConfig({
   ],
 
   plugins: [
-    // markdownTabPlugin({
-    //   // 启用代码选项卡
-    //   codeTabs: true,
-    //   // 启用选项卡
-    //   tabs: true,
-    // }),
     // 谷歌分析
     // googleAnalyticsPlugin({
     //   // 设置你的 Analytics ID

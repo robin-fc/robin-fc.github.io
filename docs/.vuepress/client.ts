@@ -1,5 +1,5 @@
-import SocialLink from "./components/SocialLink.ts";
 import { defineClientConfig } from "vuepress/client";
+import SocialLink from "./components/SocialLink.ts";
 import TagList from "./components/TagList.ts";
 import Tag from "./components/Tag.ts";
 

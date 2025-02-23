@@ -70,7 +70,7 @@ export default hopeTheme(
     // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
     blog: {
       articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-      name: "Victor",
+      name: "FC",
       avatar: "/avatar.png",
       // description: "",
       medias: {
