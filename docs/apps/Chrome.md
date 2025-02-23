@@ -85,8 +85,6 @@ order: 3
 
 - [沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)：免费的双语对照网页翻译，[彩云小译](https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh) 的替代品。
 
-- ~~SuperCopy：一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，启用复制，启用右键，启用选择，启用粘贴。~~ 据 [@sloanlance](https://github.com/rockbenben/LearnData/commit/de155c0fd2cca8e87319b7d659dab12efd56d79a#r139226783) 提醒，SuperCopy 可能涉及按键记录和快捷键干扰，建议不使用。
-
 ## 实用工具
 
 - [Tango](https://chrome.google.com/webstore/detail/tango/lggdbpblkekjjbobadliahffoaobaknh/)：将页面操作转化为逐步指导的流程指南。每一步都自动植入截图，并可以通过链接、HTML、Markdown 来分享。

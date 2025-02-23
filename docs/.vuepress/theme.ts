@@ -150,15 +150,6 @@ export default hopeTheme(
         },
       },
       */
-
-      // Giscus
-      //   provider: "Giscus",
-      //   repo: "rockbenben/giscus-comment",
-      //   repoId: "R_kgDOM_MPJA",
-      //   category: "Comments",
-      //   categoryId: "DIC_kwDOM_MPJM4CjS0P",
-      // },
-
       // 组件库
       components: {
         components: ["Badge", "BiliBili", "VidStack"],
