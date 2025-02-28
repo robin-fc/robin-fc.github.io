@@ -5,75 +5,101 @@ import { navbar } from "vuepress-theme-hope";
 // 专题话题的路径需在尾部添加 /，否则有可能出现链接错误。比如下方「生活」中的 baby/
 export default navbar([
   { text: "主页", icon: "fa6-solid:blog", link: "" },
-  // {
-  //   text: "应用",
-  //   icon: "fa6-solid:bars-staggered",
-  //   prefix: "/",
-  //   children: [
-  //     "apps/Applist",
-  //     {
-  //       text: "常用扩展",
-  //       icon: "fa6-brands:chrome",
-  //       link: "apps/Chrome",
-  //     },
-  // {
-  //   text: "服务/专题",
-  //   icon: "",
-  //   prefix: "",
-  //   children: [
-  //     {
-  //       text: "专题示例",
-  //       icon: "fa6-solid:dice-d20",
-  //       link: "apps/topic/",
-  //     },
-  //   ],
-  // },
-  //   ],
-  // },
-  // {
-  //   text: "生活",
-  //   icon: "fa6-solid:bed-pulse",
-  //   prefix: "/family/",
-  //   children: ["Life"],
-  // },
   {
     text: "FC的世界",
-    icon: "discover",
-    prefix: "/",
+    icon: "fa6-solid:face-smile",
+    link: "/profile.md",
+  },
+  {
+    text: "学习计划",
+    prefix: "/计划",
+    icon: "fa6-solid:calendar",
     children: [
-      { text: "关于FC", icon: "fa6-solid:bed-pulse", link: "/profile.md" },
-      { text: "生活经验", icon: "fa6-solid:bed-pulse", link: "/life-tips/" },
       {
-        text: "生活体验",
-        icon: "fa6-solid:bed-pulse",
-        prefix: "/life/",
+        text: "产品",
+        prefix: "/产品/",
         children: [
-          { text: "无锡", icon: "fa6-solid:bed-pulse", link: "/无锡.md" },
-          { text: "上海", icon: "fa6-solid:bed-pulse", link: "/上海.md" },
-          { text: "苏州", icon: "fa6-solid:bed-pulse", link: "/苏州.md" },
-          { text: "武汉", icon: "fa6-solid:bed-pulse", link: "/武汉.md" },
-          { text: "大理", icon: "fa6-solid:bed-pulse", link: "/大理.md" },
-          { text: "成都", icon: "fa6-solid:bed-pulse", link: "/成都.md" },
+          {
+            text: "如何成为一个好的产品",
+            link: "如何成为一个好的产品",
+          },
         ],
       },
       {
-        text: "关于厨师",
-        icon: "fa6-solid:bed-pulse",
-        prefix: "/cook/",
+        text: "算法",
+        prefix: "/计划/算法/",
+        children: [
+          {
+            text: "概述",
+            link: "README.md",
+          },
+        ],
+      },
+      {
+        text: "大前端",
+        prefix: "/计划/大前端/",
+        children: [
+          {
+            text: "概述",
+            link: "README.md",
+          },
+        ],
+      },
+      {
+        text: "面试",
+        prefix: "/计划/面试/",
+        children: [
+          {
+            text: "Web前端面试",
+            link: "Web前端面试.md",
+          },
+        ],
+      },
+      {
+        text: "项目",
+        prefix: "/项目",
+        children: [
+          {
+            text: "基于autoGen的一些自动化尝试",
+            link: "基于autoGen的一些自动化尝试",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    text: "工作",
+    icon: "fa6-solid:pen",
+    link: "/工作/README.md",
+  },
+  {
+    text: "生活",
+    icon: "fa6-solid:strawberry",
+    prefix: "/生活",
+    children: [
+      {
+        text: "生活妙招",
+        link: "生活妙招",
+      },
+      {
+        text: "省钱技巧",
+        link: "省钱技巧",
+      },
+      {
+        text: "悟饭",
+        icon: "fa6-solid:grill-hot",
+        prefix: "/悟饭",
         children: [
           {
             text: "FC家的菜谱",
-            icon: "fa6-solid:bed-pulse",
             link: "FC家的菜谱.md",
           },
           {
             text: "FC家的甜品",
-            icon: "fa6-solid:bed-pulse",
             link: "FC家的甜品.md",
           },
           {
             text: "FC家的饮料",
-            icon: "fa6-solid:bed-pulse",
             link: "FC家的饮料.md",
           },
         ],
@@ -81,56 +107,37 @@ export default navbar([
     ],
   },
   {
-    text: "项目",
-    icon: "fa6-solid:bed-pulse",
-    prefix: "/项目相关",
+    text: "行路",
+    icon: "fa6-solid:eye",
+    prefix: "/行路",
     children: [
       {
-        text: "个人主页及博客",
-        icon: "fa6-solid:bed-pulse",
-        link: "个人主页及博客",
+        text: "无锡",
+        link: "无锡",
       },
       {
-        text: "AI项目相关",
-        icon: "fa6-solid:bed-pulse",
-        link: "AI项目/我用AI做些什么",
-      },
-    ],
-  },
-  {
-    text: "技术",
-    icon: "fa6-solid:bed-pulse",
-    prefix: "/关于技术",
-    children: [
-      {
-        text: "题解",
-        icon: "fa6-solid:bed-pulse",
-        prefix: "/LeetCode题解",
-        children: [
-          {
-            text: "LeetCode题解",
-            icon: "fa6-solid:bed-pulse",
-            link: "/LeetCode题解",
-          },
-        ],
+        text: "上海",
+        link: "上海",
       },
       {
-        text: "算法",
-        icon: "fa6-solid:bed-pulse",
-        prefix: "/算法",
-        children: [
-          { text: "图论整理", icon: "fa6-solid:bed-pulse", link: "/图论整理" },
-        ],
+        text: "大理",
+        link: "大理",
       },
       {
-        text: "前端",
-        icon: "fa6-solid:bed-pulse",
-        prefix: "/前端",
-        children: [
-          { text: "前端基础", icon: "fa6-solid:bed-pulse", link: "/前端基础" },
-          { text: "常用框架", icon: "fa6-solid:bed-pulse", link: "/常用框架" },
-          { text: "UI 相关", icon: "fa6-solid:bed-pulse", link: "/UI 相关" },
-        ],
+        text: "成都",
+        link: "成都",
+      },
+      {
+        text: "武汉",
+        link: "武汉",
+      },
+      {
+        text: "湖北",
+        link: "湖北",
+      },
+      {
+        text: "苏州",
+        link: "苏州",
       },
     ],
   },

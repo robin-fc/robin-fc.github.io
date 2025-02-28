@@ -20,7 +20,7 @@ export default hopeTheme(
     // copyright 默认为 Copyright © <作者>
     copyright: `
   版权声明：自由转载 - 非商用 - 非衍生 - 保持署名<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">（创意共享 4.0 许可证）</a>|
-  Copyright © 2025-present LearbData</a>
+  Copyright © 2025-present LearnData</a>
   `,
     displayFooter: true,
     // 页脚，支持使用 HTMLString 以显示备案信息等
@@ -54,10 +54,10 @@ export default hopeTheme(
     navbarLayout: {
       start: ["Brand"],
       center: ["Links"],
-      end: ["SocialLink", "Repo", "Outlook", "Search"],
+      end: ["SocialLink", "Repo", "Outlook", "Language", "Search"],
     },
     // 是否在向下滚动时自动隐藏导航栏
-    // navbarAutoHide: "always",
+    navbarAutoHide: "always",
 
     // sidebar
     sidebar: sidebar,
@@ -75,7 +75,8 @@ export default hopeTheme(
       // description: "",
       medias: {
         GitHub: "https://github.com/robin-fc",
-        Wechat: "https://www.imagehub.cc/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87-20250223010828.C7VMJT",
+        Wechat:
+          "https://www.imagehub.cc/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87-20250223010828.C7VMJT",
         Email: "mailto:robin-fc@qq.com",
         // RSS: "/rss.xml",
       },

@@ -4,34 +4,6 @@ import { sidebar } from "vuepress-theme-hope";
 // https://fontawesome.com/search?m=free&o=r
 export default sidebar({
   "": [
-    {
-      text: "🔡 代码编程",
-      icon: "",
-      prefix: "/code/",
-      collapsible: true,
-      children: [
-        "README.md",
-        {
-          text: "Basic",
-          icon: "fa6-solid:cube",
-          collapsible: true,
-          children: ["Markdown.md", "Electron.md", "AutoHotkey.md", "Regex.md"],
-        },
-        {
-          text: "FrondEnd",
-          icon: "fa6-solid:object-group",
-          collapsible: true,
-          children: ["Vue.md", "HTML.md", "Javascript.md", "Python.md"],
-        },
-      ],
-    },
-    {
-      text: "🛖 生活记录",
-      icon: "",
-      prefix: "/family/",
-      collapsible: true,
-      children: "structure",
-    },
     // {
     //   text: "加密目录",
     //   icon: "material-symbols:encrypted",
@@ -41,5 +13,5 @@ export default sidebar({
     // },
   ],
   // 专题区（独立侧边栏）
-  "/apps/topic/": "structure",
+  // "/apps/topic/": "structure",
 });
