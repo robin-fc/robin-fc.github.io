@@ -7,19 +7,6 @@
   "favicon": "https://github.com/robin-fc/robin-fc.github.io/logo.svg",
   "items": [
     {
-      "title": "加密 1",
-      "url": "https://github.com/robin-fc/robin-fc.github.io/encrypt/encrypt01.html",
-      "id": "https://github.com/robin-fc/robin-fc.github.io/encrypt/encrypt01.html",
-      "summary": "加密内容，支持 Markdown 和 HTML 语言。",
-      "content_html": "<p>加密内容，支持 Markdown 和 HTML 语言。</p>\n",
-      "date_published": "2025-01-24T00:00:00.000Z",
-      "date_modified": "2025-02-22T08:07:40.000Z",
-      "authors": [],
-      "tags": [
-        "使用指南"
-      ]
-    },
-    {
       "title": "博客文章样例",
       "url": "https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html",
       "id": "https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html",
@@ -31,6 +18,39 @@
       "tags": [
         "使用指南"
       ]
+    },
+    {
+      "title": "生活妙招",
+      "url": "https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%94%9F%E6%B4%BB%E5%A6%99%E6%8B%9B.html",
+      "id": "https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%94%9F%E6%B4%BB%E5%A6%99%E6%8B%9B.html",
+      "summary": "妙用 柚子皮 吸附气味能力一绝，可以放厕所或者冰箱 拿蜂蜜和糖可以腌制蜂蜜柚子",
+      "content_html": "<h2>妙用</h2>\n<h3>柚子皮</h3>\n<ul>\n<li>\n<p>吸附气味能力一绝，可以放厕所或者冰箱</p>\n</li>\n<li>\n<p>拿蜂蜜和糖可以腌制蜂蜜柚子</p>\n</li>\n</ul>\n",
+      "date_published": "2025-02-22T08:07:40.000Z",
+      "date_modified": "2025-02-28T15:14:39.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "省钱技巧",
+      "url": "https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7.html",
+      "id": "https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7.html",
+      "summary": "原则 省钱不代表不花钱，只是要花在刀刃上，任何牺牲健康的省钱行为都是不可取的 欢迎邮箱发我(robin_fc@qq.com)你的省钱技巧以及你的署名 开源不行，只好节流了 上海 海伦大厦楼下负一楼有家鸡公煲，21一份，米饭无限续，分量很足，故每日带饭盒，吃一半打包一半（后来嫌弃我坏规矩打包要我多付2元，不过问题不大），早饭买一个包子一个鸡蛋4元，27*...",
+      "content_html": "\n<p>省钱不代表不花钱，只是要花在刀刃上，任何牺牲健康的省钱行为都是不可取的</p>\n<p><code>欢迎邮箱发我(robin_fc@qq.com)你的省钱技巧以及你的署名</code></p>\n<h2>开源不行，只好节流了</h2>\n<h3>上海</h3>\n<ul>\n<li>海伦大厦楼下负一楼有家鸡公煲，21一份，米饭无限续，分量很足，故每日带饭盒，吃一半打包一半（后来嫌弃我坏规矩打包要我多付2元，不过问题不大），早饭买一个包子一个鸡蛋4元，27*30=810/月，还是很舒服的，有肉有菜还有饮料</li>\n<li>浦东（12号线金京路前后或者6号线双江）或者闵行往奉贤那边沈杜公路那块，有1500~1800的，相对舒服</li>\n<li>拼好饭可以吃，点口味清淡的就还好，13左右够的，快餐盒饭选老饭盒，饭吃饱就好</li>\n</ul>\n",
+      "date_published": "2025-02-28T15:14:39.000Z",
+      "date_modified": "2025-02-28T15:14:39.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "Web前端面试",
+      "url": "https://github.com/robin-fc/robin-fc.github.io/%E8%AE%A1%E5%88%92/%E9%9D%A2%E8%AF%95/Web%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95.html",
+      "id": "https://github.com/robin-fc/robin-fc.github.io/%E8%AE%A1%E5%88%92/%E9%9D%A2%E8%AF%95/Web%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95.html",
+      "summary": "Web前端面试 刷题地址 Vue官网整理 Vue系列 React系列",
+      "content_html": "\n<h2>刷题地址</h2>\n<p><a href=\"https://vue3js.cn/interview/\" target=\"_blank\" rel=\"noopener noreferrer\">Vue官网整理</a></p>\n<h2>Vue系列</h2>\n<h2>React系列</h2>\n",
+      "date_published": "2025-02-28T15:14:39.000Z",
+      "date_modified": "2025-02-28T15:14:39.000Z",
+      "authors": [],
+      "tags": []
     }
   ]
 }
