@@ -70,7 +70,19 @@ export default navbar([
   {
     text: "工作",
     icon: "fa6-solid:pen",
-    link: "/工作/README.md",
+    prefix: "/工作",
+    children: [
+       {
+         text: "技术",
+         link: "技术",
+       },{
+         text: "面试",
+         link: "面试",
+       },{
+        text: "职场",
+        link: "职场"
+       }
+    ]
   },
   {
     text: "生活",
@@ -78,17 +90,20 @@ export default navbar([
     prefix: "/生活",
     children: [
       {
-        text: "生活妙招",
-        link: "生活妙招",
-      },
-      {
-        text: "省钱技巧",
-        link: "省钱技巧",
+        text: "拾慧",
+        icon: "fa6-solid:grill-hot",
+        prefix: "拾慧",
+        children: [
+          {
+            text: "人间清醒",
+            link: "人间清醒",
+          },
+        ],
       },
       {
         text: "悟饭",
         icon: "fa6-solid:grill-hot",
-        prefix: "/悟饭",
+        prefix: "悟饭",
         children: [
           {
             text: "FC家的菜谱",
@@ -104,41 +119,80 @@ export default navbar([
           },
         ],
       },
+      {
+        text: "经验",
+        icon: "fa6-solid:grill-hot",
+        prefix: "经验",
+        children: [
+          {
+            text: "生活妙招",
+            link: "生活妙招",
+          },
+          {
+            text: "省钱技巧",
+            link: "省钱技巧",
+          },
+        ],
+      },
     ],
   },
   {
     text: "行路",
-    icon: "fa6-solid:eye",
+    icon: "fa6-solid:map",
     prefix: "/行路",
     children: [
       {
-        text: "无锡",
-        link: "无锡",
+        text:"安徽",
+        link:"安徽"
       },
       {
-        text: "上海",
-        link: "上海",
+        text:"北京",
+        link:"北京"
       },
       {
-        text: "大理",
-        link: "大理",
+        text:"成都",
+        link:"成都"
       },
       {
-        text: "成都",
-        link: "成都",
+        text:"大理",
+        link:"大理"
       },
       {
-        text: "武汉",
-        link: "武汉",
+        text:"广州",
+        link:"广州"
       },
       {
-        text: "湖北",
-        link: "湖北",
+        text:"南京",
+        link:"南京"
       },
       {
-        text: "苏州",
-        link: "苏州",
+        text:"上海",
+        link:"上海"
       },
+      {
+        text:"深圳",
+        link:"深圳"
+      },
+      {
+        text:"武汉",
+        link:"武汉"
+      },
+      {
+        text:"无锡",
+        link:"无锡"
+      },
+      {
+        text:"苏州",
+        link:"苏州"
+      },
+      {
+        text:"珠海",
+        link:"珠海"
+      },
+      {
+        text:"香港",
+        link:"香港"
+      }
     ],
   },
 ]);
