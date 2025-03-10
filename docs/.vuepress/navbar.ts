@@ -17,7 +17,7 @@ export default navbar([
     children: [
       {
         text: "产品",
-        prefix: "/产品/",
+        prefix: "产品",
         children: [
           {
             text: "如何成为一个好的产品",
@@ -27,7 +27,7 @@ export default navbar([
       },
       {
         text: "算法",
-        prefix: "/计划/算法/",
+        prefix: "算法",
         children: [
           {
             text: "概述",
@@ -78,15 +78,15 @@ export default navbar([
       },
       {
         text: "管理",
-        link: "管理",
+        link: "管理/README.md",
       },
       {
         text: "面试",
-        link: "面试",
+        link: "面试/README.md",
       },
       {
         text: "职场",
-        link: "职场",
+        link: "职场/README.md",
       },
     ],
   },
