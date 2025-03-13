@@ -74,11 +74,23 @@ export default navbar([
     children: [
       {
         text: "技术",
-        link: "技术",
+        prefix: "技术",
+        children: [
+          {
+            text: "如何通过sdk实现多端弹窗登录",
+            link: "如何通过sdk实现多端弹窗登录.md",
+          },
+        ],
       },
       {
         text: "管理",
-        link: "管理/README.md",
+        prefix: "管理",
+        children: [
+          {
+            text: "关于最近经常加班的自我反思",
+            link: "关于最近经常加班的自我反思.md",
+          },
+        ],
       },
       {
         text: "面试",
