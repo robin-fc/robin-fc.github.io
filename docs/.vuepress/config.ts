@@ -1,6 +1,5 @@
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { defineUserConfig } from "vuepress";
-// import { markdownTabPlugin } from "@vuepress/plugin-markdown-tab";
 // import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 import theme from "./theme.js";
 
@@ -13,8 +12,7 @@ export default defineUserConfig({
   // 网站标题
   title: "FC的博客",
   // 网站描述
-  description:
-    "记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿",
+  description: "记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿",
 
   theme,
   // 是否开启页面预拉取，如果服务器宽带足够，可改为 true，会提升其他页面加载速度

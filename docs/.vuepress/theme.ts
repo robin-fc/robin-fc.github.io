@@ -20,7 +20,7 @@ export default hopeTheme(
     // copyright 默认为 Copyright © <作者>
     copyright: `
   版权声明：自由转载 - 非商用 - 非衍生 - 保持署名<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">（创意共享 4.0 许可证）</a>|
-  Copyright © 2025-present LearnData</a>
+  Copyright © 2025-present robin-fc</a>
   `,
     displayFooter: true,
     // 页脚，支持使用 HTMLString 以显示备案信息等
@@ -86,24 +86,24 @@ export default hopeTheme(
     // print: false,
 
     markdown: {
-      align: true, // 启用自定义对齐
-      attrs: true, // 使用特殊标记为 Markdown 元素添加属性
-      mark: true, // 使用 == == 进行标记，注意两边需要有空格
-      // spoiler: true, // 使用 !! !! 标记剧透剧透文字，注意两边需要有空格
-      sup: true, // 上下角标
+      align: true,
+      attrs: true,
+      mark: true,
+      sup: true,
       sub: true,
-      include: true, // 导入文件
-      footnote: true, // 页脚格式支持
-      tasklist: true, // 启用任务列表格式支持，您可以传递一个对象来配置任务列表
-      component: true, // 使用 component 代码块来在 Markdown 中添加组件，YAML 和 JSON 的数据格式均受支持
-      figure: true, // 启用 figure
-      imgLazyload: true, // 启用图片懒加载
-      // imgMark: true, // 启用图片标记
-      imgSize: true, // 启用图片大小
-      hint: true, // 启用提示容器，默认启用
-      alert: true, // 启用 GFM 警告
+      include: true,
+      footnote: true,
+      tasklist: true,
+      component: true,
+      figure: true,
+      imgLazyload: true,
+      imgSize: true,
+      hint: true,
+      alert: true,
       tabs: true,
       codeTabs: true,
+      plantuml: true,
+      mermaid: true,
     },
 
     plugins: {
@@ -180,6 +180,7 @@ export default hopeTheme(
           Number(b.frontmatter.date) - Number(a.frontmatter.date),
       },
     },
+
     // https://theme-hope.vuejs.press/zh/guide/feature/encrypt.html
     // 加密配置样例（不需要可删除）注意，受到 VuePress 的限制，在未解密前，文章内容仅仅被隐藏，访问者仍可以从源码中获取文章的内容。
     // encrypt: {
@@ -196,7 +197,6 @@ export default hopeTheme(
     //     },
     //   },
     // },
-
     // 开发模式下是否启动热更新，显示所有更改并重新渲染
     hotReload: true,
   },

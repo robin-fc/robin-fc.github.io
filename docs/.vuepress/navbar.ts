@@ -20,8 +20,8 @@ export default navbar([
         prefix: "产品",
         children: [
           {
-            text: "如何成为一个好的产品",
-            link: "如何成为一个好的产品",
+            text: "产品学习路线图",
+            link: "产品学习路线图",
           },
         ],
       },
@@ -77,8 +77,8 @@ export default navbar([
         prefix: "技术",
         children: [
           {
-            text: "如何通过sdk实现多端弹窗登录",
-            link: "如何通过sdk实现多端弹窗登录.md",
+            text: "如何利用iframe实现无感登录",
+            link: "如何利用iframe实现无感登录.md",
           },
         ],
       },
@@ -89,6 +89,16 @@ export default navbar([
           {
             text: "关于最近经常加班的自我反思",
             link: "关于最近经常加班的自我反思.md",
+          },
+        ],
+      },
+      {
+        text: "产品",
+        prefix: "产品",
+        children: [
+          {
+            text: "如何成为一个好的产品",
+            link: "如何成为一个好的产品.md",
           },
         ],
       },
