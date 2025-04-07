@@ -63,6 +63,20 @@ export default navbar([
             text: "基于autoGen的一些自动化尝试",
             link: "基于autoGen的一些自动化尝试",
           },
+          {
+            text: "埋点和APM的区别",
+            link: "埋点和APM的区别.md",
+          },
+        ],
+      },
+      {
+        text: "AI",
+        prefix: "/计划/AI",
+        children: [
+          {
+            text: "AI发展脉络和相关概念",
+            link: "一文理清AI发展脉络和相关概念.md",
+          },
         ],
       },
     ],
