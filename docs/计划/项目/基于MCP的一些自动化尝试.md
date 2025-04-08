@@ -1,5 +1,5 @@
 ---
-article: false
+article: true
 title: AI方向
 icon: fa6-solid:star-of-life
 ---
