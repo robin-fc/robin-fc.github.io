@@ -75,6 +75,20 @@
       "tags": []
     },
     {
+      "title": "一文理清AI发展脉络和相关概念",
+      "url": "https://github.com/robin-fc/robin-fc.github.io/%E8%AE%A1%E5%88%92/AI/%E4%B8%80%E6%96%87%E7%90%86%E6%B8%85AI%E5%8F%91%E5%B1%95%E8%84%89%E7%BB%9C%E5%92%8C%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5.html",
+      "id": "https://github.com/robin-fc/robin-fc.github.io/%E8%AE%A1%E5%88%92/AI/%E4%B8%80%E6%96%87%E7%90%86%E6%B8%85AI%E5%8F%91%E5%B1%95%E8%84%89%E7%BB%9C%E5%92%8C%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5.html",
+      "summary": "导读 本文将带你梳理AI发展的关键脉络，重点解析LLM、Agent、MCP和Workflow四个核心概念，通过生动的比喻和实例帮助你理解它们之间的关系与区别。 一、AI发展时间轴 历史回顾 从1950年至今，AI经历了从理论到实践、从实验室到现实世界的跨越式发展。 1. 早期探索（1950-2010） 🌱 萌芽期（1950-1980） 1950年：图...",
+      "content_html": "<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">导读</p>\n<p>本文将带你梳理AI发展的关键脉络，重点解析LLM、Agent、MCP和Workflow四个核心概念，通过生动的比喻和实例帮助你理解它们之间的关系与区别。</p>\n</div>\n<h2>一、AI发展时间轴</h2>\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">历史回顾</p>\n<p>从1950年至今，AI经历了从理论到实践、从实验室到现实世界的跨越式发展。</p>\n</div>\n<h3>1. 早期探索（1950-2010）</h3>\n<details>\n<summary><b>🌱 萌芽期（1950-1980）</b></summary>\n<ul>\n<li>1950年：图灵测试提出</li>\n<li>1956年：达特茅斯会议，AI概念正式诞生</li>\n<li>1960年代：专家系统兴起</li>\n<li>1970年代：AI第一次寒冬</li>\n</ul>\n</details>\n<details>\n<summary><b>🌿 复兴期（1980-2000）</b></summary>\n<ul>\n<li>1980年代：机器学习算法发展</li>\n<li>1997年：IBM深蓝击败国际象棋冠军</li>\n<li>1990年代：神经网络研究复苏</li>\n</ul>\n</details>\n<details>\n<summary><b>🌳 快速发展期（2000-2010）</b></summary>\n<ul>\n<li>2006年：深度学习概念提出</li>\n<li>2009年：ImageNet数据集发布</li>\n<li>2010年代：GPU加速深度学习训练</li>\n</ul>\n</details>\n<h3>2. 现代AI时代（2010-2020）</h3>\n<div class=\"hint-container note\">\n<p class=\"hint-container-title\">爆发期特征</p>\n<p>这个阶段见证了深度学习的爆发式增长，奠定了大模型时代的基础。</p>\n</div>\n<ul>\n<li>2012年：AlexNet在ImageNet竞赛中获胜 <code>计算机视觉革命</code></li>\n<li>2014年：GAN（生成对抗网络）提出 <code>生成式AI元年</code></li>\n<li>2017年：Transformer架构提出 <code>NLP革命性突破</code></li>\n<li>2018年：BERT模型发布 <code>预训练模型时代开启</code></li>\n</ul>\n<h3>3. 大模型时代（2020至今）</h3>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">重要时期</p>\n<p>这是AI发展的关键转折点，标志着AI真正走向实用化、大众化的新纪元。</p>\n</div>\n<h4>2020年：通用大模型的诞生</h4>\n<ul>\n<li><strong>GPT-3的革命性突破</strong>\n<ul>\n<li>1750亿参数规模，开创超大规模语言模型时代</li>\n<li>首次展现出Few-shot学习能力，无需微调即可适应新任务</li>\n<li>通用能力显著提升，可完成写作、翻译、编程等多样化任务</li>\n</ul>\n</li>\n<li>技术积累\n<ul>\n<li>Transformer架构的深度优化</li>\n<li>预训练-微调范式的成熟</li>\n</ul>\n</li>\n</ul>\n<h4>2022年：AI民主化元年</h4>\n<ul>\n<li><strong>ChatGPT引发行业变革</strong>\n<ul>\n<li>对话式交互模式重新定义了人机交互方式</li>\n<li>指令微调（InstructGPT）大幅提升模型可控性</li>\n<li>首次实现大规模商业化应用，AI走入普通用户生活</li>\n</ul>\n</li>\n<li>图像生成领域突破\n<ul>\n<li>Stable Diffusion开源，降低AI创作门槛</li>\n<li>文本生成图像技术走向成熟</li>\n</ul>\n</li>\n</ul>\n<h4>2023年：多模态与智能体崛起</h4>\n<ul>\n<li><strong>GPT-4的全面进化</strong>\n<ul>\n<li>多模态理解能力实现质的飞跃</li>\n<li>推理能力显著增强，接近人类专家水平</li>\n<li>安全性和可控性大幅提升</li>\n</ul>\n</li>\n<li><strong>智能体技术的突破</strong>\n<ul>\n<li>AutoGPT开创自主Agent范式</li>\n<li>Claude 2突破长文本处理限制</li>\n<li>LangChain确立Workflow开发框架标准</li>\n</ul>\n</li>\n<li>技术生态的繁荣\n<ul>\n<li>开源社区蓬勃发展</li>\n<li>应用场景快速扩展</li>\n<li>商业化落地加速</li>\n</ul>\n</li>\n</ul>\n<h4>2024年：协作智能新纪元</h4>\n<ul>\n<li><strong>多智能体协作（MCP）的兴起</strong>\n<ul>\n<li>从单体Agent向多智能体协作演进</li>\n<li>复杂任务分解与团队协作能力提升</li>\n<li>动态角色分配与协商机制成熟</li>\n</ul>\n</li>\n<li><strong>Workflow的深度进化</strong>\n<ul>\n<li>自动化编排能力增强</li>\n<li>跨模态任务流程整合</li>\n<li>错误处理与自优化机制完善</li>\n</ul>\n</li>\n<li><strong>Gemini展现全新范式</strong>\n<ul>\n<li>多模态统一架构</li>\n<li>原生多模态训练</li>\n<li>更强的跨模态理解与生成能力</li>\n</ul>\n</li>\n</ul>\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">质变突破</p>\n<ol>\n<li>💡 <strong>交互范式革命</strong>：从单向输出到对话式交互</li>\n<li>🚀 <strong>能力边界扩展</strong>：从特定任务到通用智能</li>\n<li>🤝 <strong>协作模式进化</strong>：从单体智能到群体智能</li>\n<li>🌍 <strong>应用场景裂变</strong>：从实验室到真实世界</li>\n<li>🔄 <strong>技术架构升级</strong>：从单模态到多模态统一</li>\n</ol>\n</div>\n<h2>二、核心概念解析</h2>\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">概念图解</p>\n<p>通过类比和实例，帮助你理解AI世界的核心概念。</p>\n</div>\n<p>| 概念               | 定义                           | 特点                                                                   | 应用场景                                                                 |\n|</p>\n",
+      "date_published": "2024-04-07T00:00:00.000Z",
+      "date_modified": "2025-04-08T15:49:49.000Z",
+      "authors": [],
+      "tags": [
+        "AI前沿",
+        "技术解读"
+      ]
+    },
+    {
       "title": "产品学习路线图",
       "url": "https://github.com/robin-fc/robin-fc.github.io/%E8%AE%A1%E5%88%92/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html",
       "id": "https://github.com/robin-fc/robin-fc.github.io/%E8%AE%A1%E5%88%92/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html",
@@ -94,6 +108,17 @@
       "image": "https://s1.imagehub.cc/images/2025/04/02/469cb582b1963822eb6a37518bc5e812.md.jpeg",
       "date_published": "2025-04-01T16:56:07.000Z",
       "date_modified": "2025-04-01T16:56:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "埋点和 APM 的区别",
+      "url": "https://github.com/robin-fc/robin-fc.github.io/%E8%AE%A1%E5%88%92/%E9%A1%B9%E7%9B%AE/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html",
+      "id": "https://github.com/robin-fc/robin-fc.github.io/%E8%AE%A1%E5%88%92/%E9%A1%B9%E7%9B%AE/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html",
+      "summary": "应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释： 1. 定义与核心目标 APM（Application Performance Monitoring） 专注于技术层面的性能监控，目的是实时追踪应用的健康状态，发现性能瓶颈（如响应延迟、服务...",
+      "content_html": "<p>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释：</p>\n",
+      "date_published": "2025-04-07T00:00:00.000Z",
+      "date_modified": "2025-04-08T15:49:49.000Z",
       "authors": [],
       "tags": []
     }
