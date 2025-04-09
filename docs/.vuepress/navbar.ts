@@ -11,8 +11,8 @@ export default navbar([
     link: "/profile.md",
   },
   {
-    text: "学习计划",
-    prefix: "/计划",
+    text: "学习",
+    prefix: "/学习",
     icon: "fa6-solid:calendar",
     children: [
       {
@@ -23,86 +23,42 @@ export default navbar([
             text: "产品学习路线图",
             link: "产品学习路线图",
           },
+          {
+            text: "如何成为一个好的产品",
+            link: "如何成为一个好的产品",
+          },
         ],
       },
       {
         text: "算法",
-        prefix: "算法",
-        children: [
-          {
-            text: "目录",
-            link: "README.md",
-          },
-        ],
+        link: "/学习/算法/README.md",
       },
       {
-        text: "项目",
-        prefix: "/项目",
-        children: [
-          {
-            text: "基于autoGen的一些自动化尝试",
-            link: "基于autoGen的一些自动化尝试",
-          },
-          {
-            text: "埋点和APM的区别",
-            link: "埋点和APM的区别.md",
-          },
-        ],
-      },
-      {
-        text: "AI",
-        prefix: "/计划/AI",
-        children: [
-          {
-            text: "AI发展脉络和相关概念",
-            link: "一文理清AI发展脉络和相关概念.md",
-          },
-        ],
+        text: "设计模式",
+        link: "/学习/设计模式/README.md",
       },
     ],
   },
   {
     text: "工作",
     icon: "fa6-solid:pen",
-    prefix: "/工作",
+    link: "/工作/README.md",
     children: [
       {
         text: "技术",
-        prefix: "技术",
-        children: [
-          {
-            text: "如何利用iframe实现无感登录",
-            link: "如何利用iframe实现无感登录.md",
-          },
-        ],
+        link: "/工作/技术/README.md",
       },
       {
-        text: "管理",
-        prefix: "管理",
-        children: [
-          {
-            text: "关于最近经常加班的自我反思",
-            link: "关于最近经常加班的自我反思.md",
-          },
-        ],
+        text: "随感",
+        link: "/工作/随感/README.md",
       },
       {
-        text: "产品",
-        prefix: "产品",
-        children: [
-          {
-            text: "如何成为一个好的产品",
-            link: "如何成为一个好的产品.md",
-          },
-        ],
+        text: "项目",
+        link: "/工作/项目/README.md",
       },
       {
         text: "面试",
-        link: "面试/README.md",
-      },
-      {
-        text: "职场",
-        link: "职场/README.md",
+        link: "/工作/面试/README.md",
       },
     ],
   },
