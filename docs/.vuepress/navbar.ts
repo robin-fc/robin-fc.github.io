@@ -30,28 +30,8 @@ export default navbar([
         prefix: "算法",
         children: [
           {
-            text: "概述",
+            text: "目录",
             link: "README.md",
-          },
-        ],
-      },
-      {
-        text: "大前端",
-        prefix: "/计划/大前端/",
-        children: [
-          {
-            text: "概述",
-            link: "README.md",
-          },
-        ],
-      },
-      {
-        text: "面试",
-        prefix: "/计划/面试/",
-        children: [
-          {
-            text: "Web前端面试",
-            link: "Web前端面试.md",
           },
         ],
       },

@@ -1,5 +1,5 @@
 ---
-article: false
+article: true
 title: 一文理清AI发展脉络和相关概念
 date: 2024-04-07
 icon: fa6-solid:robot
