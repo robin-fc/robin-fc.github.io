@@ -17,17 +17,7 @@ export default navbar([
     children: [
       {
         text: "产品",
-        prefix: "产品",
-        children: [
-          {
-            text: "产品学习路线图",
-            link: "产品学习路线图",
-          },
-          {
-            text: "如何成为一个好的产品",
-            link: "如何成为一个好的产品",
-          },
-        ],
+        link: "/学习/产品/README.md",
       },
       {
         text: "算法",
@@ -36,6 +26,10 @@ export default navbar([
       {
         text: "设计模式",
         link: "/学习/设计模式/README.md",
+      },
+      {
+        text: "大前端",
+        link: "/学习/大前端/README.md",
       },
     ],
   },
