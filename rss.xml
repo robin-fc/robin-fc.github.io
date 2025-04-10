@@ -6,8 +6,8 @@
     <link>https://github.com/robin-fc/robin-fc.github.io/</link>
     <description>记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 09 Apr 2025 11:52:39 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Apr 2025 11:52:39 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Apr 2025 05:23:01 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Apr 2025 05:23:01 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
@@ -20,338 +20,6 @@
       <category>使用指南</category>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>产品学习路线图</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">产品学习路线图</source>
-      <description>产品学习路线图 前言 本文档旨在为产品经理的学习提供清晰的路径指导，帮助有志于从事产品工作的同学更好地规划自己的学习路径。路线图分为基础、进阶和高级三个阶段，每个阶段都有明确的学习目标和具体行动指南。 一、基础阶段（1-3个月） 1. 产品经理认知 产品经理的定义、职责和角色定位 产品经理的工作内容和日常 产品经理需要具备的核心能力 产品经理的职业发展...</description>
-      <pubDate>Mon, 24 Mar 2025 13:29:55 GMT</pubDate>
-      <content:encoded><![CDATA[
-<h2>前言</h2>
-<p>本文档旨在为产品经理的学习提供清晰的路径指导，帮助有志于从事产品工作的同学更好地规划自己的学习路径。路线图分为基础、进阶和高级三个阶段，每个阶段都有明确的学习目标和具体行动指南。</p>
-<h2>一、基础阶段（1-3个月）</h2>
-<h3>1. 产品经理认知</h3>
-<ul>
-<li>产品经理的定义、职责和角色定位</li>
-<li>产品经理的工作内容和日常</li>
-<li>产品经理需要具备的核心能力</li>
-<li>产品经理的职业发展路径</li>
-<li>学习资源：
-<ul>
-<li>《产品经理的第一本书》</li>
-<li>《人人都是产品经理》</li>
-<li>《产品经理实战手册》</li>
-</ul>
-</li>
-</ul>
-<h3>2. 产品开发流程</h3>
-<h4>2.1 产品开发主要阶段</h4>
-<h4>2.2 产品开发详细流程</h4>
-<ul>
-<li>产品生命周期管理</li>
-<li>产品开发流程（需求收集、分析、设计、开发、测试、上线）</li>
-<li>产品文档规范</li>
-<li>产品评审流程</li>
-<li>实践任务：
-<ul>
-<li>绘制一个完整的产品开发流程图</li>
-<li>编写一份产品需求文档（PRD）</li>
-<li>参与一次产品评审会议</li>
-</ul>
-</li>
-</ul>
-<h3>3. 基础工具使用</h3>
-<ul>
-<li>原型设计工具
-<ul>
-<li>Axure RP（基础功能掌握）</li>
-<li>Figma（界面设计）</li>
-<li>墨刀（快速原型）</li>
-</ul>
-</li>
-<li>文档协作工具
-<ul>
-<li>飞书文档</li>
-<li>腾讯文档</li>
-</ul>
-</li>
-<li>项目管理工具
-<ul>
-<li>JIRA</li>
-<li>Trello</li>
-</ul>
-</li>
-<li>实践任务：
-<ul>
-<li>使用Axure完成一个简单的产品原型</li>
-<li>使用Figma设计一个产品界面</li>
-<li>在JIRA中创建和管理一个项目</li>
-</ul>
-</li>
-</ul>
-<h2>二、进阶阶段（3-6个月）</h2>
-<h3>1. 需求分析能力</h3>
-<ul>
-<li>需求收集方法
-<ul>
-<li>用户访谈</li>
-<li>问卷调查</li>
-<li>数据分析</li>
-<li>竞品分析</li>
-</ul>
-</li>
-<li>需求分析方法
-<ul>
-<li>5W2H分析法</li>
-<li>用户故事地图</li>
-<li>用户旅程地图</li>
-</ul>
-</li>
-<li>需求优先级评估
-<ul>
-<li>KANO模型</li>
-<li>MoSCoW方法</li>
-</ul>
-</li>
-<li>实践任务：
-<ul>
-<li>完成一次用户访谈并整理报告</li>
-<li>设计一份用户调查问卷</li>
-<li>使用KANO模型对需求进行优先级排序</li>
-</ul>
-</li>
-</ul>
-<h3>2. 数据分析能力</h3>
-<ul>
-<li>数据分析基础
-<ul>
-<li>数据指标定义</li>
-<li>数据采集方法</li>
-<li>数据分析工具</li>
-</ul>
-</li>
-<li>常用数据分析方法
-<ul>
-<li>漏斗分析</li>
-<li>用户行为分析</li>
-<li>A/B测试</li>
-</ul>
-</li>
-<li>数据可视化
-<ul>
-<li>数据图表选择</li>
-<li>数据展示技巧</li>
-</ul>
-</li>
-<li>实践任务：
-<ul>
-<li>使用Excel完成一次数据分析</li>
-<li>设计一个A/B测试方案</li>
-<li>制作一份数据可视化报告</li>
-</ul>
-</li>
-</ul>
-<h3>3. 产品设计能力</h3>
-<ul>
-<li>用户体验设计
-<ul>
-<li>用户研究</li>
-<li>交互设计</li>
-<li>视觉设计</li>
-</ul>
-</li>
-<li>信息架构
-<ul>
-<li>产品结构设计</li>
-<li>导航设计</li>
-<li>内容组织</li>
-</ul>
-</li>
-<li>产品原型设计
-<ul>
-<li>低保真原型</li>
-<li>高保真原型</li>
-<li>交互原型</li>
-</ul>
-</li>
-<li>实践任务：
-<ul>
-<li>完成一个产品的信息架构设计</li>
-<li>设计一个产品的完整交互流程</li>
-<li>制作一个高保真产品原型</li>
-</ul>
-</li>
-</ul>
-<h2>三、高级阶段（6-12个月）</h2>
-<h3>1. 产品战略</h3>
-<ul>
-<li>产品战略规划
-<ul>
-<li>市场分析</li>
-<li>竞品分析</li>
-<li>商业模式分析</li>
-</ul>
-</li>
-<li>产品定位
-<ul>
-<li>目标用户定义</li>
-<li>价值主张</li>
-<li>差异化策略</li>
-</ul>
-</li>
-<li>产品路线图
-<ul>
-<li>短期规划</li>
-<li>中期规划</li>
-<li>长期规划</li>
-</ul>
-</li>
-<li>实践任务：
-<ul>
-<li>制定一个产品的战略规划</li>
-<li>完成一个产品的定位分析</li>
-<li>设计一个产品的路线图</li>
-</ul>
-</li>
-</ul>
-<h3>2. 项目管理</h3>
-<ul>
-<li>项目规划
-<ul>
-<li>项目范围定义</li>
-<li>时间规划</li>
-<li>资源分配</li>
-</ul>
-</li>
-<li>项目执行
-<ul>
-<li>进度管理</li>
-<li>风险管理</li>
-<li>质量管理</li>
-</ul>
-</li>
-<li>项目收尾
-<ul>
-<li>项目评估</li>
-<li>经验总结</li>
-<li>文档归档</li>
-</ul>
-</li>
-<li>实践任务：
-<ul>
-<li>参与一个完整的产品项目</li>
-<li>编写项目计划书</li>
-<li>进行项目复盘</li>
-</ul>
-</li>
-</ul>
-<h3>3. 商业分析</h3>
-<ul>
-<li>商业模式分析
-<ul>
-<li>商业模式画布</li>
-<li>收入模式分析</li>
-<li>成本结构分析</li>
-</ul>
-</li>
-<li>市场分析
-<ul>
-<li>市场规模分析</li>
-<li>市场趋势分析</li>
-<li>竞争格局分析</li>
-</ul>
-</li>
-<li>财务分析
-<ul>
-<li>收入预测</li>
-<li>成本估算</li>
-<li>ROI分析</li>
-</ul>
-</li>
-<li>实践任务：
-<ul>
-<li>完成一个产品的商业模式分析</li>
-<li>进行市场调研并撰写报告</li>
-<li>制作财务预测模型</li>
-</ul>
-</li>
-</ul>
-<h2>四、持续学习</h2>
-<h3>1. 知识更新</h3>
-<ul>
-<li>关注行业动态
-<ul>
-<li>订阅产品相关公众号</li>
-<li>参加行业会议</li>
-<li>阅读行业报告</li>
-</ul>
-</li>
-<li>学习新技术
-<ul>
-<li>了解新技术趋势</li>
-<li>学习新技术应用</li>
-<li>评估技术影响</li>
-</ul>
-</li>
-</ul>
-<h3>2. 实践积累</h3>
-<ul>
-<li>参与实际项目</li>
-<li>建立个人作品集</li>
-<li>分享经验教训</li>
-</ul>
-<h3>3. 人脉建设</h3>
-<ul>
-<li>加入产品经理社群</li>
-<li>参与行业交流活动</li>
-<li>建立专业社交网络</li>
-</ul>
-<h2>五、学习资源</h2>
-<h3>1. 书籍推荐</h3>
-<ul>
-<li>入门书籍
-<ul>
-<li>《人人都是产品经理》</li>
-<li>《产品经理的第一本书》</li>
-<li>《产品经理实战手册》</li>
-</ul>
-</li>
-<li>进阶书籍
-<ul>
-<li>《用户体验要素》</li>
-<li>《启示录》</li>
-<li>《产品经理手册》</li>
-</ul>
-</li>
-<li>高级书籍
-<ul>
-<li>《商业模式新生代》</li>
-<li>《精益创业》</li>
-<li>《增长黑客》</li>
-</ul>
-</li>
-</ul>
-<h3>2. 在线课程</h3>
-<ul>
-<li>产品经理入门课程</li>
-<li>产品设计实战课程</li>
-<li>数据分析课程</li>
-<li>项目管理课程</li>
-</ul>
-<h3>3. 工具推荐</h3>
-<ul>
-<li>原型设计：Axure、Figma、墨刀</li>
-<li>数据分析：Excel、SQL、Python</li>
-<li>项目管理：JIRA、Trello、飞书</li>
-<li>文档协作：飞书文档、腾讯文档</li>
-</ul>
-<h2>六、时间规划</h2>
-<h3>1. 每日学习计划</h3>
-<p>| 时间段 | 学习内容 | 时长 | 具体安排 |
-|</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -393,6 +61,26 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>大前端</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">大前端</source>
+      <description>大前端（Big Frontend） 是近年来随着技术发展演变出的概念，指突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。 一、传统前端 vs 大前端 二、大前端的核心特征 跨平台开发 一套代码适配多端：通过 React Native、Flutter、Tar...</description>
+      <pubDate>Fri, 28 Feb 2025 15:14:39 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>大前端（Big Frontend）</strong> 是近年来随着技术发展演变出的概念，指<strong>突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系</strong>。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml"></source>
+      <description>大前端技术路线</description>
+      <pubDate>Thu, 10 Apr 2025 05:20:38 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>大前端技术路线</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>埋点和 APM 的区别</title>
       <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html</link>
       <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html</guid>
@@ -400,16 +88,6 @@
       <description>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释： 1. 定义与核心目标 APM（Application Performance Monitoring） 专注于技术层面的性能监控，目的是实时追踪应用的健康状态，发现性能瓶颈（如响应延迟、服务...</description>
       <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释：</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>大前端</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">大前端</source>
-      <description>大前端（Big Frontend） 是近年来随着技术发展演变出的概念，指突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。 一、传统前端 vs 大前端 二、大前端的核心特征 跨平台开发 一套代码适配多端：通过 React Native、Flutter、Tar...</description>
-      <pubDate>Fri, 28 Feb 2025 15:14:39 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>大前端（Big Frontend）</strong> 是近年来随着技术发展演变出的概念，指<strong>突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系</strong>。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。</p>
 ]]></content:encoded>
     </item>
     <item>
