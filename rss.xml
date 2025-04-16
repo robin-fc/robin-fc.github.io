@@ -6,8 +6,8 @@
     <link>https://github.com/robin-fc/robin-fc.github.io/</link>
     <description>记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 10 Apr 2025 05:23:01 GMT</pubDate>
-    <lastBuildDate>Thu, 10 Apr 2025 05:23:01 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Apr 2025 03:54:12 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Apr 2025 03:54:12 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
@@ -375,12 +375,23 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>单页应用SEO的优化方案</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">单页应用SEO的优化方案</source>
+      <description>单页应用（SPA）实现SEO优化与搜索结果Sitelinks展示技术方案 单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。 一、SPA SEO优化...</description>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>出租房电费计算小助手</title>
       <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html</link>
       <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html</guid>
       <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">出租房电费计算小助手</source>
       <description>出租房电费计算小助手 背景 因为电费均摊不公和不透明，以及计算麻烦等问题，每次水电都算起来很麻烦，但是每次计算的规则其实是一致的，故写了个简单的页面处理下 工具：Cursor 提示词： 帮我写一个网页，index.html就好，用来计算电费均摊结果的， 已知一共五个房间合租，楼下3个（三个表），楼上2个（共用一个表），一共四个电表（假设分别叫ele_1...</description>
-      <pubDate>Tue, 01 Apr 2025 16:56:07 GMT</pubDate>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <h2>背景</h2>
 <p>因为电费均摊不公和不透明，以及计算麻烦等问题，每次水电都算起来很麻烦，但是每次计算的规则其实是一致的，故写了个简单的页面处理下</p>
@@ -465,25 +476,6 @@ D、E均摊人均18.76
 <li>
 <p>拿蜂蜜和糖可以腌制蜂蜜柚子</p>
 </li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>省钱技巧</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%BB%8F%E9%AA%8C/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%BB%8F%E9%AA%8C/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">省钱技巧</source>
-      <description>原则 省钱不代表不花钱，只是要花在刀刃上，任何牺牲健康的省钱行为都是不可取的 欢迎邮箱发我(robin_fc@qq.com)你的省钱技巧以及你的署名 开源不行，只好节流了 上海 海伦大厦楼下负一楼有家鸡公煲，21一份，米饭无限续，分量很足，故每日带饭盒，吃一半打包一半（后来嫌弃我坏规矩打包要我多付2元，不过问题不大），早饭买一个包子一个鸡蛋4元，27*...</description>
-      <pubDate>Fri, 28 Feb 2025 15:14:39 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p>省钱不代表不花钱，只是要花在刀刃上，任何牺牲健康的省钱行为都是不可取的</p>
-<p><code>欢迎邮箱发我(robin_fc@qq.com)你的省钱技巧以及你的署名</code></p>
-<h2>开源不行，只好节流了</h2>
-<h3>上海</h3>
-<ul>
-<li>海伦大厦楼下负一楼有家鸡公煲，21一份，米饭无限续，分量很足，故每日带饭盒，吃一半打包一半（后来嫌弃我坏规矩打包要我多付2元，不过问题不大），早饭买一个包子一个鸡蛋4元，27*30=810/月，还是很舒服的，有肉有菜还有饮料</li>
-<li>浦东（12号线金京路前后或者6号线双江）或者闵行往奉贤那边沈杜公路那块，有1500~1800的，相对舒服</li>
-<li>拼好饭可以吃，点口味清淡的就还好，13左右够的，快餐盒饭选老饭盒，饭吃饱就好</li>
 </ul>
 ]]></content:encoded>
     </item>

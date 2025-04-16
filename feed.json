@@ -75,14 +75,25 @@
       "tags": []
     },
     {
+      "title": "单页应用SEO的优化方案",
+      "url": "https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html",
+      "id": "https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html",
+      "summary": "单页应用（SPA）实现SEO优化与搜索结果Sitelinks展示技术方案 单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。 一、SPA SEO优化...",
+      "content_html": "\n<p>单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。</p>\n",
+      "date_published": "2025-04-16T00:00:00.000Z",
+      "date_modified": "2025-04-16T03:52:16.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "出租房电费计算小助手",
       "url": "https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html",
       "id": "https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html",
       "summary": "出租房电费计算小助手 背景 因为电费均摊不公和不透明，以及计算麻烦等问题，每次水电都算起来很麻烦，但是每次计算的规则其实是一致的，故写了个简单的页面处理下 工具：Cursor 提示词： 帮我写一个网页，index.html就好，用来计算电费均摊结果的， 已知一共五个房间合租，楼下3个（三个表），楼上2个（共用一个表），一共四个电表（假设分别叫ele_1...",
       "content_html": "\n<h2>背景</h2>\n<p>因为电费均摊不公和不透明，以及计算麻烦等问题，每次水电都算起来很麻烦，但是每次计算的规则其实是一致的，故写了个简单的页面处理下</p>\n<h2>工具：Cursor</h2>\n<h2>提示词：</h2>\n<p>帮我写一个网页，index.html就好，用来计算电费均摊结果的，</p>\n<ol>\n<li>已知一共五个房间合租，楼下3个（三个表），楼上2个（共用一个表），一共四个电表（假设分别叫ele_1,ele_2,ele_3,ele_4），假设房间分别叫楼下A，楼下B，楼下C，楼上D，楼上E，房间与电表对应关系如下：\n楼下A - ele_1\n楼下B - ele_2\n楼下C - ele_3\n楼上D，楼上E - ele_4</li>\n<li>支持输入上个月抄表的数据（从左往右依次是ele_1,ele_2,ele_3,ele_4）</li>\n<li>支持输入本月抄表的数据（从左往右依次是ele_1,ele_2,ele_3,ele_4）</li>\n<li>支持输入本月总电费，精确到小数点后一位</li>\n<li>上海民电参考如下（2023年参考）：\n一档（年用电≤3120度）：0.617元/度\n二档（3121-4800度）：0.667元/度\n三档（＞4800度）：0.917元/度</li>\n</ol>\n<p>计算每个房间需要支付的电费，计算方案如下：\n计算举例如下：\n上个月抄电表：0.56 25.96 104.8 230.67\n这个月抄电表：6.37 45.68 257.15 289.14\n那么算出差值\n楼下A - 5.81\n楼下B - 19.72\n楼下C - 152.35\n楼上D，楼上E - 58.47\n一共236.35度，总电费是151.7，所以平均下来0.64184元/度，根据下面的参考也符合预期：\n楼下A - 3.72\n楼下B - 12.66\n楼下C - 97.78\n楼上D、楼上E一起37.53，\nD、E均摊人均18.76\n6. 最后展示每个房间要交的电费\n7. 注意适配，风格简洁</p>\n<h2>效果</h2>\n<figure><a href=\"https://www.imagehub.cc/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-2-4-2025-0491-zesty-swan-e1e4f1.netlify.app.IMkM8O\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://s1.imagehub.cc/images/2025/04/02/469cb582b1963822eb6a37518bc5e812.md.jpeg\" alt=\"屏幕截图 2 4 2025 0491 zesty swan e1e4f1.netlify.app\" tabindex=\"0\" loading=\"lazy\"></a><figcaption>屏幕截图 2 4 2025 0491 zesty swan e1e4f1.netlify.app</figcaption></figure>\n",
       "image": "https://s1.imagehub.cc/images/2025/04/02/469cb582b1963822eb6a37518bc5e812.md.jpeg",
-      "date_published": "2025-04-01T16:56:07.000Z",
-      "date_modified": "2025-04-09T05:54:43.000Z",
+      "date_published": "2025-04-07T00:00:00.000Z",
+      "date_modified": "2025-04-16T03:52:16.000Z",
       "authors": [],
       "tags": []
     },
@@ -104,17 +115,6 @@
       "summary": "妙用 柚子皮 吸附气味能力一绝，可以放厕所或者冰箱 拿蜂蜜和糖可以腌制蜂蜜柚子",
       "content_html": "<h2>妙用</h2>\n<h3>柚子皮</h3>\n<ul>\n<li>\n<p>吸附气味能力一绝，可以放厕所或者冰箱</p>\n</li>\n<li>\n<p>拿蜂蜜和糖可以腌制蜂蜜柚子</p>\n</li>\n</ul>\n",
       "date_published": "2025-02-22T08:07:40.000Z",
-      "date_modified": "2025-03-09T16:06:42.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "省钱技巧",
-      "url": "https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%BB%8F%E9%AA%8C/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7.html",
-      "id": "https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%BB%8F%E9%AA%8C/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7.html",
-      "summary": "原则 省钱不代表不花钱，只是要花在刀刃上，任何牺牲健康的省钱行为都是不可取的 欢迎邮箱发我(robin_fc@qq.com)你的省钱技巧以及你的署名 开源不行，只好节流了 上海 海伦大厦楼下负一楼有家鸡公煲，21一份，米饭无限续，分量很足，故每日带饭盒，吃一半打包一半（后来嫌弃我坏规矩打包要我多付2元，不过问题不大），早饭买一个包子一个鸡蛋4元，27*...",
-      "content_html": "\n<p>省钱不代表不花钱，只是要花在刀刃上，任何牺牲健康的省钱行为都是不可取的</p>\n<p><code>欢迎邮箱发我(robin_fc@qq.com)你的省钱技巧以及你的署名</code></p>\n<h2>开源不行，只好节流了</h2>\n<h3>上海</h3>\n<ul>\n<li>海伦大厦楼下负一楼有家鸡公煲，21一份，米饭无限续，分量很足，故每日带饭盒，吃一半打包一半（后来嫌弃我坏规矩打包要我多付2元，不过问题不大），早饭买一个包子一个鸡蛋4元，27*30=810/月，还是很舒服的，有肉有菜还有饮料</li>\n<li>浦东（12号线金京路前后或者6号线双江）或者闵行往奉贤那边沈杜公路那块，有1500~1800的，相对舒服</li>\n<li>拼好饭可以吃，点口味清淡的就还好，13左右够的，快餐盒饭选老饭盒，饭吃饱就好</li>\n</ul>\n",
-      "date_published": "2025-02-28T15:14:39.000Z",
       "date_modified": "2025-03-09T16:06:42.000Z",
       "authors": [],
       "tags": []

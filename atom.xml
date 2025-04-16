@@ -4,7 +4,7 @@
   <title>FC的博客</title>
   <subtitle>记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿</subtitle>
   <icon>https://github.com/robin-fc/robin-fc.github.io/logo.svg</icon>
-  <updated>2025-04-10T05:23:01.077Z</updated>
+  <updated>2025-04-16T03:54:12.831Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.com/robin-fc/robin-fc.github.io/atom.xml"/>
   <link rel="alternate" href="https://github.com/robin-fc/robin-fc.github.io/"/>
@@ -471,10 +471,32 @@
     <published>2025-03-24T13:29:55.000Z</published>
   </entry>
   <entry>
+    <title type="text">单页应用SEO的优化方案</title>
+    <id>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</id>
+    <link href="https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html"/>
+    <updated>2025-04-16T03:52:16.000Z</updated>
+    <summary type="html"><![CDATA[
+<p>单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。</p>
+<hr>
+<h2>一、SPA SEO优化的核心挑战</h2>
+<ol>
+<li><strong>动态内容不可见</strong><br>
+SPA依赖JavaScript动态渲染内容，传统爬虫可能无法执行JS，导致页面内容无法被索引。</li>
+<li><strong>URL结构扁平化</strong><br>
+前端路由生成的虚拟URL（如哈希路由<code>#/page</code>）缺乏独立性，难以被搜索引擎识别为独立页面。</li>
+<li><strong>元数据缺失</strong><br>
+动态生成的<code>&lt;title&gt;</code>和<code>&lt;meta&gt;</code>标签可能未被爬虫捕获，影响搜索结果展示效果。</li>
+</ol>]]></summary>
+    <content type="html"><![CDATA[
+<p>单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。</p>
+]]></content>
+    <published>2025-04-16T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">出租房电费计算小助手</title>
     <id>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html</id>
     <link href="https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html"/>
-    <updated>2025-04-09T05:54:43.000Z</updated>
+    <updated>2025-04-16T03:52:16.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>背景</h2>
 <p>因为电费均摊不公和不透明，以及计算麻烦等问题，每次水电都算起来很麻烦，但是每次计算的规则其实是一致的，故写了个简单的页面处理下</p>
@@ -535,7 +557,7 @@ D、E均摊人均18.76
 <h2>效果</h2>
 <figure><a href="https://www.imagehub.cc/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-2-4-2025-0491-zesty-swan-e1e4f1.netlify.app.IMkM8O" target="_blank" rel="noopener noreferrer"><img src="https://s1.imagehub.cc/images/2025/04/02/469cb582b1963822eb6a37518bc5e812.md.jpeg" alt="屏幕截图 2 4 2025 0491 zesty swan e1e4f1.netlify.app" tabindex="0" loading="lazy"></a><figcaption>屏幕截图 2 4 2025 0491 zesty swan e1e4f1.netlify.app</figcaption></figure>
 ]]></content>
-    <published>2025-04-01T16:56:07.000Z</published>
+    <published>2025-04-07T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">人间清醒</title>
@@ -608,33 +630,5 @@ D、E均摊人均18.76
 </ul>
 ]]></content>
     <published>2025-02-22T08:07:40.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">省钱技巧</title>
-    <id>https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%BB%8F%E9%AA%8C/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7.html</id>
-    <link href="https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%BB%8F%E9%AA%8C/%E7%9C%81%E9%92%B1%E6%8A%80%E5%B7%A7.html"/>
-    <updated>2025-03-09T16:06:42.000Z</updated>
-    <summary type="html"><![CDATA[
-<p>省钱不代表不花钱，只是要花在刀刃上，任何牺牲健康的省钱行为都是不可取的</p>
-<p><code>欢迎邮箱发我(robin_fc@qq.com)你的省钱技巧以及你的署名</code></p>
-<h2>开源不行，只好节流了</h2>
-<h3>上海</h3>
-<ul>
-<li>海伦大厦楼下负一楼有家鸡公煲，21一份，米饭无限续，分量很足，故每日带饭盒，吃一半打包一半（后来嫌弃我坏规矩打包要我多付2元，不过问题不大），早饭买一个包子一个鸡蛋4元，27*30=810/月，还是很舒服的，有肉有菜还有饮料</li>
-<li>浦东（12号线金京路前后或者6号线双江）或者闵行往奉贤那边沈杜公路那块，有1500~1800的，相对舒服</li>
-<li>拼好饭可以吃，点口味清淡的就还好，13左右够的，快餐盒饭选老饭盒，饭吃饱就好</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[
-<p>省钱不代表不花钱，只是要花在刀刃上，任何牺牲健康的省钱行为都是不可取的</p>
-<p><code>欢迎邮箱发我(robin_fc@qq.com)你的省钱技巧以及你的署名</code></p>
-<h2>开源不行，只好节流了</h2>
-<h3>上海</h3>
-<ul>
-<li>海伦大厦楼下负一楼有家鸡公煲，21一份，米饭无限续，分量很足，故每日带饭盒，吃一半打包一半（后来嫌弃我坏规矩打包要我多付2元，不过问题不大），早饭买一个包子一个鸡蛋4元，27*30=810/月，还是很舒服的，有肉有菜还有饮料</li>
-<li>浦东（12号线金京路前后或者6号线双江）或者闵行往奉贤那边沈杜公路那块，有1500~1800的，相对舒服</li>
-<li>拼好饭可以吃，点口味清淡的就还好，13左右够的，快餐盒饭选老饭盒，饭吃饱就好</li>
-</ul>
-]]></content>
-    <published>2025-02-28T15:14:39.000Z</published>
   </entry>
 </feed>
