@@ -6,78 +6,107 @@
     <link>https://github.com/robin-fc/robin-fc.github.io/</link>
     <description>记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 16 Apr 2025 03:54:12 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Apr 2025 03:54:12 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2025 11:17:49 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2025 11:17:49 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
     <item>
-      <title>博客文章样例</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">博客文章样例</source>
-      <description>博客文章内容，支持 Markdown 和 HTML 语言。</description>
-      <category>使用指南</category>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>如何成为一个好的产品</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">如何成为一个好的产品</source>
-      <description>如何成为一个好的产品经理 导读 本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。 什么是产品经理？ 产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源...</description>
-      <pubDate>Mon, 24 Mar 2025 13:29:55 GMT</pubDate>
+      <title>光怪陆离的梦</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">光怪陆离的梦</source>
+      <description>光怪陆离的梦 背景 我老婆一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下我老婆的所有梦。 网址：光怪陆离的梦 复盘 UI还是需要人设计 需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
-<div class="hint-container tip">
-<p class="hint-container-title">导读</p>
-<p>本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。</p>
-</div>
-<h2>什么是产品经理？</h2>
-<p>产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源，确保产品能够为用户创造价值，同时为公司带来收益。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理的核心职责</p>
+<h2>背景</h2>
+<p>我老婆一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下我老婆的所有梦。</p>
+<p>网址：<a href="https://etherium-dreams.lovable.app/" target="_blank" rel="noopener noreferrer">光怪陆离的梦</a></p>
+<h2>复盘</h2>
+<ol>
+<li>UI还是需要人设计</li>
+<li>需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>美食地图</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">美食地图</source>
+      <description>美食地图 背景 706群里有一个飞书表格收集了大家去过的好吃的美食，包括店名、价格、特色、美食地址等。 刚好比较嫌就花了一天利用ai实现了一下，直接在 lovable 发布 最近进入了一个旅游群，发了一下不知道是否有人用 网址：美食地图 复盘 UI还是需要人设计 需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>背景</h2>
+<p>706群里有一个飞书表格收集了大家去过的好吃的美食，包括店名、价格、特色、美食地址等。</p>
+<p>刚好比较嫌就花了一天利用ai实现了一下，直接在 lovable 发布</p>
+<p>最近进入了一个旅游群，发了一下不知道是否有人用</p>
+<p>网址：<a href="https://lifemap706.lovable.app/" target="_blank" rel="noopener noreferrer">美食地图</a></p>
+<h2>复盘</h2>
+<ol>
+<li>UI还是需要人设计</li>
+<li>需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>柯布教育网站</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E6%9F%AF%E5%B8%83%E6%95%99%E8%82%B2%E7%BD%91%E7%AB%99.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E6%9F%AF%E5%B8%83%E6%95%99%E8%82%B2%E7%BD%91%E7%AB%99.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">柯布教育网站</source>
+      <description>柯布教育网站 背景 柯布生态学院是一个国际教育组织，专注于推广其教育理念，提倡教育的目的不应只是服务人类，更要融合生态理念，实现人类的可持续发展。 从黄山打完黑客松回来以后，朋友推荐的一个活儿，因为是类似公益网站，没啥钱并且需要降低维护成本，本来打算用express的但是考虑到后面做品牌升级，加上还有个管理后台，可能要定制。 所以最后经过调研，用rea...</description>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>背景</h2>
+<p>柯布生态学院是一个国际教育组织，专注于推广其教育理念，提倡教育的目的不应只是服务人类，更要融合生态理念，实现人类的可持续发展。</p>
+<p>从黄山打完黑客松回来以后，朋友推荐的一个活儿，因为是类似公益网站，没啥钱并且需要降低维护成本，本来打算用express的但是考虑到后面做品牌升级，加上还有个管理后台，可能要定制。</p>
+<p>所以最后经过调研，用react框架结合supabase数据库实现了整个网站。然后通过vercel进行部署，实现了0成本部署，后续假设用户数量大迁移加钱也方便，并且也不算贵。</p>
+<p>网址：<a href="https://www.cobbecociv.academy/" target="_blank" rel="noopener noreferrer">柯布生态学院</a></p>
+<h2>复盘</h2>
+<ol>
+<li>项目从7月20多号开始拉群沟通，但是现在三个月了还没有结束，主要有三个原因：</li>
+</ol>
 <ul>
-<li>产品战略规划</li>
-<li>需求分析与管理</li>
-<li>产品设计与优化</li>
-<li>跨团队协作</li>
-<li>数据分析与决策</li>
+<li>需求不明确，几乎一半时间都用来沟通网站真实需求了</li>
+<li>我个人时间有限，没办法一直持续沟通</li>
+<li>与甲方有时差，加上她也比较忙，每次对进度都要预约，比较麻烦</li>
 </ul>
-</div>
-<h2>为什么需要产品经理？</h2>
-<h3>1. 需求整合者</h3>
-<p>产品经理负责收集、分析和整合来自用户、市场、业务团队等各方面的需求，确保产品方向正确。</p>
-<h3>2. 决策制定者</h3>
-<p>在资源有限的情况下，产品经理需要做出优先级判断，决定做什么、不做什么。</p>
-<h3>3. 跨部门协调者</h3>
-<p>产品经理需要与设计、开发、运营、市场等多个团队协作，确保产品顺利落地。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理 vs 项目经理</p>
-<p>| | 产品经理 | 项目经理 |
-|</p>
-</div>
+<ol start="2">
+<li>项目在启动前商议并签署项目协议很有必要</li>
+</ol>
+<ul>
+<li>
+<p>商议了一个项目包括项目<code>需求总结</code>、<code>技术选型</code>、<code>分阶段付款</code>和<code>各阶段计划交付时间</code>等，并且注明了因为<strong>甲方因素导致的延期可以协商处理，不扣钱</strong>。</p>
+</li>
+<li>
+<p>当下因为甲方那边付款资质问题导致网站支付功能受阻，所以我这边只能等，不过不用担责，还行。并且也拿到了2笔阶段款</p>
+</li>
+</ul>
+<ol start="3">
+<li>UI风格</li>
+</ol>
+<ul>
+<li>
+<p>找了打比赛认识的一个设计师，我自己掏了3000出来，但是用户似乎更喜欢传统的express的那种风格 😢</p>
+</li>
+<li>
+<p>此外对于年纪大一点的用户，后台管理用所见即所得的方式似乎更棒，用户理解起来也更方便。</p>
+</li>
+</ul>
+<ol start="4">
+<li>supabase 免费的版本有个缺点就是没过一段时间没人访问就会暂停数据库资源，其实这是好事，节省资源，只是正式上线可能需要升级到付费版本</li>
+</ol>
 ]]></content:encoded>
     </item>
     <item>
-      <title>大前端</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">大前端</source>
-      <description>大前端（Big Frontend） 是近年来随着技术发展演变出的概念，指突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。 一、传统前端 vs 大前端 二、大前端的核心特征 跨平台开发 一套代码适配多端：通过 React Native、Flutter、Tar...</description>
-      <pubDate>Fri, 28 Feb 2025 15:14:39 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>大前端（Big Frontend）</strong> 是近年来随着技术发展演变出的概念，指<strong>突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系</strong>。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml"></source>
-      <description>大前端技术路线</description>
-      <pubDate>Thu, 10 Apr 2025 05:20:38 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>大前端技术路线</h2>
+      <title>单页应用SEO的优化方案</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">单页应用SEO的优化方案</source>
+      <description>单页应用（SPA）实现SEO优化与搜索结果Sitelinks展示技术方案 单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。 一、SPA SEO优化...</description>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -88,6 +117,17 @@
       <description>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释： 1. 定义与核心目标 APM（Application Performance Monitoring） 专注于技术层面的性能监控，目的是实时追踪应用的健康状态，发现性能瓶颈（如响应延迟、服务...</description>
       <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释：</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>博客文章样例</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">博客文章样例</source>
+      <description>博客文章内容，支持 Markdown 和 HTML 语言。</description>
+      <category>使用指南</category>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -375,17 +415,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>单页应用SEO的优化方案</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">单页应用SEO的优化方案</source>
-      <description>单页应用（SPA）实现SEO优化与搜索结果Sitelinks展示技术方案 单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。 一、SPA SEO优化...</description>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p>单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>出租房电费计算小助手</title>
       <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html</link>
       <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html</guid>
@@ -435,48 +464,83 @@ D、E均摊人均18.76
       <enclosure url="https://s1.imagehub.cc/images/2025/04/02/469cb582b1963822eb6a37518bc5e812.md.jpeg" type="image/jpeg"/>
     </item>
     <item>
-      <title>人间清醒</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E6%8B%BE%E6%85%A7/%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E6%8B%BE%E6%85%A7/%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">人间清醒</source>
-      <description>人间清醒 困顿使人自怜。 痛苦会让人觉得自己高人一等。 贫穷会让人觉得自己遗世独立。 —— 作者：龙犄角 我心不寐，秉烛夜游；兴致方尽，天色微明。 —— 作者：简.平 相关信息 这些感悟来自生活的点滴，记录在此，以飨读者。_</description>
-      <pubDate>Sun, 09 Mar 2025 16:06:42 GMT</pubDate>
+      <title>爱上迪小程序</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%88%B1%E4%B8%8A%E8%BF%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%88%B1%E4%B8%8A%E8%BF%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">爱上迪小程序</source>
+      <description>爱上迪小程序 背景 爱上迪小程序是一个为了做迪士尼周边二手市场而开发的小程序，属于千岛这类产品，只是垂类。这个活儿是朋友的朋友的推荐的。合作的是一个有多年经验的产品，但是失业了，想搞自己的事情，时间催的很紧。 第一阶段复盘 没有签任何协议，只有对话记录，说是合伙但是不是很合得来，目前小程序+后台+服务出了一期闭环了，但是我干了快一个月，什么都没拿到，就...</description>
+      <pubDate>Mon, 27 Oct 2025 11:15:44 GMT</pubDate>
       <content:encoded><![CDATA[
-<blockquote>
-<p>困顿使人自怜。</p>
-<p>痛苦会让人觉得自己高人一等。</p>
-<p>贫穷会让人觉得自己遗世独立。</p>
-<p>—— 作者：龙犄角</p>
-</blockquote>
-<br>
-<blockquote>
-<p>我心不寐，秉烛夜游；兴致方尽，天色微明。</p>
-<p>—— 作者：简.平</p>
-</blockquote>
-<br>
-<div class="hint-container info">
-<p class="hint-container-title">相关信息</p>
-<p>这些感悟来自生活的点滴，记录在此，以飨读者。_</p>
-</div>
+<h2>背景</h2>
+<p>爱上迪小程序是一个为了做迪士尼周边二手市场而开发的小程序，属于千岛这类产品，只是垂类。这个活儿是朋友的朋友的推荐的。合作的是一个有多年经验的产品，但是失业了，想搞自己的事情，时间催的很紧。</p>
+<h2>第一阶段复盘</h2>
+<ol>
+<li>没有签任何协议，只有对话记录，说是合伙但是不是很合得来，目前小程序+后台+服务出了一期闭环了，但是我干了快一个月，什么都没拿到，就吃了顿饭。就当做好事了。</li>
+<li></li>
+</ol>
+<ol start="2">
+<li>项目在启动前商议并签署项目协议很有必要</li>
+</ol>
+<ul>
+<li>
+<p>商议了一个项目包括项目<code>需求总结</code>、<code>技术选型</code>、<code>分阶段付款</code>和<code>各阶段计划交付时间</code>等，并且注明了因为<strong>甲方因素导致的延期可以协商处理，不扣钱</strong>。</p>
+</li>
+<li>
+<p>当下因为甲方那边付款资质问题导致网站支付功能受阻，所以我这边只能等，不过不用担责，还行。并且也拿到了2笔阶段款</p>
+</li>
+</ul>
+<ol start="3">
+<li>UI风格</li>
+</ol>
+<ul>
+<li>
+<p>找了打比赛认识的一个设计师，我自己掏了3000出来，但是用户似乎更喜欢传统的express的那种风格 😢</p>
+</li>
+<li>
+<p>此外对于年纪大一点的用户，后台管理用所见即所得的方式似乎更棒，用户理解起来也更方便。</p>
+</li>
+</ul>
+<ol start="4">
+<li>免费的supabase数据库有个缺点就是没过一段时间没人访问就会暂停数据库资源，其实这是好事，只是正式上线可能需要升级到付费版本</li>
+</ol>
 ]]></content:encoded>
     </item>
     <item>
-      <title>生活妙招</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%BB%8F%E9%AA%8C/%E7%94%9F%E6%B4%BB%E5%A6%99%E6%8B%9B.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E7%94%9F%E6%B4%BB/%E7%BB%8F%E9%AA%8C/%E7%94%9F%E6%B4%BB%E5%A6%99%E6%8B%9B.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">生活妙招</source>
-      <description>妙用 柚子皮 吸附气味能力一绝，可以放厕所或者冰箱 拿蜂蜜和糖可以腌制蜂蜜柚子</description>
-      <pubDate>Sat, 22 Feb 2025 08:07:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>妙用</h2>
-<h3>柚子皮</h3>
+      <title>如何成为一个好的产品</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">如何成为一个好的产品</source>
+      <description>如何成为一个好的产品经理 导读 本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。 什么是产品经理？ 产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源...</description>
+      <pubDate>Mon, 24 Mar 2025 13:29:55 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container tip">
+<p class="hint-container-title">导读</p>
+<p>本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。</p>
+</div>
+<h2>什么是产品经理？</h2>
+<p>产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源，确保产品能够为用户创造价值，同时为公司带来收益。</p>
+<div class="hint-container info">
+<p class="hint-container-title">产品经理的核心职责</p>
 <ul>
-<li>
-<p>吸附气味能力一绝，可以放厕所或者冰箱</p>
-</li>
-<li>
-<p>拿蜂蜜和糖可以腌制蜂蜜柚子</p>
-</li>
+<li>产品战略规划</li>
+<li>需求分析与管理</li>
+<li>产品设计与优化</li>
+<li>跨团队协作</li>
+<li>数据分析与决策</li>
 </ul>
+</div>
+<h2>为什么需要产品经理？</h2>
+<h3>1. 需求整合者</h3>
+<p>产品经理负责收集、分析和整合来自用户、市场、业务团队等各方面的需求，确保产品方向正确。</p>
+<h3>2. 决策制定者</h3>
+<p>在资源有限的情况下，产品经理需要做出优先级判断，决定做什么、不做什么。</p>
+<h3>3. 跨部门协调者</h3>
+<p>产品经理需要与设计、开发、运营、市场等多个团队协作，确保产品顺利落地。</p>
+<div class="hint-container info">
+<p class="hint-container-title">产品经理 vs 项目经理</p>
+<p>| | 产品经理 | 项目经理 |
+|</p>
+</div>
 ]]></content:encoded>
     </item>
   </channel>
