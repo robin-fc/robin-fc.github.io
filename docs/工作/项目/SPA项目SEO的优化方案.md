@@ -6,6 +6,8 @@ icon: fa6-solid:star-of-life
 tag: 
   - SPA
   - SEO
+prev: 出租房电费计算小助手.md
+next: 柯布教育网站.md
 ---
 
 # 单页应用（SPA）实现SEO优化与搜索结果Sitelinks展示技术方案
