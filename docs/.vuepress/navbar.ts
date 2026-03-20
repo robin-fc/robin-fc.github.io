@@ -50,10 +50,6 @@ export default navbar([
         text: "项目",
         link: "/工作/项目/README.md",
       },
-      {
-        text: "面试",
-        link: "/工作/面试/README.md",
-      },
     ],
   },
   {
