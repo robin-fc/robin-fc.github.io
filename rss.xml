@@ -6,80 +6,11 @@
     <link>https://github.com/robin-fc/robin-fc.github.io/</link>
     <description>记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Mar 2026 03:20:29 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2026 03:20:29 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 03:25:53 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 03:25:53 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
-    <item>
-      <title>博客文章样例</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">博客文章样例</source>
-      <description>博客文章内容，支持 Markdown 和 HTML 语言。</description>
-      <category>使用指南</category>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>如何成为一个好的产品</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">如何成为一个好的产品</source>
-      <description>如何成为一个好的产品经理 导读 本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。 什么是产品经理？ 产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源...</description>
-      <pubDate>Mon, 24 Mar 2025 13:29:55 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container tip">
-<p class="hint-container-title">导读</p>
-<p>本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。</p>
-</div>
-<h2>什么是产品经理？</h2>
-<p>产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源，确保产品能够为用户创造价值，同时为公司带来收益。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理的核心职责</p>
-<ul>
-<li>产品战略规划</li>
-<li>需求分析与管理</li>
-<li>产品设计与优化</li>
-<li>跨团队协作</li>
-<li>数据分析与决策</li>
-</ul>
-</div>
-<h2>为什么需要产品经理？</h2>
-<h3>1. 需求整合者</h3>
-<p>产品经理负责收集、分析和整合来自用户、市场、业务团队等各方面的需求，确保产品方向正确。</p>
-<h3>2. 决策制定者</h3>
-<p>在资源有限的情况下，产品经理需要做出优先级判断，决定做什么、不做什么。</p>
-<h3>3. 跨部门协调者</h3>
-<p>产品经理需要与设计、开发、运营、市场等多个团队协作，确保产品顺利落地。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理 vs 项目经理</p>
-<p>| | 产品经理 | 项目经理 |
-|</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>大前端</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">大前端</source>
-      <description>大前端（Big Frontend） 是近年来随着技术发展演变出的概念，指突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。 一、传统前端 vs 大前端 二、大前端的核心特征 跨平台开发 一套代码适配多端：通过 React Native、Flutter、Tar...</description>
-      <pubDate>Fri, 28 Feb 2025 15:14:39 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>大前端（Big Frontend）</strong> 是近年来随着技术发展演变出的概念，指<strong>突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系</strong>。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml"></source>
-      <description>大前端技术路线</description>
-      <pubDate>Thu, 10 Apr 2025 05:20:38 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>大前端技术路线</h2>
-]]></content:encoded>
-    </item>
     <item>
       <title>爱上迪小程序</title>
       <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%88%B1%E4%B8%8A%E8%BF%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F.html</link>
@@ -150,7 +81,6 @@
 <li><strong>管理员</strong>：后台通过 <code>/api/admin/login</code> 登录，用于写操作与治理能力。</li>
 </ul>
 <p>项目的关键点在于：两类身份<strong>共享同一个 JWT 方案</strong>，但对应不同的数据库表。为了避免“同一个 subject 在不同表中碰撞导致角色识别错误”，鉴权过滤器做了按路径优先级的识别策略（在管理相关路径上优先按管理员解析）：</p>
-<p>核心代码（节选）来自 <code>aww-server/src/main/java/com/aww/server/security/JwtAuthenticationFilter.java</code> 与 <code>aww-server/src/main/java/com/aww/server/config/SecurityConfig.java</code>：</p>
 <div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> uri </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> request</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getRequestURI</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">boolean</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> preferAdminFirst </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> uri</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">startsWith</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"/api/admin"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> ||</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> uri</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">startsWith</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"/api/uploads"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
 <span class="line"></span>
@@ -173,7 +103,6 @@
 <li>仅传 <code>code</code>：如果 <code>openid</code> 已存在则直接登录；若不存在，返回 <code>requireProfile=true</code> 提示前端弹窗补全昵称与头像。</li>
 <li>传 <code>code + userInfo</code>：创建或更新用户，并签发 token。</li>
 </ol>
-<p>核心代码（节选）来自 <code>aww-server/src/main/java/com/aww/server/controller/UserController.java</code>：</p>
 <div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (userInfo </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
 <span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">    Optional</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">User</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> existing </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> userService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findByOpenid</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(openid);</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
@@ -194,7 +123,7 @@
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>此设计的收益：</p>
 <ul>
 <li>首次进入体验更顺滑：能把“授权资料”延后到真正需要的时候。</li>
-<li>静默登录不会覆盖已有资料：更新逻辑只覆盖非空字段（节选来自 <code>aww-server/src/main/java/com/aww/server/service/UserService.java</code>）。</li>
+<li>静默登录不会覆盖已有资料：更新逻辑只覆盖非空字段</li>
 </ul>
 <div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existingUser</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    user </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> existingUser</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">get</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
@@ -208,10 +137,6 @@
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>3.3 数据演进：Flyway 迁移 + 序列校准</h3>
 <p>项目采用 Flyway 维护数据库迁移脚本（<code>V1__Initial_schema.sql</code> 起步，后续持续演进），并在应用启动时对用户 ID 序列进行校准以规避历史数据迁移导致的主键冲突：</p>
-<ul>
-<li>迁移脚本目录：<code>aww-server/src/main/resources/db/migration/</code></li>
-<li>序列校准逻辑：<code>aww-server/src/main/java/com/aww/server/config/DatabaseSequenceInitializer.java</code></li>
-</ul>
 <div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">jdbcTemplate</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">execute</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span></span>
 <span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "SELECT setval(</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
 <span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "  pg_get_serial_sequence('users','id'),</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
@@ -231,7 +156,6 @@
 <li><strong>特殊品类规则</strong>：对“商店名额”等品类采用“折扣/满减双字段”校验，避免被迫用单一价格字段表达复杂报价。</li>
 <li><strong>覆盖式 Upsert</strong>：同一用户、同一 SKU、同一类型（BUY/SELL）只允许一条 ACTIVE；新发布会覆盖旧记录，减少重复信息与垃圾数据。</li>
 </ol>
-<p>核心代码（节选）来自 <code>aww-server/src/main/java/com/aww/server/service/TradeOfferService.java</code>：</p>
 <div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">Optional</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">TradeOffer</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> existingOpt </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> tradeOfferRepository</span></span>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">    .</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findFirstBySkuIdAndUserIdAndTypeAndStatus</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(skuId, userId, type, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">TradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Status</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">ACTIVE</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existingOpt</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
@@ -252,7 +176,6 @@
 </ul>
 <h3>3.5 管理治理：审核轨迹 + 系统消息通知</h3>
 <p>治理侧的关键能力包括：检索报价、下架/删除、批量操作、记录审计原因，并把治理结果通过“系统消息”推送给用户。</p>
-<p>核心代码（节选）来自 <code>aww-server/src/main/java/com/aww/server/controller/AdminTradeController.java</code>（下架后发送系统消息）：</p>
 <div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> msg </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "您发布的商品《"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> title </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">+</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "》的"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> typeCn </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">+</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "信息已下架"</span></span>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">    +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (remark </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">!=</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> &amp;&amp;</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> !</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">remark</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isBlank</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> ?</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"，原因："</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> remark) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ""</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">)</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">chatService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sendMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> ChatMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(sender, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">offer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getUserId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(), msg, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">ChatMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">MessageType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">SYSTEM</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">));</span></span></code></pre>
@@ -270,11 +193,10 @@
 </ul>
 <p>核心实现：</p>
 <ul>
-<li>COS 客户端与本地 <code>.env</code> 容错加载：<code>aww-server/src/main/java/com/aww/server/config/CosClientConfig.java</code></li>
-<li>上传与管理接口：<code>aww-server/src/main/java/com/aww/server/controller/UploadsController.java</code></li>
-<li>COS 访问与对象操作封装：<code>aww-server/src/main/java/com/aww/server/service/CosService.java</code></li>
+<li>COS 客户端与本地 <code>.env</code> 容错加载</li>
+<li>上传与管理接口</li>
+<li>COS 访问与对象操作封装</li>
 </ul>
-<p>核心代码（节选）来自 <code>CosService</code>（避免桶名缺失导致的隐式失败）：</p>
 <div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">private</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> String</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> requireBucket</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">() {</span></span>
 <span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">    String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> b </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> bucket</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">()</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">b</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isBlank</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
@@ -289,7 +211,6 @@
 <li>小程序端上报：<code>POST /api/metrics/events</code></li>
 <li>管理侧汇总：<code>GET /api/admin/metrics/summary</code></li>
 </ul>
-<p>核心代码（节选）来自 <code>aww-server/src/main/java/com/aww/server/controller/MetricsController.java</code>：</p>
 <div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">AppEvent</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> ev </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> AppEvent</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">(uid</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">eventType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">trim</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(),</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">page</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">refId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> meta)</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">appEventRepository</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">save</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(ev);</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> ResponseEntity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ok</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Map</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">of</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"success"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">));</span></span></code></pre>
@@ -313,7 +234,6 @@
 <li><code>lazyloadPlaceholderEnable: true</code> 提升懒加载体验</li>
 </ul>
 <p>配置入口：<code>aww-web/project.config.json</code></p>
-<p>另有一次集中性的代码质量优化复盘记录（包括调试语句清理与页面配置完善）：<code>docs/CODE_OPTIMIZATION_REPORT.md</code></p>
 <h2>5. 复盘：做对了什么、踩过哪些坑</h2>
 <h3>5.1 做对了什么</h3>
 <ol>
@@ -347,6 +267,24 @@
 </ol>
 <h2>6. 题外话</h2>
 <p>这是我参与设计的第一个闭环的项目，从前端的小程序、后台管理系统，到java后端、数据库、存储桶、部署、测试、接口文档，实现了我自认为还算满意的闭环。虽然最后因为大环境又变差了没有上线，但是对于我对整体项目的设计实现，尤其是后端开发过程中会遇到的细节流程，还是有很多收获的。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光怪陆离的梦</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">光怪陆离的梦</source>
+      <description>光怪陆离的梦 背景 我老婆一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下我老婆的所有梦。 网址：光怪陆离的梦 复盘 UI还是需要人设计 需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>背景</h2>
+<p>我老婆一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下我老婆的所有梦。</p>
+<p>网址：<a href="https://etherium-dreams.lovable.app/" target="_blank" rel="noopener noreferrer">光怪陆离的梦</a></p>
+<h2>复盘</h2>
+<ol>
+<li>UI还是需要人设计</li>
+<li>需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</li>
+</ol>
 ]]></content:encoded>
     </item>
     <item>
@@ -419,6 +357,17 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>单页应用SEO的优化方案</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">单页应用SEO的优化方案</source>
+      <description>单页应用（SPA）实现SEO优化与搜索结果Sitelinks展示技术方案 单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。 一、SPA SEO优化...</description>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>埋点和 APM 的区别</title>
       <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html</link>
       <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html</guid>
@@ -426,6 +375,17 @@
       <description>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释： 1. 定义与核心目标 APM（Application Performance Monitoring） 专注于技术层面的性能监控，目的是实时追踪应用的健康状态，发现性能瓶颈（如响应延迟、服务...</description>
       <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释：</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>博客文章样例</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">博客文章样例</source>
+      <description>博客文章内容，支持 Markdown 和 HTML 语言。</description>
+      <category>使用指南</category>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -713,21 +673,90 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>光怪陆离的梦</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">光怪陆离的梦</source>
-      <description>光怪陆离的梦 背景 我老婆一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下我老婆的所有梦。 网址：光怪陆离的梦 复盘 UI还是需要人设计 需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</description>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <title>出租房电费计算小助手</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97%E5%B0%8F%E5%8A%A9%E6%89%8B.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">出租房电费计算小助手</source>
+      <description>出租房电费计算小助手 背景 因为电费均摊不公和不透明，以及计算麻烦等问题，每次水电都算起来很麻烦，但是每次计算的规则其实是一致的，故写了个简单的页面处理下 工具：Cursor 提示词： 帮我写一个网页，index.html就好，用来计算电费均摊结果的， 已知一共五个房间合租，楼下3个（三个表），楼上2个（共用一个表），一共四个电表（假设分别叫ele_1...</description>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <h2>背景</h2>
-<p>我老婆一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下我老婆的所有梦。</p>
-<p>网址：<a href="https://etherium-dreams.lovable.app/" target="_blank" rel="noopener noreferrer">光怪陆离的梦</a></p>
-<h2>复盘</h2>
+<p>因为电费均摊不公和不透明，以及计算麻烦等问题，每次水电都算起来很麻烦，但是每次计算的规则其实是一致的，故写了个简单的页面处理下</p>
+<h2>工具：Cursor</h2>
+<h2>提示词：</h2>
+<p>帮我写一个网页，index.html就好，用来计算电费均摊结果的，</p>
 <ol>
-<li>UI还是需要人设计</li>
-<li>需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</li>
+<li>已知一共五个房间合租，楼下3个（三个表），楼上2个（共用一个表），一共四个电表（假设分别叫ele_1,ele_2,ele_3,ele_4），假设房间分别叫楼下A，楼下B，楼下C，楼上D，楼上E，房间与电表对应关系如下：
+楼下A - ele_1
+楼下B - ele_2
+楼下C - ele_3
+楼上D，楼上E - ele_4</li>
+<li>支持输入上个月抄表的数据（从左往右依次是ele_1,ele_2,ele_3,ele_4）</li>
+<li>支持输入本月抄表的数据（从左往右依次是ele_1,ele_2,ele_3,ele_4）</li>
+<li>支持输入本月总电费，精确到小数点后一位</li>
+<li>上海民电参考如下（2023年参考）：
+一档（年用电≤3120度）：0.617元/度
+二档（3121-4800度）：0.667元/度
+三档（＞4800度）：0.917元/度</li>
 </ol>
+<p>计算每个房间需要支付的电费，计算方案如下：
+计算举例如下：
+上个月抄电表：0.56 25.96 104.8 230.67
+这个月抄电表：6.37 45.68 257.15 289.14
+那么算出差值
+楼下A - 5.81
+楼下B - 19.72
+楼下C - 152.35
+楼上D，楼上E - 58.47
+一共236.35度，总电费是151.7，所以平均下来0.64184元/度，根据下面的参考也符合预期：
+楼下A - 3.72
+楼下B - 12.66
+楼下C - 97.78
+楼上D、楼上E一起37.53，
+D、E均摊人均18.76
+6. 最后展示每个房间要交的电费
+7. 注意适配，风格简洁</p>
+<h2>效果</h2>
+<figure><a href="https://www.imagehub.cc/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-2-4-2025-0491-zesty-swan-e1e4f1.netlify.app.IMkM8O" target="_blank" rel="noopener noreferrer"><img src="https://s1.imagehub.cc/images/2025/04/02/469cb582b1963822eb6a37518bc5e812.md.jpeg" alt="屏幕截图 2 4 2025 0491 zesty swan e1e4f1.netlify.app" tabindex="0" loading="lazy"></a><figcaption>屏幕截图 2 4 2025 0491 zesty swan e1e4f1.netlify.app</figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://s1.imagehub.cc/images/2025/04/02/469cb582b1963822eb6a37518bc5e812.md.jpeg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>如何成为一个好的产品</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">如何成为一个好的产品</source>
+      <description>如何成为一个好的产品经理 导读 本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。 什么是产品经理？ 产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源...</description>
+      <pubDate>Mon, 24 Mar 2025 13:29:55 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container tip">
+<p class="hint-container-title">导读</p>
+<p>本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。</p>
+</div>
+<h2>什么是产品经理？</h2>
+<p>产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源，确保产品能够为用户创造价值，同时为公司带来收益。</p>
+<div class="hint-container info">
+<p class="hint-container-title">产品经理的核心职责</p>
+<ul>
+<li>产品战略规划</li>
+<li>需求分析与管理</li>
+<li>产品设计与优化</li>
+<li>跨团队协作</li>
+<li>数据分析与决策</li>
+</ul>
+</div>
+<h2>为什么需要产品经理？</h2>
+<h3>1. 需求整合者</h3>
+<p>产品经理负责收集、分析和整合来自用户、市场、业务团队等各方面的需求，确保产品方向正确。</p>
+<h3>2. 决策制定者</h3>
+<p>在资源有限的情况下，产品经理需要做出优先级判断，决定做什么、不做什么。</p>
+<h3>3. 跨部门协调者</h3>
+<p>产品经理需要与设计、开发、运营、市场等多个团队协作，确保产品顺利落地。</p>
+<div class="hint-container info">
+<p class="hint-container-title">产品经理 vs 项目经理</p>
+<p>| | 产品经理 | 项目经理 |
+|</p>
+</div>
 ]]></content:encoded>
     </item>
   </channel>
