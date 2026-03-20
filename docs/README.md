@@ -6,7 +6,7 @@ icon: fa6-solid:house-crack
 title: 主页
 #heroImage: /logo.svg
 heroText: I'm FC
-tagline: A full-stack engineer specialized in website design and build
+tagline: A full-stack engineer specializing in website design and development
 # bgImage: https://s1.imagehub.cc/images/2025/02/23/e968c6906c4b5b39617d57cb6e2b1ef1.th.jpg
 heroFullScreen: false
 #projects:
