@@ -4,11 +4,30 @@
   <title>FC的博客</title>
   <subtitle>记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿</subtitle>
   <icon>https://github.com/robin-fc/robin-fc.github.io/logo.svg</icon>
-  <updated>2026-03-20T03:25:53.199Z</updated>
+  <updated>2026-03-20T03:36:39.124Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.com/robin-fc/robin-fc.github.io/atom.xml"/>
   <link rel="alternate" href="https://github.com/robin-fc/robin-fc.github.io/"/>
   <category term="使用指南"/>
+  <entry>
+    <title type="text">六爻算命</title>
+    <id>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%AD%E7%88%BB%E7%AE%97%E5%91%BD.html</id>
+    <link href="https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%AD%E7%88%BB%E7%AE%97%E5%91%BD.html"/>
+    <updated>2026-03-20T03:34:42.000Z</updated>
+    <summary type="html"><![CDATA[
+<h2>地址</h2>
+<p>网址：<a href="https://i-ching-whisperer.lovable.app/" target="_blank" rel="noopener noreferrer">六爻算命</a></p>
+<h2>原理</h2>
+<p>先整理六爻的原理，将六爻摇挂的交互，抽象成6次抛硬币，对应6个结果映射为6个卦象，然后封装提示词给ai分析，准的可怕，老祖宗的智慧真的不懂但是需要尊重。</p>
+]]></summary>
+    <content type="html"><![CDATA[
+<h2>地址</h2>
+<p>网址：<a href="https://i-ching-whisperer.lovable.app/" target="_blank" rel="noopener noreferrer">六爻算命</a></p>
+<h2>原理</h2>
+<p>先整理六爻的原理，将六爻摇挂的交互，抽象成6次抛硬币，对应6个结果映射为6个卦象，然后封装提示词给ai分析，准的可怕，老祖宗的智慧真的不懂但是需要尊重。</p>
+]]></content>
+    <published>2026-03-20T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">爱上迪小程序</title>
     <id>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%88%B1%E4%B8%8A%E8%BF%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F.html</id>
@@ -282,26 +301,20 @@
     <title type="text">光怪陆离的梦</title>
     <id>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</id>
     <link href="https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html"/>
-    <updated>2025-10-27T11:15:44.000Z</updated>
+    <updated>2026-03-20T03:34:42.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>背景</h2>
-<p>我老婆一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下我老婆的所有梦。</p>
+<p>一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下所有的梦。不得不说对于理解她的潜意识，理解当前的心境，真的很有帮助。</p>
 <p>网址：<a href="https://etherium-dreams.lovable.app/" target="_blank" rel="noopener noreferrer">光怪陆离的梦</a></p>
-<h2>复盘</h2>
-<ol>
-<li>UI还是需要人设计</li>
-<li>需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</li>
-</ol>
+<h1>原理</h1>
+<p>本质上也就是定制了一个提示词作为解梦agent啦</p>
 ]]></summary>
     <content type="html"><![CDATA[
 <h2>背景</h2>
-<p>我老婆一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下我老婆的所有梦。</p>
+<p>一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下所有的梦。不得不说对于理解她的潜意识，理解当前的心境，真的很有帮助。</p>
 <p>网址：<a href="https://etherium-dreams.lovable.app/" target="_blank" rel="noopener noreferrer">光怪陆离的梦</a></p>
-<h2>复盘</h2>
-<ol>
-<li>UI还是需要人设计</li>
-<li>需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</li>
-</ol>
+<h1>原理</h1>
+<p>本质上也就是定制了一个提示词作为解梦agent啦</p>
 ]]></content>
     <published>2025-09-30T00:00:00.000Z</published>
   </entry>
@@ -835,59 +848,5 @@ D、E均摊人均18.76
 <figure><a href="https://www.imagehub.cc/image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-2-4-2025-0491-zesty-swan-e1e4f1.netlify.app.IMkM8O" target="_blank" rel="noopener noreferrer"><img src="https://s1.imagehub.cc/images/2025/04/02/469cb582b1963822eb6a37518bc5e812.md.jpeg" alt="屏幕截图 2 4 2025 0491 zesty swan e1e4f1.netlify.app" tabindex="0" loading="lazy"></a><figcaption>屏幕截图 2 4 2025 0491 zesty swan e1e4f1.netlify.app</figcaption></figure>
 ]]></content>
     <published>2025-04-07T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">如何成为一个好的产品</title>
-    <id>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</id>
-    <link href="https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html"/>
-    <updated>2025-04-10T05:20:38.000Z</updated>
-    <summary type="html"><![CDATA[
-<div class="hint-container tip">
-<p class="hint-container-title">导读</p>
-<p>本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。</p>
-</div>
-<h2>什么是产品经理？</h2>
-<p>产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源，确保产品能够为用户创造价值，同时为公司带来收益。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理的核心职责</p>
-<ul>
-<li>产品战略规划</li>
-<li>需求分析与管理</li>
-<li>产品设计与优化</li>
-<li>跨团队协作</li>
-<li>数据分析与决策</li>
-</ul>
-</div>]]></summary>
-    <content type="html"><![CDATA[
-<div class="hint-container tip">
-<p class="hint-container-title">导读</p>
-<p>本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。</p>
-</div>
-<h2>什么是产品经理？</h2>
-<p>产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源，确保产品能够为用户创造价值，同时为公司带来收益。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理的核心职责</p>
-<ul>
-<li>产品战略规划</li>
-<li>需求分析与管理</li>
-<li>产品设计与优化</li>
-<li>跨团队协作</li>
-<li>数据分析与决策</li>
-</ul>
-</div>
-<h2>为什么需要产品经理？</h2>
-<h3>1. 需求整合者</h3>
-<p>产品经理负责收集、分析和整合来自用户、市场、业务团队等各方面的需求，确保产品方向正确。</p>
-<h3>2. 决策制定者</h3>
-<p>在资源有限的情况下，产品经理需要做出优先级判断，决定做什么、不做什么。</p>
-<h3>3. 跨部门协调者</h3>
-<p>产品经理需要与设计、开发、运营、市场等多个团队协作，确保产品顺利落地。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理 vs 项目经理</p>
-<p>| | 产品经理 | 项目经理 |
-|</p>
-</div>
-]]></content>
-    <published>2025-03-24T13:29:55.000Z</published>
   </entry>
 </feed>
