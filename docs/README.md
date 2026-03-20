@@ -4,10 +4,10 @@ home: true
 layout: BlogHome
 icon: fa6-solid:house-crack
 title: 主页
-#heroImage: /logo.svg
+# heroImage: https://s1.imagehub.cc/images/2026/03/20/47c0eff2d458a06b28a4d1519b4573e5.png
 heroText: I'm FC
 tagline: A full-stack engineer specializing in website design and development
-# bgImage: https://s1.imagehub.cc/images/2025/02/23/e968c6906c4b5b39617d57cb6e2b1ef1.th.jpg
+bgImage: https://s1.imagehub.cc/images/2026/03/20/47c0eff2d458a06b28a4d1519b4573e5.png
 heroFullScreen: false
 #projects:
 #  - icon: project

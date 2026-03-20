@@ -50,3 +50,13 @@
   opacity: 0.8;
   background-color: var(--vp-c-accent); /* 悬停时的背景颜色 */
 }
+
+html {
+  .vp-blog-hero-title {
+    color: #111827;
+  }
+
+  .vp-blog-hero-description {
+    color: rgb(17 24 39 / 78%);
+  }
+}
