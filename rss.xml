@@ -6,11 +6,21 @@
     <link>https://github.com/robin-fc/robin-fc.github.io/</link>
     <description>记工作之要点，拾生活之点滴，存身边之故事，游思维之宫殿</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Mar 2026 09:10:43 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2026 09:10:43 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 08:02:44 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:02:44 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
+    <item>
+      <title>埋点和 APM 的区别</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">埋点和 APM 的区别</source>
+      <description>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释： 1. 定义与核心目标 APM（Application Performance Monitoring） 专注于技术层面的性能监控，目的是实时追踪应用的健康状态，发现性能瓶颈（如响应延迟、服务...</description>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释：</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>博客文章样例</title>
       <link>https://github.com/robin-fc/robin-fc.github.io/posts/2024-03-01-blog_example.html</link>
@@ -20,415 +30,6 @@
       <category>使用指南</category>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>如何成为一个好的产品</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E4%BA%A7%E5%93%81/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%BA%A7%E5%93%81.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">如何成为一个好的产品</source>
-      <description>如何成为一个好的产品经理 导读 本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。 什么是产品经理？ 产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源...</description>
-      <pubDate>Mon, 24 Mar 2025 13:29:55 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container tip">
-<p class="hint-container-title">导读</p>
-<p>本文将从产品经理的定义出发，深入探讨产品经理的角色定位、必备能力、学习路径以及评估标准，帮助你全面了解如何成为一名优秀的产品经理。</p>
-</div>
-<h2>什么是产品经理？</h2>
-<p>产品经理（Product Manager，简称PM）是一个负责产品全生命周期的角色，从产品的构思、规划、开发到上市后的持续优化。产品经理需要平衡用户需求、商业目标和团队资源，确保产品能够为用户创造价值，同时为公司带来收益。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理的核心职责</p>
-<ul>
-<li>产品战略规划</li>
-<li>需求分析与管理</li>
-<li>产品设计与优化</li>
-<li>跨团队协作</li>
-<li>数据分析与决策</li>
-</ul>
-</div>
-<h2>为什么需要产品经理？</h2>
-<h3>1. 需求整合者</h3>
-<p>产品经理负责收集、分析和整合来自用户、市场、业务团队等各方面的需求，确保产品方向正确。</p>
-<h3>2. 决策制定者</h3>
-<p>在资源有限的情况下，产品经理需要做出优先级判断，决定做什么、不做什么。</p>
-<h3>3. 跨部门协调者</h3>
-<p>产品经理需要与设计、开发、运营、市场等多个团队协作，确保产品顺利落地。</p>
-<div class="hint-container info">
-<p class="hint-container-title">产品经理 vs 项目经理</p>
-<p>| | 产品经理 | 项目经理 |
-|</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>大前端</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">大前端</source>
-      <description>大前端（Big Frontend） 是近年来随着技术发展演变出的概念，指突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。 一、传统前端 vs 大前端 二、大前端的核心特征 跨平台开发 一套代码适配多端：通过 React Native、Flutter、Tar...</description>
-      <pubDate>Fri, 28 Feb 2025 15:14:39 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>大前端（Big Frontend）</strong> 是近年来随着技术发展演变出的概念，指<strong>突破传统网页开发的边界，覆盖多端、多场景、全链路的前端开发体系</strong>。它不再局限于浏览器环境，而是通过技术整合与架构升级，实现跨平台、一体化的开发模式。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml"></source>
-      <description>大前端技术路线</description>
-      <pubDate>Thu, 10 Apr 2025 05:20:38 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>大前端技术路线</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>六爻算命</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%AD%E7%88%BB%E7%AE%97%E5%91%BD.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%AD%E7%88%BB%E7%AE%97%E5%91%BD.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">六爻算命</source>
-      <description>六爻算命 地址 网址：六爻算命 原理 先整理六爻的原理，将六爻摇挂的交互，抽象成6次抛硬币，对应6个结果映射为6个卦象，然后封装提示词给ai分析，准的可怕，老祖宗的智慧真的不懂但是需要尊重。</description>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<h2>地址</h2>
-<p>网址：<a href="https://i-ching-whisperer.lovable.app/" target="_blank" rel="noopener noreferrer">六爻算命</a></p>
-<h2>原理</h2>
-<p>先整理六爻的原理，将六爻摇挂的交互，抽象成6次抛硬币，对应6个结果映射为6个卦象，然后封装提示词给ai分析，准的可怕，老祖宗的智慧真的不懂但是需要尊重。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>爱上迪小程序</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%88%B1%E4%B8%8A%E8%BF%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%88%B1%E4%B8%8A%E8%BF%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">爱上迪小程序</source>
-      <description>爱上迪小程序 从 0 到 1 做一个「迪士尼周边交易小程序」：AWW 技术复盘 关键词：微信小程序、Spring Boot、PostgreSQL、JWT、Flyway、腾讯云 COS、运营后台、性能优化 1. 背景与目标 AWW（爱上迪/爱上海迪）是一个面向迪士尼周边爱好者的交易与社区平台，产品形态上由三部分组成： 小程序端（aww-web）：面向普通...</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p>从 0 到 1 做一个「迪士尼周边交易小程序」：AWW 技术复盘</p>
-<blockquote>
-<p>关键词：微信小程序、Spring Boot、PostgreSQL、JWT、Flyway、腾讯云 COS、运营后台、性能优化</p>
-</blockquote>
-<h2>1. 背景与目标</h2>
-<p>AWW（爱上迪/爱上海迪）是一个面向迪士尼周边爱好者的交易与社区平台，产品形态上由三部分组成：</p>
-<ul>
-<li><strong>小程序端（aww-web）</strong>：面向普通用户的主入口，包含发现/论坛/图鉴/我的、商品详情与发布、私聊、发售日历等。</li>
-<li><strong>后端服务（aww-server）</strong>：统一的 REST API，承载登录鉴权、商品与交易数据、论坛与聊天、文件上传、埋点与运营统计等。</li>
-<li><strong>管理后台（aww-dashboard）</strong>：面向运营/管理员，用于管理 SPU/SKU、上传资源、审核/下架交易信息、管理用户与配置、查看埋点汇总。</li>
-</ul>
-<p>项目的核心目标不是“功能堆砌”，而是尽快形成闭环：<strong>用户能看到商品 → 能发布求购/出售信息 → 能私聊沟通 → 管理侧可治理内容与维护数据</strong>。在此基础上，再通过性能与工程化迭代降低维护成本。</p>
-<h2>2. 整体架构</h2>
-<p>从交互视角来看，AWW 的关键链路可以抽象为三条：</p>
-<ol>
-<li><strong>登录链路</strong>：小程序 <code>wx.login()</code> 获取 <code>code</code> → 后端调用微信 <code>code2Session</code> 换 <code>openid/session_key</code> → 绑定/创建用户 → 签发 JWT。</li>
-<li><strong>内容链路</strong>：SPU/SKU 由管理后台维护 → 小程序端展示并承接“发布/收藏/拥有/价格信息”等。</li>
-<li><strong>交易链路</strong>：小程序发布 BUY/SELL → 后端校验 SKU 与价格区间 → 生成/覆盖 ACTIVE 报价 → 管理后台可下架并发系统消息 → 用户在消息中心感知治理结果。</li>
-</ol>
-<h3>2.1 端到端组件关系</h3>
-<h3>2.2 技术栈选择的理由</h3>
-<ul>
-<li><strong>后端：Spring Boot + JPA + Flyway</strong>
-<ul>
-<li>对 CRUD 型业务与权限管控足够高效，心智负担低。</li>
-<li>Flyway 迁移适合“持续演进的表结构”，可追溯与可回滚的工程体验明显优于手工改表。</li>
-</ul>
-</li>
-<li><strong>数据：PostgreSQL</strong>
-<ul>
-<li>对 JSONB、索引、聚合等能力友好，能支撑后续搜索与统计类需求。</li>
-</ul>
-</li>
-<li><strong>鉴权：JWT</strong>
-<ul>
-<li>小程序天然是无状态调用，JWT 能减少服务端会话复杂度，并能在管理后台与小程序端复用同一套认证框架。</li>
-</ul>
-</li>
-<li><strong>对象存储：腾讯云 COS</strong>
-<ul>
-<li>图片/资源托管与 CDN 天然适配，能避免本地磁盘存储带来的扩容、备份与权限问题。</li>
-</ul>
-</li>
-<li><strong>管理后台：Vue 3 + TypeScript + Element Plus + Vite</strong>
-<ul>
-<li>快速落地列表/表单/上传等常见运营界面；Vite 开发体验好，构建产物可控。</li>
-</ul>
-</li>
-<li><strong>小程序：原生 + TypeScript</strong>
-<ul>
-<li>直接对齐微信端能力，减少额外框架层带来的不确定性；同时通过类型系统降低线上回归风险。</li>
-</ul>
-</li>
-</ul>
-<h2>3. 后端关键设计与实现</h2>
-<h3>3.1 统一鉴权：小程序登录 + 管理员登录共用 JWT</h3>
-<p>后端有两类身份：</p>
-<ul>
-<li><strong>普通用户</strong>：小程序端通过 <code>/api/users/login</code> 登录，返回 <code>token/userInfo</code>。</li>
-<li><strong>管理员</strong>：后台通过 <code>/api/admin/login</code> 登录，用于写操作与治理能力。</li>
-</ul>
-<p>项目的关键点在于：两类身份<strong>共享同一个 JWT 方案</strong>，但对应不同的数据库表。为了避免“同一个 subject 在不同表中碰撞导致角色识别错误”，鉴权过滤器做了按路径优先级的识别策略（在管理相关路径上优先按管理员解析）：</p>
-<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> uri </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> request</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getRequestURI</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">boolean</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> preferAdminFirst </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> uri</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">startsWith</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"/api/admin"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> ||</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> uri</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">startsWith</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"/api/uploads"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">Optional</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#C678DD">?</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> Optional</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">empty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (preferAdminFirst) {</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> adminService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getAdminById</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(userId);</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">userOptional</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isEmpty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">        userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> userService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findById</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(userId);</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">} </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">else</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> {</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> userService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findById</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(userId);</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">userOptional</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isEmpty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">        userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> adminService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getAdminById</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(userId);</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这类问题在多端共用 token 的系统里非常常见：<strong>“身份域”必须明确</strong>。本项目采用“按路径优先级”作为折中解法，后续更稳健的做法是把 <code>subject</code> 变成 <code>admin:{id}</code> / <code>user:{id}</code>，或增加 <code>role</code> claim。</p>
-<h3>3.2 小程序登录：静默登录与资料补全的分段流程</h3>
-<p>小程序常见的体验诉求是“进入即用”，但微信侧用户资料授权又需要用户交互。为此后端把登录分成两段：</p>
-<ol>
-<li>仅传 <code>code</code>：如果 <code>openid</code> 已存在则直接登录；若不存在，返回 <code>requireProfile=true</code> 提示前端弹窗补全昵称与头像。</li>
-<li>传 <code>code + userInfo</code>：创建或更新用户，并签发 token。</li>
-</ol>
-<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (userInfo </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">    Optional</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">User</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> existing </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> userService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findByOpenid</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(openid);</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">        User</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> user </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">get</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">        Map</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> Object</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> data </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> HashMap</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;&gt;</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">()</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"userId"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"openid"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, openid);</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"token"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tokenProvider</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">generateToken</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()));</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"userInfo"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, user);</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">        return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> ResponseEntity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ok</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Map</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">of</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"success"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"data"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, data));</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    } </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">else</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> {</span></span>
-<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">        Map</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> Object</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> data </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> HashMap</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;&gt;</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">()</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"requireProfile"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"openid"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, openid);</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">        return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> ResponseEntity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ok</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Map</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">of</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"success"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"data"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, data));</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>此设计的收益：</p>
-<ul>
-<li>首次进入体验更顺滑：能把“授权资料”延后到真正需要的时候。</li>
-<li>静默登录不会覆盖已有资料：更新逻辑只覆盖非空字段</li>
-</ul>
-<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existingUser</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    user </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> existingUser</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">get</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (nickname </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">!=</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> &amp;&amp;</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> !</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">nickname</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">trim</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">().</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isEmpty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setNickname</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(nickname);</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (avatarUrl </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">!=</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> &amp;&amp;</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> !</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">avatarUrl</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">trim</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">().</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isEmpty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setAvatarUrl</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(avatarUrl);</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setLastLoginAt</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">java</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">time</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">LocalDateTime</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">now</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>3.3 数据演进：Flyway 迁移 + 序列校准</h3>
-<p>项目采用 Flyway 维护数据库迁移脚本（<code>V1__Initial_schema.sql</code> 起步，后续持续演进），并在应用启动时对用户 ID 序列进行校准以规避历史数据迁移导致的主键冲突：</p>
-<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">jdbcTemplate</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">execute</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span></span>
-<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "SELECT setval(</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
-<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "  pg_get_serial_sequence('users','id'),</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
-<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "  GREATEST(9999, (SELECT COALESCE(MAX(id),0) FROM users)),</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
-<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "  TRUE</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
-<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  ");"</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>经验总结：</p>
-<ul>
-<li>迁移脚本是“事实来源”，文档永远滞后；因此迁移本身的可读性与命名必须长期维护。</li>
-<li>主键策略一旦更改（例如从低位开始、或做过数据回填），建议显式校准序列，避免上线后出现难以排查的插入失败。</li>
-</ul>
-<h3>3.4 交易发布：价格区间、特殊品类与“覆盖式 Upsert”</h3>
-<p>交易报价（BUY/SELL）是小程序的核心业务对象之一。这里做了三类约束，保证数据可控：</p>
-<ol>
-<li><strong>价格区间校验</strong>：从 SKU 上读取 <code>limitPriceMin/limitPriceMax</code> 作为约束，避免离谱报价污染列表与排序。</li>
-<li><strong>特殊品类规则</strong>：对“商店名额”等品类采用“折扣/满减双字段”校验，避免被迫用单一价格字段表达复杂报价。</li>
-<li><strong>覆盖式 Upsert</strong>：同一用户、同一 SKU、同一类型（BUY/SELL）只允许一条 ACTIVE；新发布会覆盖旧记录，减少重复信息与垃圾数据。</li>
-</ol>
-<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">Optional</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">TradeOffer</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> existingOpt </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> tradeOfferRepository</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">    .</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findFirstBySkuIdAndUserIdAndTypeAndStatus</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(skuId, userId, type, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">TradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Status</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">ACTIVE</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existingOpt</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">    TradeOffer</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> existing </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> existingOpt</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">get</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setPriceAmount</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getPriceAmount</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setQuantity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getQuantity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setTradeMethod</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getTradeMethod</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setTradePlace</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getTradePlace</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setContactType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getContactType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setContactInfo</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getContactInfo</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> tradeOfferRepository</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">save</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(existing);</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> tradeOfferRepository</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">save</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(tradeOffer);</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这一设计的取舍：</p>
-<ul>
-<li>优点：列表更干净，用户修改报价的体验更直观；后端也更容易进行“每人每物每类一条”的统计。</li>
-<li>缺点：丢失历史版本；若未来需要价格走势或行为分析，需要引入审计表或事件流来补足。</li>
-</ul>
-<h3>3.5 管理治理：审核轨迹 + 系统消息通知</h3>
-<p>治理侧的关键能力包括：检索报价、下架/删除、批量操作、记录审计原因，并把治理结果通过“系统消息”推送给用户。</p>
-<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> msg </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "您发布的商品《"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> title </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">+</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "》的"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> typeCn </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">+</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "信息已下架"</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">    +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (remark </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">!=</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> &amp;&amp;</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> !</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">remark</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isBlank</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> ?</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"，原因："</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> remark) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ""</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">)</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">chatService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sendMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> ChatMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(sender, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">offer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getUserId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(), msg, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">ChatMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">MessageType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">SYSTEM</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">));</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这种“系统消息即聊天消息”的模型，在工程上非常划算：</p>
-<ul>
-<li>不需要额外维护通知表与消息中心协议。</li>
-<li>客户端可以复用同一套 UI 与拉取逻辑。</li>
-</ul>
-<h3>3.6 文件存储：COS 统一上传与后台资源管理</h3>
-<p>图片与资源托管采用腾讯云 COS。后端提供：</p>
-<ul>
-<li>管理后台的文件列表/关键字过滤/分页</li>
-<li>单文件上传/批量上传</li>
-<li>批量删除</li>
-</ul>
-<p>核心实现：</p>
-<ul>
-<li>COS 客户端与本地 <code>.env</code> 容错加载</li>
-<li>上传与管理接口</li>
-<li>COS 访问与对象操作封装</li>
-</ul>
-<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">private</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> String</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> requireBucket</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">() {</span></span>
-<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">    String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> b </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> bucket</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">()</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">b</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isBlank</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">        throw</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> IllegalArgumentException</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"未配置 COS 存储桶：请设置环境变量 TENCENT_COS_BUCKET"</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">)</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    return</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> b</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>经验总结：对象存储一定要把 <strong>bucket / baseUrl / region</strong> 等配置从代码里抽离到环境变量，避免配置漂移与泄露风险。</p>
-<h3>3.7 埋点与运营统计：事件模型 + 管理侧汇总</h3>
-<p>项目实现了一套轻量级的事件上报与汇总能力：</p>
-<ul>
-<li>小程序端上报：<code>POST /api/metrics/events</code></li>
-<li>管理侧汇总：<code>GET /api/admin/metrics/summary</code></li>
-</ul>
-<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">AppEvent</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> ev </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> AppEvent</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">(uid</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">eventType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">trim</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(),</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">page</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">refId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> meta)</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">appEventRepository</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">save</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(ev);</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> ResponseEntity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ok</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Map</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">of</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"success"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">));</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这种“先把数据记下来，再做分析”的策略适合 0→1 阶段：先让闭环跑起来，统计口径可以后置迭代。</p>
-<h2>4. 管理后台与小程序端：工程化与性能优化</h2>
-<h3>4.1 管理后台：构建产物可控、按需引入 UI</h3>
-<p>管理后台基于 Vue3 + TS + Element Plus，并通过构建策略降低首包体积与提升缓存命中：</p>
-<ul>
-<li>按需自动引入 Element Plus 组件与样式（减少整库打包）</li>
-<li>Rollup 手动分包（vue/axios/icons）</li>
-<li>仅开发环境启用 devtools 插件</li>
-<li>开发期通过 Vite proxy 直连本地后端 <code>/api</code></li>
-</ul>
-<p>参考配置：<code>aww-dashboard/vite.config.ts</code>（构建分包 + Element Plus 按需引入）</p>
-<h3>4.2 小程序性能：按需注入与构建配置收敛</h3>
-<p>小程序侧采用了微信推荐的性能策略：</p>
-<ul>
-<li><code>lazyCodeLoading: "requiredComponents"</code> 开启按需注入</li>
-<li><code>minifyWXSS/minifyWXML</code> 等压缩配置</li>
-<li><code>uploadWithSourceMap: false</code> 降低构建产物体积</li>
-<li><code>lazyloadPlaceholderEnable: true</code> 提升懒加载体验</li>
-</ul>
-<p>配置入口：<code>aww-web/project.config.json</code></p>
-<h2>5. 复盘：做对了什么、踩过哪些坑</h2>
-<h3>5.1 做对了什么</h3>
-<ol>
-<li><strong>闭环优先</strong>：先把“商品—报价—沟通—治理”跑通，再做体验与性能优化。</li>
-<li><strong>沟通至上</strong>：在项目初期，我强调“沟通是项目成功的基础”。我会与合作人频繁沟通，分享项目进度、技术难题、解决方案。我也会主动监听合作人反馈，及时调整项目方向。</li>
-<li><strong>工程化逐步收敛</strong>：后台按需引入与分包，小程序按需注入与压缩，属于“低成本高收益”的优化。</li>
-</ol>
-<h3>5.2 真实踩坑与经验教训</h3>
-<ol>
-<li>
-<p><strong>数据库备份</strong></p>
-<ul>
-<li>问题本质：数据库前期没有备份，合作人自己导数据没有跟我说，导致中间丢失了20多条报价数据。</li>
-<li>经验：数据库一定要建立备份，不要依赖于人工。开发环境和生产环境可以的话尽量分开。</li>
-</ul>
-</li>
-<li>
-<p><strong>与人合作的目的性</strong></p>
-<ul>
-<li>合作的朋友大概是失业以后想转型，但是缺乏市场认可的完善的作品，所以最终我也只象征性拿了3000元。</li>
-<li>经验：如果只是为了学习，就不要在乎报酬。如果为了钱，就不要随便放下自己的身段。后续不随便接单，提高自己的客单价！</li>
-</ul>
-</li>
-<li>
-<p><strong>需求理解与实现细节</strong></p>
-<ul>
-<li>问题本质：前期虽然准备了大量工作去理解项目需求，但是中间关于商品报价的功能细节还是有误差，首先他的产品稿子并非高保真，没有UI，其次我对这块业务理解也不透彻，导致在实现过程中出现了一些偏差。</li>
-<li>经验：确保理解一致的最好办法。是基于原型的复述。</li>
-</ul>
-</li>
-</ol>
-<h2>6. 题外话</h2>
-<p>这是我参与设计的第一个闭环的项目，从前端的小程序、后台管理系统，到java后端、数据库、存储桶、部署、测试、接口文档，实现了我自认为还算满意的闭环。虽然最后因为大环境又变差了没有上线，但是对于我对整体项目的设计实现，尤其是后端开发过程中会遇到的细节流程，还是有很多收获的。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>美食地图</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">美食地图</source>
-      <description>美食地图 背景 706群里有一个飞书表格收集了大家去过的好吃的美食，包括店名、价格、特色、美食地址等。 刚好比较嫌就花了一天利用ai实现了一下，直接在 lovable 发布 最近进入了一个旅游群，发了一下不知道是否有人用 网址：美食地图 复盘 UI还是需要人设计 需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</description>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<h2>背景</h2>
-<p>706群里有一个飞书表格收集了大家去过的好吃的美食，包括店名、价格、特色、美食地址等。</p>
-<p>刚好比较嫌就花了一天利用ai实现了一下，直接在 lovable 发布</p>
-<p>最近进入了一个旅游群，发了一下不知道是否有人用</p>
-<p>网址：<a href="https://lifemap706.lovable.app/" target="_blank" rel="noopener noreferrer">美食地图</a></p>
-<h2>复盘</h2>
-<ol>
-<li>UI还是需要人设计</li>
-<li>需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>柯布教育网站</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E6%9F%AF%E5%B8%83%E6%95%99%E8%82%B2%E7%BD%91%E7%AB%99.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E6%9F%AF%E5%B8%83%E6%95%99%E8%82%B2%E7%BD%91%E7%AB%99.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">柯布教育网站</source>
-      <description>柯布教育网站 背景 柯布生态学院是一个国际教育组织，专注于推广其教育理念，提倡教育的目的不应只是服务人类，更要融合生态理念，实现人类的可持续发展。 从黄山打完黑客松回来以后，朋友推荐的一个活儿，因为是类似公益网站，没啥钱并且需要降低维护成本，本来打算用express的但是考虑到后面做品牌升级，加上还有个管理后台，可能要定制。 所以最后经过调研，用rea...</description>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<h2>背景</h2>
-<p>柯布生态学院是一个国际教育组织，专注于推广其教育理念，提倡教育的目的不应只是服务人类，更要融合生态理念，实现人类的可持续发展。</p>
-<p>从黄山打完黑客松回来以后，朋友推荐的一个活儿，因为是类似公益网站，没啥钱并且需要降低维护成本，本来打算用express的但是考虑到后面做品牌升级，加上还有个管理后台，可能要定制。</p>
-<p>所以最后经过调研，用react框架结合supabase数据库实现了整个网站。然后通过vercel进行部署，实现了0成本部署，后续假设用户数量大迁移加钱也方便，并且也不算贵。</p>
-<p>网址：<a href="https://www.cobbecociv.academy/" target="_blank" rel="noopener noreferrer">柯布生态学院</a></p>
-<h2>复盘</h2>
-<ol>
-<li>项目从7月20多号开始拉群沟通，但是现在三个月了还没有结束，主要有三个原因：</li>
-</ol>
-<ul>
-<li>需求不明确，几乎一半时间都用来沟通网站真实需求了</li>
-<li>我个人时间有限，没办法一直持续沟通</li>
-<li>与甲方有时差，加上她也比较忙，每次对进度都要预约，比较麻烦</li>
-</ul>
-<ol start="2">
-<li>项目在启动前商议并签署项目协议很有必要</li>
-</ol>
-<ul>
-<li>
-<p>商议了一个项目包括项目<code>需求总结</code>、<code>技术选型</code>、<code>分阶段付款</code>和<code>各阶段计划交付时间</code>等，并且注明了因为<strong>甲方因素导致的延期可以协商处理，不扣钱</strong>。</p>
-</li>
-<li>
-<p>当下因为甲方那边付款资质问题导致网站支付功能受阻，所以我这边只能等，不过不用担责，还行。并且也拿到了2笔阶段款</p>
-</li>
-</ul>
-<ol start="3">
-<li>UI风格</li>
-</ol>
-<ul>
-<li>
-<p>找了打比赛认识的一个设计师，我自己掏了3000出来，但是用户似乎更喜欢传统的express的那种风格 😢</p>
-</li>
-<li>
-<p>此外对于年纪大一点的用户，后台管理用所见即所得的方式似乎更棒，用户理解起来也更方便。</p>
-</li>
-</ul>
-<ol start="4">
-<li>supabase 免费的版本有个缺点就是没过一段时间没人访问就会暂停数据库资源，其实这是好事，节省资源，只是正式上线可能需要升级到付费版本</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>埋点和 APM 的区别</title>
-      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html</link>
-      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E6%8A%80%E6%9C%AF/%E5%9F%8B%E7%82%B9%E5%92%8CAPM%E7%9A%84%E5%8C%BA%E5%88%AB.html</guid>
-      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">埋点和 APM 的区别</source>
-      <description>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释： 1. 定义与核心目标 APM（Application Performance Monitoring） 专注于技术层面的性能监控，目的是实时追踪应用的健康状态，发现性能瓶颈（如响应延迟、服务...</description>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>应用程序性能监控（APM）和埋点（Instrumentation）虽然都涉及数据采集和分析，但它们的核心目标、实现方式和使用场景有显著差异。以下是详细的对比和解释：</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -713,6 +314,393 @@
 </ol>
 <h3>总结</h3>
 <p>使用 iframe 实现无感登录是一个相对简单且有效的方案。通过合理的设计和实现，可以在保证安全性的同时提供良好的用户体验。在实际应用中，需要根据具体场景选择合适的实现方式，并注意处理各种边界情况。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>处于ai时代的一些想法</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%9A%8F%E6%84%9F/%E5%A4%84%E4%BA%8Eai%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%9A%8F%E6%84%9F/%E5%A4%84%E4%BA%8Eai%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">处于ai时代的一些想法</source>
+      <description>背景（2026/4/20） 很久没有写文章了，最近公司的事情暂时交付了，得以闲下来做一些思考。 近一年以来，因为AI技术的发展，从生产方式到生产内容，都有了很大的变化，各行各业都会受到了冲击。去年刚入职的时候，公司没人用ai，cursor刚出来，GPT版本还是3.5。我用ai开发了.ai官网并带着实现了一些meet官网的活动页面以后，老大终于发现ai技...</description>
+      <pubDate>Mon, 20 Apr 2026 07:59:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>背景（2026/4/20）</h2>
+<p>很久没有写文章了，最近公司的事情暂时交付了，得以闲下来做一些思考。</p>
+<p>近一年以来，因为AI技术的发展，从生产方式到生产内容，都有了很大的变化，各行各业都会受到了冲击。去年刚入职的时候，公司没人用ai，cursor刚出来，GPT版本还是3.5。我用ai开发了.ai官网并带着实现了一些meet官网的活动页面以后，老大终于发现ai技术的潜力了，毕竟同样的活儿，我一个人可以干，安卓那边要2个人，还没我快。等到他自己用了下以后发现不对劲了，开始买会员全公司推广了。说实话我只是想着有好东西大家一起用，但是最终好像是以一己之力带动了公司的ai改革。后来在组内做了前端ai使用经验和技术分享，制定了前端的项目规范agent.md以及用ai开发的场景和边界。到上个月，据说有同事一天干了1个亿的token，我估计是没有加ignore，但是在用就是好事。</p>
+<p>现在，小龙虾火了一阵，Skill火了一阵，市场又沉默了。其实早在去年claw就出现了，包括到现在为止，也只是一个烧token的玩具，本质是agent实现了能力的扩展，能自主调用或者集成浏览器、开源仓库、第三方服务，根本还是需要模型、以及懂得制定规则的人。</p>
+<p>市场现在有三种人，一种是不懂技术，但是有资源的人；一种是懂技术的人；一种是懂产品的人。</p>
+<p>市面上炒作的agent产品、龙虾，面向的主要是第一种人，这类产品的出发点，是再早期占领市场热度，培养用户粘性，通过提供限时免费的活动，让用户参与进来，满足自己一时的兴趣。
+但是事实上，单纯靠ai去根据一两句话执行的任务，是无法落地的，即便需求轻一点，懂产品的人去写提示词，依旧会耗费大量的时间和token，因为语言的表达即便再准确，也会有歧义和偏差，一定会有看上去结果正确，其实背后设计逻辑或者某个细节、规则被忽略、被误解的情况，此时就是代码雪崩的开始，也是资本乐于看见的事情，用户将为了自己脑中的那100%的产品，烧成倍的token去修复各种问题，最终卡在99.99999%，当然这也够了，毕竟他们创作欲的情绪得到了满足。</p>
+<p>但是对于一个开发者，一个有自我要求的开发，这是不能接受的，所以有了面向开发者的Cursor、Trae、Codex等工具和SPEC-DRIVEN。开发者们热火朝天地创建、复制和修改符合自己习惯的开发规范，让ai按照规范去开发。这确实能在很大程度上解决ai开发中，因为上下文过长导致的结果过于发散的问题。但是即便有了SPEC-DRIVEN，ai的开发还是需要人来参与，因为ai只是工具，规则是逐步完善的，结果的收敛针对长规则也是有权重的。在写提示词的时候，就要想尽办法让ai在自己的控制下去实现框架，保证大的东西不变，后面按模板套对于ai是很容易的事情。</p>
+<p>对于产品来说，不管是<a href="https://stitch.withgoogle.com/" target="_blank" rel="noopener noreferrer">stitch</a>还是<a href="https://variant.com/" target="_blank" rel="noopener noreferrer">variant</a>,都可以省掉很多事情，claw也能帮助产品快速验证一个idea的可行性，并且这些产品还支持直接部署到一个域名或者导出早期code。</p>
+<p>热度过去，繁华落幕，下一个热点，应该是Skill聚合平台，因为用户不可能安装所有Skill,所以需要一个平台统一集成和中转。但是大概率会被大厂收购或者垄断。</p>
+<p>对于个人开发者而言，未来的出路还是在流量，而不是在技术上，因为技术已经几乎没有门槛了，尤其是对于早期验证市场来说。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>六爻算命</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%AD%E7%88%BB%E7%AE%97%E5%91%BD.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%AD%E7%88%BB%E7%AE%97%E5%91%BD.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">六爻算命</source>
+      <description>六爻算命 地址 网址：六爻算命 原理 先整理六爻的原理，将六爻摇挂的交互，抽象成6次抛硬币，对应6个结果映射为6个卦象，然后封装提示词给ai分析，准的可怕，老祖宗的智慧真的不懂但是需要尊重。</description>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>地址</h2>
+<p>网址：<a href="https://i-ching-whisperer.lovable.app/" target="_blank" rel="noopener noreferrer">六爻算命</a></p>
+<h2>原理</h2>
+<p>先整理六爻的原理，将六爻摇挂的交互，抽象成6次抛硬币，对应6个结果映射为6个卦象，然后封装提示词给ai分析，准的可怕，老祖宗的智慧真的不懂但是需要尊重。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>爱上迪小程序</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%88%B1%E4%B8%8A%E8%BF%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%88%B1%E4%B8%8A%E8%BF%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">爱上迪小程序</source>
+      <description>爱上迪小程序 从 0 到 1 做一个「迪士尼周边交易小程序」：AWW 技术复盘 关键词：微信小程序、Spring Boot、PostgreSQL、JWT、Flyway、腾讯云 COS、运营后台、性能优化 1. 背景与目标 AWW（爱上迪/爱上海迪）是一个面向迪士尼周边爱好者的交易与社区平台，产品形态上由三部分组成： 小程序端（aww-web）：面向普通...</description>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>从 0 到 1 做一个「迪士尼周边交易小程序」：AWW 技术复盘</p>
+<blockquote>
+<p>关键词：微信小程序、Spring Boot、PostgreSQL、JWT、Flyway、腾讯云 COS、运营后台、性能优化</p>
+</blockquote>
+<h2>1. 背景与目标</h2>
+<p>AWW（爱上迪/爱上海迪）是一个面向迪士尼周边爱好者的交易与社区平台，产品形态上由三部分组成：</p>
+<ul>
+<li><strong>小程序端（aww-web）</strong>：面向普通用户的主入口，包含发现/论坛/图鉴/我的、商品详情与发布、私聊、发售日历等。</li>
+<li><strong>后端服务（aww-server）</strong>：统一的 REST API，承载登录鉴权、商品与交易数据、论坛与聊天、文件上传、埋点与运营统计等。</li>
+<li><strong>管理后台（aww-dashboard）</strong>：面向运营/管理员，用于管理 SPU/SKU、上传资源、审核/下架交易信息、管理用户与配置、查看埋点汇总。</li>
+</ul>
+<p>项目的核心目标不是“功能堆砌”，而是尽快形成闭环：<strong>用户能看到商品 → 能发布求购/出售信息 → 能私聊沟通 → 管理侧可治理内容与维护数据</strong>。在此基础上，再通过性能与工程化迭代降低维护成本。</p>
+<h2>2. 整体架构</h2>
+<p>从交互视角来看，AWW 的关键链路可以抽象为三条：</p>
+<ol>
+<li><strong>登录链路</strong>：小程序 <code>wx.login()</code> 获取 <code>code</code> → 后端调用微信 <code>code2Session</code> 换 <code>openid/session_key</code> → 绑定/创建用户 → 签发 JWT。</li>
+<li><strong>内容链路</strong>：SPU/SKU 由管理后台维护 → 小程序端展示并承接“发布/收藏/拥有/价格信息”等。</li>
+<li><strong>交易链路</strong>：小程序发布 BUY/SELL → 后端校验 SKU 与价格区间 → 生成/覆盖 ACTIVE 报价 → 管理后台可下架并发系统消息 → 用户在消息中心感知治理结果。</li>
+</ol>
+<h3>2.1 端到端组件关系</h3>
+<h3>2.2 技术栈选择的理由</h3>
+<ul>
+<li><strong>后端：Spring Boot + JPA + Flyway</strong>
+<ul>
+<li>对 CRUD 型业务与权限管控足够高效，心智负担低。</li>
+<li>Flyway 迁移适合“持续演进的表结构”，可追溯与可回滚的工程体验明显优于手工改表。</li>
+</ul>
+</li>
+<li><strong>数据：PostgreSQL</strong>
+<ul>
+<li>对 JSONB、索引、聚合等能力友好，能支撑后续搜索与统计类需求。</li>
+</ul>
+</li>
+<li><strong>鉴权：JWT</strong>
+<ul>
+<li>小程序天然是无状态调用，JWT 能减少服务端会话复杂度，并能在管理后台与小程序端复用同一套认证框架。</li>
+</ul>
+</li>
+<li><strong>对象存储：腾讯云 COS</strong>
+<ul>
+<li>图片/资源托管与 CDN 天然适配，能避免本地磁盘存储带来的扩容、备份与权限问题。</li>
+</ul>
+</li>
+<li><strong>管理后台：Vue 3 + TypeScript + Element Plus + Vite</strong>
+<ul>
+<li>快速落地列表/表单/上传等常见运营界面；Vite 开发体验好，构建产物可控。</li>
+</ul>
+</li>
+<li><strong>小程序：原生 + TypeScript</strong>
+<ul>
+<li>直接对齐微信端能力，减少额外框架层带来的不确定性；同时通过类型系统降低线上回归风险。</li>
+</ul>
+</li>
+</ul>
+<h2>3. 后端关键设计与实现</h2>
+<h3>3.1 统一鉴权：小程序登录 + 管理员登录共用 JWT</h3>
+<p>后端有两类身份：</p>
+<ul>
+<li><strong>普通用户</strong>：小程序端通过 <code>/api/users/login</code> 登录，返回 <code>token/userInfo</code>。</li>
+<li><strong>管理员</strong>：后台通过 <code>/api/admin/login</code> 登录，用于写操作与治理能力。</li>
+</ul>
+<p>项目的关键点在于：两类身份<strong>共享同一个 JWT 方案</strong>，但对应不同的数据库表。为了避免“同一个 subject 在不同表中碰撞导致角色识别错误”，鉴权过滤器做了按路径优先级的识别策略（在管理相关路径上优先按管理员解析）：</p>
+<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> uri </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> request</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getRequestURI</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">boolean</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> preferAdminFirst </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> uri</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">startsWith</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"/api/admin"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> ||</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> uri</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">startsWith</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"/api/uploads"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">Optional</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#C678DD">?</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> Optional</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">empty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (preferAdminFirst) {</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> adminService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getAdminById</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(userId);</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">userOptional</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isEmpty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">        userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> userService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findById</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(userId);</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">} </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">else</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> {</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> userService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findById</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(userId);</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">userOptional</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isEmpty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">        userOptional </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> adminService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getAdminById</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(userId);</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这类问题在多端共用 token 的系统里非常常见：<strong>“身份域”必须明确</strong>。本项目采用“按路径优先级”作为折中解法，后续更稳健的做法是把 <code>subject</code> 变成 <code>admin:{id}</code> / <code>user:{id}</code>，或增加 <code>role</code> claim。</p>
+<h3>3.2 小程序登录：静默登录与资料补全的分段流程</h3>
+<p>小程序常见的体验诉求是“进入即用”，但微信侧用户资料授权又需要用户交互。为此后端把登录分成两段：</p>
+<ol>
+<li>仅传 <code>code</code>：如果 <code>openid</code> 已存在则直接登录；若不存在，返回 <code>requireProfile=true</code> 提示前端弹窗补全昵称与头像。</li>
+<li>传 <code>code + userInfo</code>：创建或更新用户，并签发 token。</li>
+</ol>
+<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (userInfo </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">    Optional</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">User</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> existing </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> userService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findByOpenid</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(openid);</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">        User</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> user </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">get</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
+<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">        Map</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> Object</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> data </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> HashMap</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;&gt;</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">()</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"userId"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"openid"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, openid);</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"token"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tokenProvider</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">generateToken</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()));</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"userInfo"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, user);</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">        return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> ResponseEntity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ok</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Map</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">of</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"success"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"data"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, data));</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    } </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">else</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> {</span></span>
+<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">        Map</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> Object</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> data </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> HashMap</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;&gt;</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">()</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"requireProfile"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">put</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"openid"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, openid);</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">        return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> ResponseEntity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ok</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Map</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">of</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"success"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"data"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, data));</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>此设计的收益：</p>
+<ul>
+<li>首次进入体验更顺滑：能把“授权资料”延后到真正需要的时候。</li>
+<li>静默登录不会覆盖已有资料：更新逻辑只覆盖非空字段</li>
+</ul>
+<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existingUser</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    user </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> existingUser</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">get</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (nickname </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">!=</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> &amp;&amp;</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> !</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">nickname</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">trim</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">().</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isEmpty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setNickname</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(nickname);</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (avatarUrl </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">!=</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> &amp;&amp;</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> !</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">avatarUrl</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">trim</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">().</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isEmpty</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">        user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setAvatarUrl</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(avatarUrl);</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    user</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setLastLoginAt</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">java</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">time</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">LocalDateTime</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">now</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>3.3 数据演进：Flyway 迁移 + 序列校准</h3>
+<p>项目采用 Flyway 维护数据库迁移脚本（<code>V1__Initial_schema.sql</code> 起步，后续持续演进），并在应用启动时对用户 ID 序列进行校准以规避历史数据迁移导致的主键冲突：</p>
+<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">jdbcTemplate</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">execute</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span></span>
+<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "SELECT setval(</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
+<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "  pg_get_serial_sequence('users','id'),</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
+<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "  GREATEST(9999, (SELECT COALESCE(MAX(id),0) FROM users)),</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
+<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  "  TRUE</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">\n</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span></span>
+<span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  ");"</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>经验总结：</p>
+<ul>
+<li>迁移脚本是“事实来源”，文档永远滞后；因此迁移本身的可读性与命名必须长期维护。</li>
+<li>主键策略一旦更改（例如从低位开始、或做过数据回填），建议显式校准序列，避免上线后出现难以排查的插入失败。</li>
+</ul>
+<h3>3.4 交易发布：价格区间、特殊品类与“覆盖式 Upsert”</h3>
+<p>交易报价（BUY/SELL）是小程序的核心业务对象之一。这里做了三类约束，保证数据可控：</p>
+<ol>
+<li><strong>价格区间校验</strong>：从 SKU 上读取 <code>limitPriceMin/limitPriceMax</code> 作为约束，避免离谱报价污染列表与排序。</li>
+<li><strong>特殊品类规则</strong>：对“商店名额”等品类采用“折扣/满减双字段”校验，避免被迫用单一价格字段表达复杂报价。</li>
+<li><strong>覆盖式 Upsert</strong>：同一用户、同一 SKU、同一类型（BUY/SELL）只允许一条 ACTIVE；新发布会覆盖旧记录，减少重复信息与垃圾数据。</li>
+</ol>
+<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">Optional</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">TradeOffer</span><span style="--shiki-light:#E45649;--shiki-dark:#ABB2BF">&gt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> existingOpt </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> tradeOfferRepository</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">    .</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">findFirstBySkuIdAndUserIdAndTypeAndStatus</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(skuId, userId, type, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">TradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Status</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">ACTIVE</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">existingOpt</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isPresent</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">    TradeOffer</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> existing </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> existingOpt</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">get</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">();</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setPriceAmount</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getPriceAmount</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setQuantity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getQuantity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setTradeMethod</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getTradeMethod</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setTradePlace</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getTradePlace</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setContactType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getContactType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">    existing</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">setContactInfo</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">tradeOffer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getContactInfo</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">());</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> tradeOfferRepository</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">save</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(existing);</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> tradeOfferRepository</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">save</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(tradeOffer);</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这一设计的取舍：</p>
+<ul>
+<li>优点：列表更干净，用户修改报价的体验更直观；后端也更容易进行“每人每物每类一条”的统计。</li>
+<li>缺点：丢失历史版本；若未来需要价格走势或行为分析，需要引入审计表或事件流来补足。</li>
+</ul>
+<h3>3.5 管理治理：审核轨迹 + 系统消息通知</h3>
+<p>治理侧的关键能力包括：检索报价、下架/删除、批量操作、记录审计原因，并把治理结果通过“系统消息”推送给用户。</p>
+<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> msg </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "您发布的商品《"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> title </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">+</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "》的"</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> typeCn </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">+</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "信息已下架"</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">    +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (remark </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">!=</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> &amp;&amp;</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> !</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">remark</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isBlank</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> ?</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"，原因："</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2"> +</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> remark) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ""</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">)</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">chatService</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sendMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> ChatMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(sender, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">offer</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getUserId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(), msg, </span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">ChatMessage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">MessageType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">SYSTEM</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">));</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这种“系统消息即聊天消息”的模型，在工程上非常划算：</p>
+<ul>
+<li>不需要额外维护通知表与消息中心协议。</li>
+<li>客户端可以复用同一套 UI 与拉取逻辑。</li>
+</ul>
+<h3>3.6 文件存储：COS 统一上传与后台资源管理</h3>
+<p>图片与资源托管采用腾讯云 COS。后端提供：</p>
+<ul>
+<li>管理后台的文件列表/关键字过滤/分页</li>
+<li>单文件上传/批量上传</li>
+<li>批量删除</li>
+</ul>
+<p>核心实现：</p>
+<ul>
+<li>COS 客户端与本地 <code>.env</code> 容错加载</li>
+<li>上传与管理接口</li>
+<li>COS 访问与对象操作封装</li>
+</ul>
+<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">private</span><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B"> String</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> requireBucket</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">() {</span></span>
+<span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">    String</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> b </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> bucket</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">()</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    if</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> (</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">b</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">isBlank</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">()</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">) {</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">        throw</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> IllegalArgumentException</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"未配置 COS 存储桶：请设置环境变量 TENCENT_COS_BUCKET"</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">)</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    }</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    return</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> b</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>经验总结：对象存储一定要把 <strong>bucket / baseUrl / region</strong> 等配置从代码里抽离到环境变量，避免配置漂移与泄露风险。</p>
+<h3>3.7 埋点与运营统计：事件模型 + 管理侧汇总</h3>
+<p>项目实现了一套轻量级的事件上报与汇总能力：</p>
+<ul>
+<li>小程序端上报：<code>POST /api/metrics/events</code></li>
+<li>管理侧汇总：<code>GET /api/admin/metrics/summary</code></li>
+</ul>
+<div class="language-java line-numbers-mode" data-highlighter="shiki" data-ext="java" data-title="java" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#C18401;--shiki-dark:#E5C07B">AppEvent</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> ev </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> AppEvent</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">(uid</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">eventType</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">trim</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(),</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">page</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> req</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">refId</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> meta)</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">appEventRepository</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">save</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(ev);</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">return</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B"> ResponseEntity</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ok</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">Map</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">of</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"success"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">true</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">));</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这种“先把数据记下来，再做分析”的策略适合 0→1 阶段：先让闭环跑起来，统计口径可以后置迭代。</p>
+<h2>4. 管理后台与小程序端：工程化与性能优化</h2>
+<h3>4.1 管理后台：构建产物可控、按需引入 UI</h3>
+<p>管理后台基于 Vue3 + TS + Element Plus，并通过构建策略降低首包体积与提升缓存命中：</p>
+<ul>
+<li>按需自动引入 Element Plus 组件与样式（减少整库打包）</li>
+<li>Rollup 手动分包（vue/axios/icons）</li>
+<li>仅开发环境启用 devtools 插件</li>
+<li>开发期通过 Vite proxy 直连本地后端 <code>/api</code></li>
+</ul>
+<p>参考配置：<code>aww-dashboard/vite.config.ts</code>（构建分包 + Element Plus 按需引入）</p>
+<h3>4.2 小程序性能：按需注入与构建配置收敛</h3>
+<p>小程序侧采用了微信推荐的性能策略：</p>
+<ul>
+<li><code>lazyCodeLoading: "requiredComponents"</code> 开启按需注入</li>
+<li><code>minifyWXSS/minifyWXML</code> 等压缩配置</li>
+<li><code>uploadWithSourceMap: false</code> 降低构建产物体积</li>
+<li><code>lazyloadPlaceholderEnable: true</code> 提升懒加载体验</li>
+</ul>
+<p>配置入口：<code>aww-web/project.config.json</code></p>
+<h2>5. 复盘：做对了什么、踩过哪些坑</h2>
+<h3>5.1 做对了什么</h3>
+<ol>
+<li><strong>闭环优先</strong>：先把“商品—报价—沟通—治理”跑通，再做体验与性能优化。</li>
+<li><strong>沟通至上</strong>：在项目初期，我强调“沟通是项目成功的基础”。我会与合作人频繁沟通，分享项目进度、技术难题、解决方案。我也会主动监听合作人反馈，及时调整项目方向。</li>
+<li><strong>工程化逐步收敛</strong>：后台按需引入与分包，小程序按需注入与压缩，属于“低成本高收益”的优化。</li>
+</ol>
+<h3>5.2 真实踩坑与经验教训</h3>
+<ol>
+<li>
+<p><strong>数据库备份</strong></p>
+<ul>
+<li>问题本质：数据库前期没有备份，合作人自己导数据没有跟我说，导致中间丢失了20多条报价数据。</li>
+<li>经验：数据库一定要建立备份，不要依赖于人工。开发环境和生产环境可以的话尽量分开。</li>
+</ul>
+</li>
+<li>
+<p><strong>与人合作的目的性</strong></p>
+<ul>
+<li>合作的朋友大概是失业以后想转型，但是缺乏市场认可的完善的作品，所以最终我也只象征性拿了3000元。</li>
+<li>经验：如果只是为了学习，就不要在乎报酬。如果为了钱，就不要随便放下自己的身段。后续不随便接单，提高自己的客单价！</li>
+</ul>
+</li>
+<li>
+<p><strong>需求理解与实现细节</strong></p>
+<ul>
+<li>问题本质：前期虽然准备了大量工作去理解项目需求，但是中间关于商品报价的功能细节还是有误差，首先他的产品稿子并非高保真，没有UI，其次我对这块业务理解也不透彻，导致在实现过程中出现了一些偏差。</li>
+<li>经验：确保理解一致的最好办法。是基于原型的复述。</li>
+</ul>
+</li>
+</ol>
+<h2>6. 题外话</h2>
+<p>这是我参与设计的第一个闭环的项目，从前端的小程序、后台管理系统，到java后端、数据库、存储桶、部署、测试、接口文档，实现了我自认为还算满意的闭环。虽然最后因为大环境又变差了没有上线，但是对于我对整体项目的设计实现，尤其是后端开发过程中会遇到的细节流程，还是有很多收获的。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>光怪陆离的梦</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB%E7%9A%84%E6%A2%A6.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">光怪陆离的梦</source>
+      <description>光怪陆离的梦 背景 一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下所有的梦。不得不说对于理解她的潜意识，理解当前的心境，真的很有帮助。 网址：光怪陆离的梦 原理 本质上也就是定制了一个提示词作为解梦agent啦</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>背景</h2>
+<p>一直做各种奇奇怪怪的梦，每次解梦挺麻烦的，所以我就想做一个解梦、存梦罐子，记录下所有的梦。不得不说对于理解她的潜意识，理解当前的心境，真的很有帮助。</p>
+<p>网址：<a href="https://etherium-dreams.lovable.app/" target="_blank" rel="noopener noreferrer">光怪陆离的梦</a></p>
+<h2>原理</h2>
+<p>本质上也就是定制了一个提示词作为解梦agent啦</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>美食地图</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">美食地图</source>
+      <description>美食地图 背景 706群里有一个飞书表格收集了大家去过的好吃的美食，包括店名、价格、特色、美食地址等。 刚好比较嫌就花了一天利用ai实现了一下，直接在 lovable 发布 最近进入了一个旅游群，发了一下不知道是否有人用 网址：美食地图 复盘 UI还是需要人设计 需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>背景</h2>
+<p>706群里有一个飞书表格收集了大家去过的好吃的美食，包括店名、价格、特色、美食地址等。</p>
+<p>刚好比较嫌就花了一天利用ai实现了一下，直接在 lovable 发布</p>
+<p>最近进入了一个旅游群，发了一下不知道是否有人用</p>
+<p>网址：<a href="https://lifemap706.lovable.app/" target="_blank" rel="noopener noreferrer">美食地图</a></p>
+<h2>复盘</h2>
+<ol>
+<li>UI还是需要人设计</li>
+<li>需要找愿意用的人再做，这个做出来一直没人用，挺浪费的</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>柯布教育网站</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E6%9F%AF%E5%B8%83%E6%95%99%E8%82%B2%E7%BD%91%E7%AB%99.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/%E6%9F%AF%E5%B8%83%E6%95%99%E8%82%B2%E7%BD%91%E7%AB%99.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">柯布教育网站</source>
+      <description>柯布教育网站 背景 柯布生态学院是一个国际教育组织，专注于推广其教育理念，提倡教育的目的不应只是服务人类，更要融合生态理念，实现人类的可持续发展。 从黄山打完黑客松回来以后，朋友推荐的一个活儿，因为是类似公益网站，没啥钱并且需要降低维护成本，本来打算用express的但是考虑到后面做品牌升级，加上还有个管理后台，可能要定制。 所以最后经过调研，用rea...</description>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>背景</h2>
+<p>柯布生态学院是一个国际教育组织，专注于推广其教育理念，提倡教育的目的不应只是服务人类，更要融合生态理念，实现人类的可持续发展。</p>
+<p>从黄山打完黑客松回来以后，朋友推荐的一个活儿，因为是类似公益网站，没啥钱并且需要降低维护成本，本来打算用express的但是考虑到后面做品牌升级，加上还有个管理后台，可能要定制。</p>
+<p>所以最后经过调研，用react框架结合supabase数据库实现了整个网站。然后通过vercel进行部署，实现了0成本部署，后续假设用户数量大迁移加钱也方便，并且也不算贵。</p>
+<p>网址：<a href="https://www.cobbecociv.academy/" target="_blank" rel="noopener noreferrer">柯布生态学院</a></p>
+<h2>复盘</h2>
+<ol>
+<li>项目从7月20多号开始拉群沟通，但是现在三个月了还没有结束，主要有三个原因：</li>
+</ol>
+<ul>
+<li>需求不明确，几乎一半时间都用来沟通网站真实需求了</li>
+<li>我个人时间有限，没办法一直持续沟通</li>
+<li>与甲方有时差，加上她也比较忙，每次对进度都要预约，比较麻烦</li>
+</ul>
+<ol start="2">
+<li>项目在启动前商议并签署项目协议很有必要</li>
+</ol>
+<ul>
+<li>
+<p>商议了一个项目包括项目<code>需求总结</code>、<code>技术选型</code>、<code>分阶段付款</code>和<code>各阶段计划交付时间</code>等，并且注明了因为<strong>甲方因素导致的延期可以协商处理，不扣钱</strong>。</p>
+</li>
+<li>
+<p>当下因为甲方那边付款资质问题导致网站支付功能受阻，所以我这边只能等，不过不用担责，还行。并且也拿到了2笔阶段款</p>
+</li>
+</ul>
+<ol start="3">
+<li>UI风格</li>
+</ol>
+<ul>
+<li>
+<p>找了打比赛认识的一个设计师，我自己掏了3000出来，但是用户似乎更喜欢传统的express的那种风格 😢</p>
+</li>
+<li>
+<p>此外对于年纪大一点的用户，后台管理用所见即所得的方式似乎更棒，用户理解起来也更方便。</p>
+</li>
+</ul>
+<ol start="4">
+<li>supabase 免费的版本有个缺点就是没过一段时间没人访问就会暂停数据库资源，其实这是好事，节省资源，只是正式上线可能需要升级到付费版本</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>单页应用SEO的优化方案</title>
+      <link>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</link>
+      <guid>https://github.com/robin-fc/robin-fc.github.io/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/SPA%E9%A1%B9%E7%9B%AESEO%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.html</guid>
+      <source url="https://github.com/robin-fc/robin-fc.github.io/rss.xml">单页应用SEO的优化方案</source>
+      <description>单页应用（SPA）实现SEO优化与搜索结果Sitelinks展示技术方案 单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。 一、SPA SEO优化...</description>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>单页应用（SPA）因其动态加载特性，在SEO上面临内容索引困难、页面结构不清晰等问题。本文基于动态渲染、结构化数据优化、URL设计等关键技术，结合实际案例，提供一套完整的SPA SEO优化方案，并探讨如何在搜索结果中触发Sitelinks（子链接）的展示。</p>
 ]]></content:encoded>
     </item>
   </channel>
