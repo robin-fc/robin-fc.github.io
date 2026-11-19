@@ -1,7 +1,7 @@
 ---
 article: false
 title: 技术
-icon: fa6-solid:book-open-reader
+icon: fa6-solid:code
 ---
 
 这里主要记录一些技术文章

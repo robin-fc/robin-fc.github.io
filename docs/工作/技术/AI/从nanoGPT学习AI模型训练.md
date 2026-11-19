@@ -2,7 +2,7 @@
 article: true
 title: 从 nanoGPT 学习 AI 模型训练
 date: 2026-07-10
-icon: fa6-solid:robot
+icon: fa6-solid:brain
 tag:
   - AI
   - LLM

@@ -4,15 +4,39 @@
   "description": "A project of vuepress-theme-hope",
   "license": "MIT",
   "type": "module",
+  "packageManager": "pnpm@10.34.9",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
+    "docs:copy-reading": "node scripts/copy-reading.mjs",
+    "test:blog-hmr": "node scripts/check-blog-hmr.mjs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:update-package": "pnpm dlx vp-update",
     "lint": "prettier --check .",
     "lint:fix": "prettier --check --write .",
     "lint:markdown": "markdownlint docs",
     "lint:markdown-fix": "markdownlint docs --fix"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ],
+    "overrides": {
+      "sockjs>uuid": "11.1.0",
+      "cheerio>encoding-sniffer": "1.0.2",
+      "vuepress-theme-hope>@vuepress/helper": "2.0.0-rc.80",
+      "vuepress-plugin-components>@vuepress/helper": "2.0.0-rc.79",
+      "vuepress-plugin-md-enhance>@vuepress/helper": "2.0.0-rc.79",
+      "vuepress-shared>@vuepress/helper": "2.0.0-rc.79"
+    },
+    "patchedDependencies": {
+      "vuepress-theme-hope@2.0.0-rc.73": "patches/vuepress-theme-hope@2.0.0-rc.73.patch",
+      "@vuepress/plugin-sass-palette@2.0.0-rc.80": "patches/@vuepress__plugin-sass-palette@2.0.0-rc.80.patch",
+      "@vuepress/plugin-blog@2.0.0-rc.80": "patches/@vuepress__plugin-blog@2.0.0-rc.80.patch"
+    }
   },
   "dependencies": {
     "@vuepress/bundler-webpack": "2.0.0-rc.20",
@@ -27,19 +51,13 @@
     "@vuepress/plugin-markdown-tab": "2.0.0-rc.85",
     "@vuepress/plugin-slimsearch": "2.0.0-rc.80",
     "@waline/client": "^3.5.5",
-    "cpx2": "^8.0.0",
-    "dashjs": "^4.7.4",
-    "hls.js": "^1.5.20",
-    "markdownlint-cli": "^0.42.0",
-    "mathjax-full": "^3.2.2",
-    "mermaid": "^10.9.0",
+    "markdownlint-cli": "~0.47.0",
+    "mermaid": "^11.2.0",
     "prettier": "^3.4.2",
+    "reveal.js": "^5.0.2",
     "sass-embedded": "^1.85.1",
     "sass-loader": "^16.0.5",
-    "vidstack": "^1.12.12",
     "vuepress": "2.0.0-rc.20",
-    "vuepress-plugin-md-enhance": "2.0.0-rc.74",
-    "vuepress-theme-hope": "2.0.0-rc.73",
-    "reveal.js": "^5.0.2"
+    "vuepress-theme-hope": "2.0.0-rc.73"
   }
 }

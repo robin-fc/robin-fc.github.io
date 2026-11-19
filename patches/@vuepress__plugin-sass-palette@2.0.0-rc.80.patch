@@ -1,0 +1,17 @@
+diff --git a/styles/helper.scss b/styles/helper.scss
+index f9a940a02864b5221373e39c8a4037b8c2c738ea..df247e39acfb78444728403d7fb50f8c0ded4478 100644
+--- a/styles/helper.scss
++++ b/styles/helper.scss
+@@ -66,7 +66,11 @@
+   $dark-color: map.get($color, 'dark');
+ 
+   @if $light-color and $dark-color {
+-    @return if($is-dark, $dark-color, $light-color);
++    @if $is-dark {
++      @return $dark-color;
++    }
++
++    @return $light-color;
+   }
+ 
+   @warn "Unexpected color: getting #{$color}";

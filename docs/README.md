@@ -2,7 +2,7 @@
 #博客首页设置：https://theme-hope.vuejs.press/zh/guide/blog/home.html
 home: true
 layout: BlogHome
-icon: fa6-solid:house-crack
+icon: fa6-solid:house
 title: 主页
 # heroImage: https://s1.imagehub.cc/images/2026/03/20/47c0eff2d458a06b28a4d1519b4573e5.png
 heroText: I'm FC

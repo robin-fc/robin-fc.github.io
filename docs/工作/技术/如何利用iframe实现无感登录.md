@@ -1,7 +1,7 @@
 ---
 article: true
 title: 技术
-icon: fa6-solid:book-open-reader
+icon: fa6-solid:key
 ---
 
 ## 如何利用iframe实现无感登录

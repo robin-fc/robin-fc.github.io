@@ -1,0 +1,27 @@
+diff --git a/lib/client/styles/_code.scss b/lib/client/styles/_code.scss
+index dc3c9c672493719489ec44f3ce086eff3cf4fa75..b19ecab3562f567e3b4dc7eab59d6f8c0824f31e 100644
+--- a/lib/client/styles/_code.scss
++++ b/lib/client/styles/_code.scss
+@@ -39,12 +39,20 @@ div[class*="language-"] {
+ }
+ 
+ @mixin code-vars($code-color, $code-bg-color) {
++  $saturation-adjustment: 10%;
++  $lightness-adjustment: -5%;
++
++  @if whiteness($code-bg-color) < 50% {
++    $saturation-adjustment: 5%;
++    $lightness-adjustment: 5%;
++  }
++
+   --code-c-text: #{$code-color};
+   --code-c-bg: #{$code-bg-color};
+   --code-c-highlight-bg: #{color.scale(
+       $code-bg-color,
+-      $saturation: if(whiteness($code-bg-color) < 50%, 5%, 10%),
+-      $lightness: if(whiteness($code-bg-color) < 50%, 5%, -5%)
++      $saturation: $saturation-adjustment,
++      $lightness: $lightness-adjustment
+     )};
+   --code-c-line-number: #{color.scale($code-color, $alpha: -33%)};
+ }

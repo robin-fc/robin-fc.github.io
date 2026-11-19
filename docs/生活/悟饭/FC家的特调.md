@@ -1,7 +1,7 @@
 ---
 article: false
 title: FC家的饮料
-icon: fa6-solid:star-of-life
+icon: fa6-solid:martini-glass-citrus
 ---
 
 ## 饮品名

@@ -1,7 +1,7 @@
 ---
 article: false
 title: FC家的菜谱
-icon: fa6-solid:star-of-life
+icon: fa6-solid:utensils
 ---
 
 ## 菜名

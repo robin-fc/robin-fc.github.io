@@ -2,7 +2,7 @@
 article: true
 title: 单页应用SEO的优化方案
 date: 2025-04-16
-icon: fa6-solid:star-of-life
+icon: fa6-solid:magnifying-glass-chart
 tag: 
   - SPA
   - SEO

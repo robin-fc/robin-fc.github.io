@@ -2,7 +2,7 @@
 article: true
 title: 埋点和 APM 的区别
 date: 2025-04-07
-icon: fa6-solid:star-of-life
+icon: fa6-solid:chart-line
 tag: 
   - 埋点
   - APM

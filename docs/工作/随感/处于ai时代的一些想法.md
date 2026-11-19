@@ -1,7 +1,7 @@
 ---
 article: true
 title: 处于ai时代的一些想法
-icon: fa6-solid:book-open-reader
+icon: fa6-solid:robot
 ---
 
 ## 背景（2026/4/20）

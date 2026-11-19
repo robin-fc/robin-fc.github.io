@@ -1,7 +1,7 @@
 ---
 article: false
 title: Hello, I'm FC
-icon: fa6-solid:book-open-reader
+icon: fa6-solid:user
 TagList: TagList
 Tag: Tag
 ---

@@ -1,7 +1,7 @@
 ---
 article: false
 title: 随感
-icon: fa6-solid:book-open-reader
+icon: fa6-solid:pen-nib
 ---
 
 这里主要记录一些随感

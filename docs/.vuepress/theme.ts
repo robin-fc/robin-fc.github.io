@@ -150,7 +150,7 @@ export default hopeTheme(
       */
       // 组件库
       components: {
-        components: ["Badge", "BiliBili", "VidStack"],
+        components: ["Badge", "BiliBili"],
       },
 
       // Algolia 全文搜索：需要自己设置爬虫并生成下方配置，如不会自己设置，启用下方本地搜索
@@ -197,5 +197,5 @@ export default hopeTheme(
     // 开发模式下是否启动热更新，显示所有更改并重新渲染
     hotReload: true,
   },
-  { custom: true }
+  { custom: true },
 );

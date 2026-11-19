@@ -1,6 +1,7 @@
 ---
 article: false
 title: 产品概述
+icon: fa6-solid:box-open
 ---
 
 - [产品学习路线图](./产品学习路线图.md)

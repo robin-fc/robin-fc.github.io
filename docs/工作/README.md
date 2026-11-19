@@ -1,7 +1,7 @@
 ---
 article: false
 title: 工作
-icon: fa6-solid:book-open-reader
+icon: fa6-solid:briefcase
 ---
 
 这里主要记录工作或者面试中，个人的一些思考

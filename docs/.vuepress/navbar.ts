@@ -4,16 +4,16 @@ import { navbar } from "vuepress-theme-hope";
 // https://fontawesome.com/search?m=free&o=r
 // 专题话题的路径需在尾部添加 /，否则有可能出现链接错误。比如下方「生活」中的 baby/
 export default navbar([
-  { text: "主页", icon: "fa6-solid:blog", link: "" },
+  { text: "主页", icon: "fa6-solid:house", link: "" },
   {
     text: "FC的世界",
-    icon: "fa6-solid:face-smile",
+    icon: "fa6-solid:user",
     link: "/profile.md",
   },
   {
     text: "学习",
     prefix: "/学习",
-    icon: "fa6-solid:calendar",
+    icon: "fa6-solid:graduation-cap",
     children: [
       {
         text: "产品",
@@ -35,7 +35,7 @@ export default navbar([
   },
   {
     text: "工作",
-    icon: "fa6-solid:pen",
+    icon: "fa6-solid:briefcase",
     link: "/工作/README.md",
     children: [
       {
@@ -54,12 +54,12 @@ export default navbar([
   },
   {
     text: "生活",
-    icon: "fa6-solid:strawberry",
+    icon: "fa6-solid:mug-hot",
     prefix: "/生活",
     children: [
       {
         text: "拾慧",
-        icon: "fa6-solid:grill-hot",
+        icon: "fa6-solid:lightbulb",
         prefix: "拾慧",
         children: [
           {
@@ -70,7 +70,7 @@ export default navbar([
       },
       {
         text: "悟饭",
-        icon: "fa6-solid:grill-hot",
+        icon: "fa6-solid:utensils",
         prefix: "悟饭",
         children: [
           {
@@ -83,13 +83,13 @@ export default navbar([
           },
           {
             text: "FC家的饮料",
-            link: "FC家的饮料.md",
+            link: "FC家的特调.md",
           },
         ],
       },
       {
         text: "经验",
-        icon: "fa6-solid:grill-hot",
+        icon: "fa6-solid:screwdriver-wrench",
         prefix: "经验",
         children: [
           {

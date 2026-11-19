@@ -1,7 +1,7 @@
 ---
 article: false
 title: 项目
-icon: fa6-solid:book-open-reader
+icon: fa6-solid:folder-open
 ---
 
 这里主要记录一些做过的项目
@@ -13,3 +13,4 @@ icon: fa6-solid:book-open-reader
 - [美食地图](./美食地图.md)
 - [光怪陆离的梦](./光怪陆离的梦.md)
 - [六爻算命](./六爻算命.md)
+- [兰心实验室](./兰心实验室.md)
