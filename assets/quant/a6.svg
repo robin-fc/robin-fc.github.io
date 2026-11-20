@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270" style="max-width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif">
+<rect width="480" height="270" fill="#fbfcfe"/>
+<text x="14" y="24" font-size="14" font-weight="700" fill="#1f2933">缺口 Gap</text>
+<line x1="78.0" y1="160.1" x2="78.0" y2="189.1" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="70.0" y="167.3" width="16.0" height="14.5" fill="#e23b3b"/>
+<line x1="148.0" y1="134.7" x2="148.0" y2="171.0" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="140.0" y="145.6" width="16.0" height="21.8" fill="#e23b3b"/>
+<line x1="218.0" y1="80.3" x2="218.0" y2="109.3" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="210.0" y="87.5" width="16.0" height="14.5" fill="#e23b3b"/>
+<line x1="288.0" y1="87.5" x2="288.0" y2="116.6" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="280.0" y="94.8" width="16.0" height="14.5" fill="#e23b3b"/>
+<line x1="358.0" y1="62.1" x2="358.0" y2="102.0" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="350.0" y="73.0" width="16.0" height="21.8" fill="#e23b3b"/>
+<rect x="207.0" y="109.3" width="24.0" height="25.4" fill="#fde9b7" fill-opacity="0.7" stroke="#d97706" stroke-width="1"/>
+<line x1="196.0" y1="123.8" x2="232.0" y2="123.8" stroke="#d97706" stroke-width="2"/>
+<polygon points="232.0,123.8 226.7,126.7 226.7,120.9" fill="#d97706"/>
+<text x="240" y="127.81395348837209" font-size="11" fill="#d97706" text-anchor="start">向上缺口</text>
+<text x="150" y="226" font-size="10" fill="#5b6b7b" text-anchor="middle">缺口 = 相邻两根 K 线之间没成交的价格带</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270" style="max-width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif">
+<rect width="480" height="270" fill="#fbfcfe"/>
+<text x="14" y="24" font-size="14" font-weight="700" fill="#1f2933">启明星 / 黄昏星</text>
+<line x1="78.0" y1="106.4" x2="78.0" y2="175.7" stroke="#2fae6a" stroke-width="1.4"/>
+<rect x="70.0" y="113.3" width="16.0" height="55.5" fill="#2fae6a"/>
+<line x1="130.0" y1="148.0" x2="130.0" y2="175.7" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="122.0" y="161.9" width="16.0" height="6.9" fill="#e23b3b"/>
+<line x1="182.0" y1="99.5" x2="182.0" y2="168.8" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="174.0" y="113.3" width="16.0" height="48.5" fill="#e23b3b"/>
+<text x="148.0" y="222" font-size="12" fill="#1f2933" text-anchor="middle">启明星 Morning Star</text>
+<line x1="318.0" y1="99.5" x2="318.0" y2="175.7" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="310.0" y="113.3" width="16.0" height="55.5" fill="#e23b3b"/>
+<line x1="370.0" y1="99.5" x2="370.0" y2="127.2" stroke="#2fae6a" stroke-width="1.4"/>
+<rect x="362.0" y="113.3" width="16.0" height="6.9" fill="#2fae6a"/>
+<line x1="422.0" y1="113.3" x2="422.0" y2="175.7" stroke="#2fae6a" stroke-width="1.4"/>
+<rect x="414.0" y="120.3" width="16.0" height="48.5" fill="#2fae6a"/>
+<text x="388.0" y="222" font-size="12" fill="#1f2933" text-anchor="middle">黄昏星 Evening Star</text>
+</svg>

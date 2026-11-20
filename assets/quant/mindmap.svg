@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 300" width="1120" height="300" style="max-width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif">
+<rect width="1120" height="300" fill="#fbfcfe"/>
+<text x="560.0" y="24" font-size="15" font-weight="700" fill="#1f2933" text-anchor="middle">量化学习课程总纲（思维导图）</text>
+<rect x="485.0" y="40" width="150" height="34" rx="8" fill="#1f2933"/>
+<text x="560.0" y="62" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">量化学习</text>
+<line x1="560.0" y1="74" x2="560.0" y2="96" stroke="#9aa5b1" stroke-width="1.5"/>
+<line x1="56.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="168.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="280.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="392.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="504.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="616.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="728.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="840.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="952.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="1064.0" y1="96" x2="560.0" y2="96" stroke="#c3ccd6" stroke-width="1"/>
+<line x1="56.0" y1="96" x2="56.0" y2="110" stroke="#e23b3b" stroke-width="1.6"/>
+<rect x="4.0" y="110" width="104" height="42" rx="8" fill="#e23b3b" fill-opacity="0.12" stroke="#e23b3b" stroke-width="1.5"/>
+<text x="56.0" y="128" font-size="12" font-weight="700" fill="#e23b3b" text-anchor="middle">A K线基础</text>
+<line x1="56.0" y1="152" x2="56.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="14.0" cy="164" r="2.6" fill="#e23b3b"/>
+<text x="22.0" y="168" font-size="11" fill="#47566b">单根K线</text>
+<line x1="56.0" y1="152" x2="56.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="14.0" cy="183" r="2.6" fill="#e23b3b"/>
+<text x="22.0" y="187" font-size="11" fill="#47566b">K线形态</text>
+<line x1="56.0" y1="152" x2="56.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="14.0" cy="202" r="2.6" fill="#e23b3b"/>
+<text x="22.0" y="206" font-size="11" fill="#47566b">支撑阻力</text>
+<line x1="56.0" y1="152" x2="56.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="14.0" cy="221" r="2.6" fill="#e23b3b"/>
+<text x="22.0" y="225" font-size="11" fill="#47566b">缺口</text>
+<line x1="56.0" y1="152" x2="56.0" y2="244" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="14.0" cy="240" r="2.6" fill="#e23b3b"/>
+<text x="22.0" y="244" font-size="11" fill="#47566b">量价关系</text>
+<line x1="168.0" y1="96" x2="168.0" y2="110" stroke="#1f6feb" stroke-width="1.6"/>
+<rect x="116.0" y="110" width="104" height="42" rx="8" fill="#1f6feb" fill-opacity="0.12" stroke="#1f6feb" stroke-width="1.5"/>
+<text x="168.0" y="128" font-size="12" font-weight="700" fill="#1f6feb" text-anchor="middle">B 均线</text>
+<line x1="168.0" y1="152" x2="168.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="126.0" cy="164" r="2.6" fill="#1f6feb"/>
+<text x="134.0" y="168" font-size="11" fill="#47566b">SMA / EMA</text>
+<line x1="168.0" y1="152" x2="168.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="126.0" cy="183" r="2.6" fill="#1f6feb"/>
+<text x="134.0" y="187" font-size="11" fill="#47566b">平滑均线</text>
+<line x1="168.0" y1="152" x2="168.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="126.0" cy="202" r="2.6" fill="#1f6feb"/>
+<text x="134.0" y="206" font-size="11" fill="#47566b">信号 / 排列</text>
+<line x1="168.0" y1="152" x2="168.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="126.0" cy="221" r="2.6" fill="#1f6feb"/>
+<text x="134.0" y="225" font-size="11" fill="#47566b">动态支撑阻力</text>
+<line x1="280.0" y1="96" x2="280.0" y2="110" stroke="#2fae6a" stroke-width="1.6"/>
+<rect x="228.0" y="110" width="104" height="42" rx="8" fill="#2fae6a" fill-opacity="0.12" stroke="#2fae6a" stroke-width="1.5"/>
+<text x="280.0" y="128" font-size="12" font-weight="700" fill="#2fae6a" text-anchor="middle">C 量能</text>
+<line x1="280.0" y1="152" x2="280.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="238.0" cy="164" r="2.6" fill="#2fae6a"/>
+<text x="246.0" y="168" font-size="11" fill="#47566b">放量缩量</text>
+<line x1="280.0" y1="152" x2="280.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="238.0" cy="183" r="2.6" fill="#2fae6a"/>
+<text x="246.0" y="187" font-size="11" fill="#47566b">量比 / VWAP</text>
+<line x1="280.0" y1="152" x2="280.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="238.0" cy="202" r="2.6" fill="#2fae6a"/>
+<text x="246.0" y="206" font-size="11" fill="#47566b">OBV / MFI</text>
+<line x1="280.0" y1="152" x2="280.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="238.0" cy="221" r="2.6" fill="#2fae6a"/>
+<text x="246.0" y="225" font-size="11" fill="#47566b">量能确认</text>
+<line x1="392.0" y1="96" x2="392.0" y2="110" stroke="#d97706" stroke-width="1.6"/>
+<rect x="340.0" y="110" width="104" height="42" rx="8" fill="#d97706" fill-opacity="0.12" stroke="#d97706" stroke-width="1.5"/>
+<text x="392.0" y="128" font-size="12" font-weight="700" fill="#d97706" text-anchor="middle">D 趋势指标</text>
+<line x1="392.0" y1="152" x2="392.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="350.0" cy="164" r="2.6" fill="#d97706"/>
+<text x="358.0" y="168" font-size="11" fill="#47566b">MACD</text>
+<line x1="392.0" y1="152" x2="392.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="350.0" cy="183" r="2.6" fill="#d97706"/>
+<text x="358.0" y="187" font-size="11" fill="#47566b">ADX</text>
+<line x1="392.0" y1="152" x2="392.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="350.0" cy="202" r="2.6" fill="#d97706"/>
+<text x="358.0" y="206" font-size="11" fill="#47566b">布林带 / ATR</text>
+<line x1="392.0" y1="152" x2="392.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="350.0" cy="221" r="2.6" fill="#d97706"/>
+<text x="358.0" y="225" font-size="11" fill="#47566b">Keltner / SAR</text>
+<line x1="392.0" y1="152" x2="392.0" y2="244" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="350.0" cy="240" r="2.6" fill="#d97706"/>
+<text x="358.0" y="244" font-size="11" fill="#47566b">Ichimoku</text>
+<line x1="504.0" y1="96" x2="504.0" y2="110" stroke="#7c3aed" stroke-width="1.6"/>
+<rect x="452.0" y="110" width="104" height="42" rx="8" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="504.0" y="128" font-size="12" font-weight="700" fill="#7c3aed" text-anchor="middle">E 震荡指标</text>
+<line x1="504.0" y1="152" x2="504.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="462.0" cy="164" r="2.6" fill="#7c3aed"/>
+<text x="470.0" y="168" font-size="11" fill="#47566b">RSI</text>
+<line x1="504.0" y1="152" x2="504.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="462.0" cy="183" r="2.6" fill="#7c3aed"/>
+<text x="470.0" y="187" font-size="11" fill="#47566b">KDJ</text>
+<line x1="504.0" y1="152" x2="504.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="462.0" cy="202" r="2.6" fill="#7c3aed"/>
+<text x="470.0" y="206" font-size="11" fill="#47566b">ROC / CCI</text>
+<line x1="504.0" y1="152" x2="504.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="462.0" cy="221" r="2.6" fill="#7c3aed"/>
+<text x="470.0" y="225" font-size="11" fill="#47566b">背离</text>
+<line x1="616.0" y1="96" x2="616.0" y2="110" stroke="#0891b2" stroke-width="1.6"/>
+<rect x="564.0" y="110" width="104" height="42" rx="8" fill="#0891b2" fill-opacity="0.12" stroke="#0891b2" stroke-width="1.5"/>
+<text x="616.0" y="128" font-size="12" font-weight="700" fill="#0891b2" text-anchor="middle">F 池子</text>
+<line x1="616.0" y1="152" x2="616.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="574.0" cy="164" r="2.6" fill="#0891b2"/>
+<text x="582.0" y="168" font-size="11" fill="#47566b">筹码分布</text>
+<line x1="616.0" y1="152" x2="616.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="574.0" cy="183" r="2.6" fill="#0891b2"/>
+<text x="582.0" y="187" font-size="11" fill="#47566b">流动性池</text>
+<line x1="616.0" y1="152" x2="616.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="574.0" cy="202" r="2.6" fill="#0891b2"/>
+<text x="582.0" y="206" font-size="11" fill="#47566b">订单流</text>
+<line x1="616.0" y1="152" x2="616.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="574.0" cy="221" r="2.6" fill="#0891b2"/>
+<text x="582.0" y="225" font-size="11" fill="#47566b">OI / 资金费率</text>
+<line x1="616.0" y1="152" x2="616.0" y2="244" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="574.0" cy="240" r="2.6" fill="#0891b2"/>
+<text x="582.0" y="244" font-size="11" fill="#47566b">链上</text>
+<line x1="728.0" y1="96" x2="728.0" y2="110" stroke="#db2777" stroke-width="1.6"/>
+<rect x="676.0" y="110" width="104" height="42" rx="8" fill="#db2777" fill-opacity="0.12" stroke="#db2777" stroke-width="1.5"/>
+<text x="728.0" y="128" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">G 组合策略</text>
+<line x1="728.0" y1="152" x2="728.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="686.0" cy="164" r="2.6" fill="#db2777"/>
+<text x="694.0" y="168" font-size="11" fill="#47566b">趋势 + 震荡</text>
+<line x1="728.0" y1="152" x2="728.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="686.0" cy="183" r="2.6" fill="#db2777"/>
+<text x="694.0" y="187" font-size="11" fill="#47566b">经典策略</text>
+<line x1="728.0" y1="152" x2="728.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="686.0" cy="202" r="2.6" fill="#db2777"/>
+<text x="694.0" y="206" font-size="11" fill="#47566b">信号冲突</text>
+<line x1="728.0" y1="152" x2="728.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="686.0" cy="221" r="2.6" fill="#db2777"/>
+<text x="694.0" y="225" font-size="11" fill="#47566b">止损 / 仓位</text>
+<line x1="840.0" y1="96" x2="840.0" y2="110" stroke="#b45309" stroke-width="1.6"/>
+<rect x="788.0" y="110" width="104" height="42" rx="8" fill="#b45309" fill-opacity="0.12" stroke="#b45309" stroke-width="1.5"/>
+<text x="840.0" y="128" font-size="12" font-weight="700" fill="#b45309" text-anchor="middle">H 统计稳健</text>
+<line x1="840.0" y1="152" x2="840.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="798.0" cy="164" r="2.6" fill="#b45309"/>
+<text x="806.0" y="168" font-size="11" fill="#47566b">过拟合</text>
+<line x1="840.0" y1="152" x2="840.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="798.0" cy="183" r="2.6" fill="#b45309"/>
+<text x="806.0" y="187" font-size="11" fill="#47566b">样本内外</text>
+<line x1="840.0" y1="152" x2="840.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="798.0" cy="202" r="2.6" fill="#b45309"/>
+<text x="806.0" y="206" font-size="11" fill="#47566b">交易成本</text>
+<line x1="840.0" y1="152" x2="840.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="798.0" cy="221" r="2.6" fill="#b45309"/>
+<text x="806.0" y="225" font-size="11" fill="#47566b">指标口径</text>
+<line x1="840.0" y1="152" x2="840.0" y2="244" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="798.0" cy="240" r="2.6" fill="#b45309"/>
+<text x="806.0" y="244" font-size="11" fill="#47566b">稳健性</text>
+<line x1="952.0" y1="96" x2="952.0" y2="110" stroke="#16a34a" stroke-width="1.6"/>
+<rect x="900.0" y="110" width="104" height="42" rx="8" fill="#16a34a" fill-opacity="0.12" stroke="#16a34a" stroke-width="1.5"/>
+<text x="952.0" y="128" font-size="12" font-weight="700" fill="#16a34a" text-anchor="middle">I 实盘复盘</text>
+<line x1="952.0" y1="152" x2="952.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="910.0" cy="164" r="2.6" fill="#16a34a"/>
+<text x="918.0" y="168" font-size="11" fill="#47566b">最小实验</text>
+<line x1="952.0" y1="152" x2="952.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="910.0" cy="183" r="2.6" fill="#16a34a"/>
+<text x="918.0" y="187" font-size="11" fill="#47566b">结果记录</text>
+<line x1="952.0" y1="152" x2="952.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="910.0" cy="202" r="2.6" fill="#16a34a"/>
+<text x="918.0" y="206" font-size="11" fill="#47566b">归因</text>
+<line x1="952.0" y1="152" x2="952.0" y2="225" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="910.0" cy="221" r="2.6" fill="#16a34a"/>
+<text x="918.0" y="225" font-size="11" fill="#47566b">小额风控</text>
+<line x1="1064.0" y1="96" x2="1064.0" y2="110" stroke="#2563eb" stroke-width="1.6"/>
+<rect x="1012.0" y="110" width="104" height="42" rx="8" fill="#2563eb" fill-opacity="0.12" stroke="#2563eb" stroke-width="1.5"/>
+<text x="1064.0" y="128" font-size="12" font-weight="700" fill="#2563eb" text-anchor="middle">J 预测形态</text>
+<line x1="1064.0" y1="152" x2="1064.0" y2="168" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="1022.0" cy="164" r="2.6" fill="#2563eb"/>
+<text x="1030.0" y="168" font-size="11" fill="#47566b">斐波那契</text>
+<line x1="1064.0" y1="152" x2="1064.0" y2="187" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="1022.0" cy="183" r="2.6" fill="#2563eb"/>
+<text x="1030.0" y="187" font-size="11" fill="#47566b">江恩</text>
+<line x1="1064.0" y1="152" x2="1064.0" y2="206" stroke="#c3ccd6" stroke-width="1"/>
+<circle cx="1022.0" cy="202" r="2.6" fill="#2563eb"/>
+<text x="1030.0" y="206" font-size="11" fill="#47566b">艾略特波浪</text>
+</svg>
