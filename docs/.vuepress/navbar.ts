@@ -31,6 +31,10 @@ export default navbar([
         text: "大前端",
         link: "/学习/大前端/README.md",
       },
+      {
+        text: "量化",
+        link: "/学习/量化/",
+      },
     ],
   },
   {

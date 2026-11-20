@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270" style="max-width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif">
+<rect width="480" height="270" fill="#fbfcfe"/>
+<text x="14" y="24" font-size="14" font-weight="700" fill="#1f2933">K 线组合形态</text>
+<line x1="28.0" y1="143.8" x2="28.0" y2="171.9" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="22.0" y="150.1" width="12.0" height="18.7" fill="#e23b3b"/>
+<line x1="68.0" y1="125.1" x2="68.0" y2="153.2" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="62.0" y="131.4" width="12.0" height="18.7" fill="#e23b3b"/>
+<line x1="108.0" y1="100.2" x2="108.0" y2="134.5" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="102.0" y="106.4" width="12.0" height="25.0" fill="#e23b3b"/>
+<line x1="18.0" y1="206.0" x2="146.0" y2="206.0" stroke="#9aa5b1" stroke-width="1"/>
+<text x="82.0" y="222" font-size="11" fill="#1f2933" text-anchor="middle">红三兵</text>
+<line x1="144.0" y1="72.1" x2="144.0" y2="100.2" stroke="#2fae6a" stroke-width="1.4"/>
+<rect x="138.0" y="75.2" width="12.0" height="18.7" fill="#2fae6a"/>
+<line x1="184.0" y1="87.7" x2="184.0" y2="118.9" stroke="#2fae6a" stroke-width="1.4"/>
+<rect x="178.0" y="93.9" width="12.0" height="18.7" fill="#2fae6a"/>
+<line x1="224.0" y1="106.4" x2="224.0" y2="137.6" stroke="#2fae6a" stroke-width="1.4"/>
+<rect x="218.0" y="112.6" width="12.0" height="18.7" fill="#2fae6a"/>
+<line x1="134.0" y1="206.0" x2="262.0" y2="206.0" stroke="#9aa5b1" stroke-width="1"/>
+<text x="198.0" y="222" font-size="11" fill="#1f2933" text-anchor="middle">三只乌鸦</text>
+<line x1="260.0" y1="122.0" x2="260.0" y2="159.4" stroke="#2fae6a" stroke-width="1.4"/>
+<rect x="254.0" y="125.1" width="12.0" height="31.2" fill="#2fae6a"/>
+<line x1="300.0" y1="128.2" x2="300.0" y2="165.7" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="294.0" y="134.5" width="12.0" height="25.0" fill="#e23b3b"/>
+<line x1="250.0" y1="206.0" x2="338.0" y2="206.0" stroke="#9aa5b1" stroke-width="1"/>
+<text x="294.0" y="222" font-size="11" fill="#1f2933" text-anchor="middle">刺透 Piercing</text>
+<line x1="376.0" y1="93.9" x2="376.0" y2="140.7" stroke="#e23b3b" stroke-width="1.4"/>
+<rect x="370.0" y="100.2" width="12.0" height="37.4" fill="#e23b3b"/>
+<line x1="416.0" y1="90.8" x2="416.0" y2="125.1" stroke="#2fae6a" stroke-width="1.4"/>
+<rect x="410.0" y="97.0" width="12.0" height="25.0" fill="#2fae6a"/>
+<line x1="366.0" y1="206.0" x2="454.0" y2="206.0" stroke="#9aa5b1" stroke-width="1"/>
+<text x="410.0" y="222" font-size="11" fill="#1f2933" text-anchor="middle">乌云盖顶</text>
+</svg>
