@@ -1,0 +1,21 @@
+{
+  "generator": "Built-in image_gen",
+  "images": [
+    {
+      "file": "mushroom-pork.png",
+      "prompt": "Use case: illustration-story\nAsset type: Chinese family recipe Markdown food illustration, one dish per image.\nPrimary request: 口蘑炒肉：白色口蘑切片与薄猪肉片炒制，蘑菇浅棕色，肉片嫩滑，少量鲜亮褐色汤汁，家常白色陶盘盛装。\nStyle/medium: refined hand-painted watercolor and gouache cookbook illustration, recognizable appetizing ingredients, soft natural shading, subtle paper texture.\nComposition/framing: square composition, three-quarter overhead view, single complete dish centered with generous margins, consistent ivory background and simple white/cream ceramics across the series.\nLighting/mood: warm daylight, calm welcoming home kitchen feeling.\nConstraints: no text, no letters, no numbers, no watermark, no hands, no additional dishes, no decorative raw ingredients outside the plate. Not a collage."
+    },
+    {
+      "file": "mushroom-noodle-soup.png",
+      "prompt": "Use case: illustration-story\nAsset type: Chinese family recipe Markdown food illustration, one dish per image.\nPrimary request: 蘑菇青菜鲜汤面：深陶碗装清澈鲜汤与细面条，口蘑切片、薄猪肉片、鲜绿上海青，少量葱花，食材分明。\nStyle/medium: refined hand-painted watercolor and gouache cookbook illustration, recognizable appetizing ingredients, soft natural shading, subtle paper texture.\nComposition/framing: square composition, three-quarter overhead view, single complete dish centered with generous margins, consistent ivory background and simple white/cream ceramics across the series.\nLighting/mood: warm daylight, calm welcoming home kitchen feeling.\nConstraints: no text, no letters, no numbers, no watermark, no hands, no additional dishes, no decorative raw ingredients outside the plate. Not a collage."
+    },
+    {
+      "file": "braised-fish.png",
+      "prompt": "Use case: illustration-story\nAsset type: Chinese family recipe Markdown food illustration, one dish per image.\nPrimary request: 红烧鱼：长椭圆陶盘中三条完整小鲫鱼，鱼皮焦黄，浓郁红褐色酱汁，青红椒段、姜蒜与少量香菜点缀，三条鱼均可辨识。\nStyle/medium: refined hand-painted watercolor and gouache cookbook illustration, recognizable appetizing ingredients, soft natural shading, subtle paper texture.\nComposition/framing: square composition, three-quarter overhead view, single complete dish centered with generous margins, consistent ivory background and simple white/cream ceramics across the series.\nLighting/mood: warm daylight, calm welcoming home kitchen feeling.\nConstraints: no text, no letters, no numbers, no watermark, no hands, no additional dishes, no decorative raw ingredients outside the plate. Not a collage."
+    },
+    {
+      "file": "tomato-beef-stew.png",
+      "prompt": "Use case: illustration-story\nAsset type: Chinese family recipe Markdown food illustration, one dish per image.\nPrimary request: 番茄土豆胡萝卜炖牛肋条：浅陶碗中红润番茄炖汤，明显的大块牛肋条肉、金黄土豆块、少量橙色胡萝卜，柔软番茄块，丰盛温暖。\nStyle/medium: refined hand-painted watercolor and gouache cookbook illustration, recognizable appetizing ingredients, soft natural shading, subtle paper texture.\nComposition/framing: square composition, three-quarter overhead view, single complete dish centered with generous margins, consistent ivory background and simple white/cream ceramics across the series.\nLighting/mood: warm daylight, calm welcoming home kitchen feeling.\nConstraints: no text, no letters, no numbers, no watermark, no hands, no additional dishes, no decorative raw ingredients outside the plate. Not a collage."
+    }
+  ]
+}
